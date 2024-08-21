@@ -9,7 +9,7 @@ indexName = 'compounds'
 
 es = Elasticsearch(
     "https://localhost:9200",
-    basic_auth=("elastic", "PRIVATE KEY"),
+    basic_auth=("elastic", "*nLVGSfCz+3jr1OsIVeA"),
     ca_certs="/Users/judepops/Documents/PathIntegrate/Code/Processing/semantic_search/elasticsearch-8.13.2/config/certs/http_ca.crt"
 )
 
@@ -29,6 +29,7 @@ def add_bg_from_local():
     bg_image = get_base64_of_file('graphene.png')
     st.markdown(f"""
     <style>
+    /* Full Page Background */
     body {{
         background-image: url("data:image/jpg;base64,{bg_image}");
         background-size: cover;
@@ -38,6 +39,7 @@ def add_bg_from_local():
         margin: 0 !important;
         padding: 0 !important;
     }}
+    /* Streamlit Container Adjustment */
     .stApp {{
         background-color: transparent;
     }}
@@ -72,16 +74,16 @@ def main():
     .main-title {{
         font-size:50px;
         font-weight:bold;
-        color: #2e6e9e; 
+        color: #2e6e9e;  /* Main title color */
     }}
     .yellow-title {{
         font-size:35px;
         font-weight:bold;
-        color: #dad234;  
+        color: #dad234;  /* CSS color for yellow */
     }}
     .citation {{
-        font-style: italic;  
-        margin-top: 5px;  
+        font-style: italic;  /* Italicize the citation */
+        margin-top: 5px;  /* Space between the image and the citation */
     }}
     </style>
     """, unsafe_allow_html=True)
