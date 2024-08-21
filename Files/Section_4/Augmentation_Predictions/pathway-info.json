@@ -1,0 +1,738 @@
+{
+  "00010  Glycolysis / Gluconeogenesis": {
+    "mean_mcc": 0.7521514556232698,
+    "size": 43
+  },
+  "00020  Citrate cycle (TCA cycle)": {
+    "mean_mcc": 0.7736618071841687,
+    "size": 42
+  },
+  "00030  Pentose phosphate pathway": {
+    "mean_mcc": 0.5801059320016231,
+    "size": 65
+  },
+  "00040  Pentose and glucuronate interconversions": {
+    "mean_mcc": 0.5896851476187487,
+    "size": 69
+  },
+  "00051  Fructose and mannose metabolism": {
+    "mean_mcc": 0.5425171605375683,
+    "size": 71
+  },
+  "00052  Galactose metabolism": {
+    "mean_mcc": 0.578369297572232,
+    "size": 64
+  },
+  "00053  Ascorbate and aldarate metabolism": {
+    "mean_mcc": 0.5480372306228637,
+    "size": 71
+  },
+  "00061  Fatty acid biosynthesis": {
+    "mean_mcc": 0.5857307522987999,
+    "size": 23
+  },
+  "00062  Fatty acid elongation": {
+    "mean_mcc": 0.6824945492484339,
+    "size": 39
+  },
+  "00071  Fatty acid degradation": {
+    "mean_mcc": 0.6439211962872025,
+    "size": 51
+  },
+  "00073  Cutin, suberine and wax biosynthesis": {
+    "mean_mcc": 0.6142145231530842,
+    "size": 23
+  },
+  "00100  Steroid biosynthesis": {
+    "mean_mcc": 0.8438381240718751,
+    "size": 68
+  },
+  "00120  Primary bile acid biosynthesis": {
+    "mean_mcc": 0.8489302256003489,
+    "size": 55
+  },
+  "00121  Secondary bile acid biosynthesis": {
+    "mean_mcc": 0.8496184733002622,
+    "size": 36
+  },
+  "00130  Ubiquinone and other terpenoid-quinone biosynthesis": {
+    "mean_mcc": 0.7202567520407568,
+    "size": 91
+  },
+  "00140  Steroid hormone biosynthesis": {
+    "mean_mcc": 0.8985746926606162,
+    "size": 108
+  },
+  "00190  Oxidative phosphorylation": {
+    "mean_mcc": 0.5561799510943538,
+    "size": 14
+  },
+  "00195  Photosynthesis": {
+    "mean_mcc": 0.5687909308210513,
+    "size": 6
+  },
+  "00220  Arginine biosynthesis": {
+    "mean_mcc": 0.7568809031535637,
+    "size": 29
+  },
+  "00230  Purine metabolism": {
+    "mean_mcc": 0.8532967940978587,
+    "size": 121
+  },
+  "00232  Caffeine metabolism": {
+    "mean_mcc": 0.8541798746855699,
+    "size": 28
+  },
+  "00240  Pyrimidine metabolism": {
+    "mean_mcc": 0.8113729465430264,
+    "size": 90
+  },
+  "00250  Alanine, aspartate and glutamate metabolism": {
+    "mean_mcc": 0.6216987663625865,
+    "size": 51
+  },
+  "00253  Tetracycline biosynthesis": {
+    "mean_mcc": 0.7919846416467212,
+    "size": 46
+  },
+  "00254  Aflatoxin biosynthesis": {
+    "mean_mcc": 0.9055626098952723,
+    "size": 36
+  },
+  "00260  Glycine, serine and threonine metabolism": {
+    "mean_mcc": 0.632184821848565,
+    "size": 60
+  },
+  "00261  Monobactam biosynthesis": {
+    "mean_mcc": 0.7165231174376001,
+    "size": 49
+  },
+  "00270  Cysteine and methionine metabolism": {
+    "mean_mcc": 0.6882694148003659,
+    "size": 96
+  },
+  "00280  Valine, leucine and isoleucine degradation": {
+    "mean_mcc": 0.6458800086230886,
+    "size": 52
+  },
+  "00290  Valine, leucine and isoleucine biosynthesis": {
+    "mean_mcc": 0.7687005955828103,
+    "size": 29
+  },
+  "00300  Lysine biosynthesis": {
+    "mean_mcc": 0.675042799256142,
+    "size": 55
+  },
+  "00310  Lysine degradation": {
+    "mean_mcc": 0.6013072452787593,
+    "size": 70
+  },
+  "00311  Penicillin and cephalosporin biosynthesis": {
+    "mean_mcc": 0.7169593911073643,
+    "size": 31
+  },
+  "00330  Arginine and proline metabolism": {
+    "mean_mcc": 0.624971876536468,
+    "size": 77
+  },
+  "00331  Clavulanic acid biosynthesis": {
+    "mean_mcc": 0.5018821415057869,
+    "size": 17
+  },
+  "00332  Carbapenem biosynthesis": {
+    "mean_mcc": 0.7562328936259142,
+    "size": 45
+  },
+  "00333  Prodigiosin biosynthesis": {
+    "mean_mcc": 0.7242515796302217,
+    "size": 29
+  },
+  "00340  Histidine metabolism": {
+    "mean_mcc": 0.7109610395634374,
+    "size": 61
+  },
+  "00350  Tyrosine metabolism": {
+    "mean_mcc": 0.7132958932262355,
+    "size": 95
+  },
+  "00360  Phenylalanine metabolism": {
+    "mean_mcc": 0.5784794345723245,
+    "size": 61
+  },
+  "00361  Chlorocyclohexane and chlorobenzene degradation": {
+    "mean_mcc": 0.784074944506343,
+    "size": 91
+  },
+  "00362  Benzoate degradation": {
+    "mean_mcc": 0.6105447143364771,
+    "size": 97
+  },
+  "00363  Bisphenol degradation": {
+    "mean_mcc": 0.869213773716127,
+    "size": 29
+  },
+  "00364  Fluorobenzoate degradation": {
+    "mean_mcc": 0.7277840822453637,
+    "size": 40
+  },
+  "00365  Furfural degradation": {
+    "mean_mcc": 0.6696526147960385,
+    "size": 16
+  },
+  "00380  Tryptophan metabolism": {
+    "mean_mcc": 0.7957896057720778,
+    "size": 109
+  },
+  "00400  Phenylalanine, tyrosine and tryptophan biosynthesis": {
+    "mean_mcc": 0.6432877086056763,
+    "size": 56
+  },
+  "00401  Novobiocin biosynthesis": {
+    "mean_mcc": 0.7470854287503794,
+    "size": 37
+  },
+  "00402  Benzoxazinoid biosynthesis": {
+    "mean_mcc": 0.7176017065480428,
+    "size": 16
+  },
+  "00403  Indole diterpene alkaloid biosynthesis": {
+    "mean_mcc": 0.8302009318289574,
+    "size": 38
+  },
+  "00404  Staurosporine biosynthesis": {
+    "mean_mcc": 0.8191649844663784,
+    "size": 64
+  },
+  "00405  Phenazine biosynthesis": {
+    "mean_mcc": 0.6381257912091947,
+    "size": 41
+  },
+  "00410  beta-Alanine metabolism": {
+    "mean_mcc": 0.7087123261934692,
+    "size": 45
+  },
+  "00430  Taurine and hypotaurine metabolism": {
+    "mean_mcc": 0.7607651217055731,
+    "size": 30
+  },
+  "00440  Phosphonate and phosphinate metabolism": {
+    "mean_mcc": 0.7966198293069848,
+    "size": 68
+  },
+  "00450  Selenocompound metabolism": {
+    "mean_mcc": 0.6830059208336805,
+    "size": 31
+  },
+  "00460  Cyanoamino acid metabolism": {
+    "mean_mcc": 0.6116918933903411,
+    "size": 50
+  },
+  "00470  D-Amino acid metabolism": {
+    "mean_mcc": 0.6598403086147241,
+    "size": 79
+  },
+  "00480  Glutathione metabolism": {
+    "mean_mcc": 0.5799322025862936,
+    "size": 53
+  },
+  "00500  Starch and sucrose metabolism": {
+    "mean_mcc": 0.6392912010311815,
+    "size": 54
+  },
+  "00510  N-Glycan biosynthesis": {
+    "mean_mcc": 0.7291468418447761,
+    "size": 26
+  },
+  "00512  Mucin type O-glycan biosynthesis": {
+    "mean_mcc": -0.00027401531865905315,
+    "size": 3
+  },
+  "00513  Various types of N-glycan biosynthesis": {
+    "mean_mcc": 0.027205888688917757,
+    "size": 4
+  },
+  "00514  Other types of O-glycan biosynthesis": {
+    "mean_mcc": 0.4525634034550173,
+    "size": 6
+  },
+  "00515  Mannose type O-glycan biosynthesis": {
+    "mean_mcc": 0.39863663629348106,
+    "size": 6
+  },
+  "00520  Amino sugar and nucleotide sugar metabolism": {
+    "mean_mcc": 0.7401919779086578,
+    "size": 137
+  },
+  "00521  Streptomycin biosynthesis": {
+    "mean_mcc": 0.7195865469126921,
+    "size": 39
+  },
+  "00522  Biosynthesis of 12-, 14- and 16-membered macrolides": {
+    "mean_mcc": 0.8777338297470095,
+    "size": 95
+  },
+  "00523  Polyketide sugar unit biosynthesis": {
+    "mean_mcc": 0.8319233194762347,
+    "size": 73
+  },
+  "00524  Neomycin, kanamycin and gentamicin biosynthesis": {
+    "mean_mcc": 0.8811058059278496,
+    "size": 103
+  },
+  "00525  Acarbose and validamycin biosynthesis": {
+    "mean_mcc": 0.8125023355285471,
+    "size": 52
+  },
+  "00531  Glycosaminoglycan degradation": {
+    "mean_mcc": 0.1117813630720042,
+    "size": 13
+  },
+  "00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate": {
+    "mean_mcc": 0.6764558122534925,
+    "size": 4
+  },
+  "00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin": {
+    "mean_mcc": 0.49601170570954106,
+    "size": 2
+  },
+  "00540  Lipopolysaccharide biosynthesis": {
+    "mean_mcc": 0.7119255155083731,
+    "size": 71
+  },
+  "00541  O-Antigen nucleotide sugar biosynthesis": {
+    "mean_mcc": 0.8140831474534966,
+    "size": 110
+  },
+  "00550  Peptidoglycan biosynthesis": {
+    "mean_mcc": 0.7096009771486461,
+    "size": 41
+  },
+  "00552  Teichoic acid biosynthesis": {
+    "mean_mcc": 0.6129455314284875,
+    "size": 40
+  },
+  "00561  Glycerolipid metabolism": {
+    "mean_mcc": 0.7288252640151514,
+    "size": 50
+  },
+  "00562  Inositol phosphate metabolism": {
+    "mean_mcc": 0.7590277931409684,
+    "size": 59
+  },
+  "00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis": {
+    "mean_mcc": 0.2623363639353414,
+    "size": 10
+  },
+  "00564  Glycerophospholipid metabolism": {
+    "mean_mcc": 0.8329444010426627,
+    "size": 76
+  },
+  "00565  Ether lipid metabolism": {
+    "mean_mcc": 0.6583909820237229,
+    "size": 45
+  },
+  "00571  Lipoarabinomannan (LAM) biosynthesis": {
+    "mean_mcc": 0.4353021170675019,
+    "size": 10
+  },
+  "00572  Arabinogalactan biosynthesis - Mycobacterium": {
+    "mean_mcc": 0.2429860220833519,
+    "size": 9
+  },
+  "00590  Arachidonic acid metabolism": {
+    "mean_mcc": 0.9020556642167383,
+    "size": 85
+  },
+  "00591  Linoleic acid metabolism": {
+    "mean_mcc": 0.6694539415743326,
+    "size": 30
+  },
+  "00592  alpha-Linolenic acid metabolism": {
+    "mean_mcc": 0.8213088985460713,
+    "size": 62
+  },
+  "00600  Sphingolipid metabolism": {
+    "mean_mcc": 0.7081600596698008,
+    "size": 56
+  },
+  "00601  Glycosphingolipid biosynthesis - lacto and neolacto series": {
+    "mean_mcc": 0.9355472092944744,
+    "size": 26
+  },
+  "00603  Glycosphingolipid biosynthesis - globo and isoglobo series": {
+    "mean_mcc": 0.8199876238303618,
+    "size": 11
+  },
+  "00604  Glycosphingolipid biosynthesis - ganglio series": {
+    "mean_mcc": 0.8008036639157519,
+    "size": 16
+  },
+  "00620  Pyruvate metabolism": {
+    "mean_mcc": 0.6833139881448819,
+    "size": 51
+  },
+  "00621  Dioxin degradation": {
+    "mean_mcc": 0.8371759600896708,
+    "size": 69
+  },
+  "00622  Xylene degradation": {
+    "mean_mcc": 0.7119955738202289,
+    "size": 46
+  },
+  "00623  Toluene degradation": {
+    "mean_mcc": 0.4611271845303234,
+    "size": 56
+  },
+  "00624  Polycyclic aromatic hydrocarbon degradation": {
+    "mean_mcc": 0.7537280966208091,
+    "size": 121
+  },
+  "00625  Chloroalkane and chloroalkene degradation": {
+    "mean_mcc": 0.6468011531234286,
+    "size": 11
+  },
+  "00626  Naphthalene degradation": {
+    "mean_mcc": 0.6357825704670688,
+    "size": 69
+  },
+  "00627  Aminobenzoate degradation": {
+    "mean_mcc": 0.6457810046377094,
+    "size": 106
+  },
+  "00630  Glyoxylate and dicarboxylate metabolism": {
+    "mean_mcc": 0.6352256427893337,
+    "size": 78
+  },
+  "00633  Nitrotoluene degradation": {
+    "mean_mcc": 0.8075168569911565,
+    "size": 33
+  },
+  "00640  Propanoate metabolism": {
+    "mean_mcc": 0.5275516914956925,
+    "size": 41
+  },
+  "00642  Ethylbenzene degradation": {
+    "mean_mcc": 0.4856692068933754,
+    "size": 20
+  },
+  "00643  Styrene degradation": {
+    "mean_mcc": 0.5442834314614207,
+    "size": 27
+  },
+  "00650  Butanoate metabolism": {
+    "mean_mcc": 0.6337107369408946,
+    "size": 43
+  },
+  "00660  C5-Branched dibasic acid metabolism": {
+    "mean_mcc": 0.5609187135182546,
+    "size": 40
+  },
+  "00670  One carbon pool by folate": {
+    "mean_mcc": 0.5127876754159667,
+    "size": 42
+  },
+  "00680  Methane metabolism": {
+    "mean_mcc": 0.7533470795904141,
+    "size": 102
+  },
+  "00710  Carbon fixation in photosynthetic organisms": {
+    "mean_mcc": 0.6911517217454611,
+    "size": 30
+  },
+  "00720  Carbon fixation pathways in prokaryotes": {
+    "mean_mcc": 0.7372234377314736,
+    "size": 48
+  },
+  "00730  Thiamine metabolism": {
+    "mean_mcc": 0.6351616397377489,
+    "size": 34
+  },
+  "00740  Riboflavin metabolism": {
+    "mean_mcc": 0.6430606851335267,
+    "size": 36
+  },
+  "00750  Vitamin B6 metabolism": {
+    "mean_mcc": 0.68878962694997,
+    "size": 42
+  },
+  "00760  Nicotinate and nicotinamide metabolism": {
+    "mean_mcc": 0.7566014310904928,
+    "size": 77
+  },
+  "00770  Pantothenate and CoA biosynthesis": {
+    "mean_mcc": 0.8125071653405426,
+    "size": 53
+  },
+  "00780  Biotin metabolism": {
+    "mean_mcc": 0.6510390615787086,
+    "size": 29
+  },
+  "00785  Lipoic acid metabolism": {
+    "mean_mcc": 0.6104343767640308,
+    "size": 41
+  },
+  "00790  Folate biosynthesis": {
+    "mean_mcc": 0.7820022413017526,
+    "size": 81
+  },
+  "00791  Atrazine degradation": {
+    "mean_mcc": 0.8879918741580395,
+    "size": 22
+  },
+  "00830  Retinol metabolism": {
+    "mean_mcc": 0.6565859869886411,
+    "size": 33
+  },
+  "00860  Porphyrin metabolism": {
+    "mean_mcc": 0.7786835720932576,
+    "size": 161
+  },
+  "00900  Terpenoid backbone biosynthesis": {
+    "mean_mcc": 0.6983224177776772,
+    "size": 58
+  },
+  "00901  Indole alkaloid biosynthesis": {
+    "mean_mcc": 0.8787511753723068,
+    "size": 96
+  },
+  "00902  Monoterpenoid biosynthesis": {
+    "mean_mcc": 0.5985305822686892,
+    "size": 70
+  },
+  "00903  Limonene degradation": {
+    "mean_mcc": 0.8168080310251449,
+    "size": 56
+  },
+  "00904  Diterpenoid biosynthesis": {
+    "mean_mcc": 0.8595465627286347,
+    "size": 135
+  },
+  "00905  Brassinosteroid biosynthesis": {
+    "mean_mcc": 0.9358212201321066,
+    "size": 33
+  },
+  "00906  Carotenoid biosynthesis": {
+    "mean_mcc": 0.8970744191367722,
+    "size": 142
+  },
+  "00907  Pinene, camphor and geraniol degradation": {
+    "mean_mcc": 0.7458763981009229,
+    "size": 65
+  },
+  "00908  Zeatin biosynthesis": {
+    "mean_mcc": 0.7921510901356947,
+    "size": 38
+  },
+  "00909  Sesquiterpenoid and triterpenoid biosynthesis": {
+    "mean_mcc": 0.6272931720065454,
+    "size": 92
+  },
+  "00910  Nitrogen metabolism": {
+    "mean_mcc": 0.6766126048746799,
+    "size": 15
+  },
+  "00920  Sulfur metabolism": {
+    "mean_mcc": 0.6747486742538954,
+    "size": 52
+  },
+  "00930  Caprolactam degradation": {
+    "mean_mcc": 0.5605678597768909,
+    "size": 35
+  },
+  "00940  Phenylpropanoid biosynthesis": {
+    "mean_mcc": 0.7649315369779429,
+    "size": 74
+  },
+  "00941  Flavonoid biosynthesis": {
+    "mean_mcc": 0.7736911928778958,
+    "size": 92
+  },
+  "00942  Anthocyanin biosynthesis": {
+    "mean_mcc": 0.8521201133396057,
+    "size": 79
+  },
+  "00943  Isoflavonoid biosynthesis": {
+    "mean_mcc": 0.8394004082119713,
+    "size": 76
+  },
+  "00944  Flavone and flavonol biosynthesis": {
+    "mean_mcc": 0.8267688659404894,
+    "size": 66
+  },
+  "00945  Stilbenoid, diarylheptanoid and gingerol biosynthesis": {
+    "mean_mcc": 0.75979790751362,
+    "size": 34
+  },
+  "00946  Degradation of flavonoids": {
+    "mean_mcc": 0.48029316462370525,
+    "size": 47
+  },
+  "00950  Isoquinoline alkaloid biosynthesis": {
+    "mean_mcc": 0.9095550637821423,
+    "size": 144
+  },
+  "00960  Tropane, piperidine and pyridine alkaloid biosynthesis": {
+    "mean_mcc": 0.793513754160815,
+    "size": 91
+  },
+  "00965  Betalain biosynthesis": {
+    "mean_mcc": 0.70684621101882,
+    "size": 32
+  },
+  "00966  Glucosinolate biosynthesis": {
+    "mean_mcc": 0.8882234493070086,
+    "size": 89
+  },
+  "00980  Metabolism of xenobiotics by cytochrome P450": {
+    "mean_mcc": 0.8206921470458935,
+    "size": 115
+  },
+  "00981  Insect hormone biosynthesis": {
+    "mean_mcc": 0.770038639507383,
+    "size": 33
+  },
+  "00982  Drug metabolism - cytochrome P450": {
+    "mean_mcc": 0.9115830208550639,
+    "size": 94
+  },
+  "00983  Drug metabolism - other enzymes": {
+    "mean_mcc": 0.832535891433835,
+    "size": 74
+  },
+  "00984  Steroid degradation": {
+    "mean_mcc": 0.780509722686123,
+    "size": 29
+  },
+  "00996  Biosynthesis of various alkaloids": {
+    "mean_mcc": 0.6769750135188247,
+    "size": 89
+  },
+  "00997  Biosynthesis of various other secondary metabolites": {
+    "mean_mcc": 0.620256681819166,
+    "size": 82
+  },
+  "00998  Biosynthesis of various antibiotics": {
+    "mean_mcc": 0.7469649931826777,
+    "size": 126
+  },
+  "00999  Biosynthesis of various plant secondary metabolites": {
+    "mean_mcc": 0.7524500635441917,
+    "size": 174
+  },
+  "01040  Biosynthesis of unsaturated fatty acids": {
+    "mean_mcc": 0.7931406916340186,
+    "size": 80
+  },
+  "01051  Biosynthesis of ansamycins": {
+    "mean_mcc": 0.7428984261088514,
+    "size": 48
+  },
+  "01052  Type I polyketide structures": {
+    "mean_mcc": 0.42387899618925257,
+    "size": 25
+  },
+  "01053  Biosynthesis of siderophore group nonribosomal peptides": {
+    "mean_mcc": 0.6271569045656967,
+    "size": 29
+  },
+  "01054  Nonribosomal peptide structures": {
+    "mean_mcc": 0.6934693151337763,
+    "size": 14
+  },
+  "01055  Biosynthesis of vancomycin group antibiotics": {
+    "mean_mcc": 0.4828061733893562,
+    "size": 26
+  },
+  "01056  Biosynthesis of type II polyketide backbone": {
+    "mean_mcc": 0.8639344763724761,
+    "size": 30
+  },
+  "01057  Biosynthesis of type II polyketide products": {
+    "mean_mcc": 0.9271790666316453,
+    "size": 160
+  },
+  "01059  Biosynthesis of enediyne antibiotics": {
+    "mean_mcc": 0.7364613478070241,
+    "size": 73
+  },
+  "01060  Biosynthesis of plant secondary metabolites": {
+    "mean_mcc": 0.576574875334981,
+    "size": 134
+  },
+  "01061  Biosynthesis of phenylpropanoids": {
+    "mean_mcc": 0.5836969274582293,
+    "size": 105
+  },
+  "01062  Biosynthesis of terpenoids and steroids": {
+    "mean_mcc": 0.5477297998792722,
+    "size": 96
+  },
+  "01063  Biosynthesis of alkaloids derived from shikimate pathway": {
+    "mean_mcc": 0.7421287384147676,
+    "size": 142
+  },
+  "01064  Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid": {
+    "mean_mcc": 0.7425623581569066,
+    "size": 63
+  },
+  "01065  Biosynthesis of alkaloids derived from histidine and purine": {
+    "mean_mcc": 0.7307892738408577,
+    "size": 34
+  },
+  "01066  Biosynthesis of alkaloids derived from terpenoid and polyketide": {
+    "mean_mcc": 0.5083709282611362,
+    "size": 47
+  },
+  "01070  Biosynthesis of plant hormones": {
+    "mean_mcc": 0.46495064652427176,
+    "size": 66
+  },
+  "Amino acid metabolism": {
+    "mean_mcc": 0.8409598893071336,
+    "size": 611
+  },
+  "Biosynthesis of other secondary metabolites": {
+    "mean_mcc": 0.9081988788786455,
+    "size": 1486
+  },
+  "Carbohydrate metabolism": {
+    "mean_mcc": 0.8902161978132909,
+    "size": 514
+  },
+  "Chemical structure transformation maps": {
+    "mean_mcc": 0.7442351678288248,
+    "size": 437
+  },
+  "Energy metabolism": {
+    "mean_mcc": 0.8441864642903979,
+    "size": 173
+  },
+  "Glycan biosynthesis and metabolism": {
+    "mean_mcc": 0.8687650948335802,
+    "size": 324
+  },
+  "Lipid metabolism": {
+    "mean_mcc": 0.9480287144475793,
+    "size": 677
+  },
+  "Metabolism of cofactors and vitamins": {
+    "mean_mcc": 0.8192698358391202,
+    "size": 549
+  },
+  "Metabolism of other amino acids": {
+    "mean_mcc": 0.8341470754511106,
+    "size": 274
+  },
+  "Metabolism of terpenoids and polyketides": {
+    "mean_mcc": 0.9402708096069462,
+    "size": 1093
+  },
+  "Nucleotide metabolism": {
+    "mean_mcc": 0.9420564036585727,
+    "size": 169
+  },
+  "Xenobiotics biodegradation and metabolism": {
+    "mean_mcc": 0.9349955392946333,
+    "size": 939
+  }
+}

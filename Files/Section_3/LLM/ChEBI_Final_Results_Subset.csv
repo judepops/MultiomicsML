@@ -1,0 +1,934 @@
+,Threshold,Input Compound Name,Matched Compound Name,Matched COMPOUND_ID,Matched Score,In Debug CSV
+0,0.0,S-1-pyrroline-5-carboxylate,S-1-pyrroline-5-carboxylate,17388,1.0,Yes
+1,0.0,spermidine,spermidine,57834,1.0,Yes
+2,0.0,1-methylnicotinamide,1-methylnicotinamide,16797,1.0,Yes
+3,0.0,"12,13-DiHOME","9,12,13-TriHOME",34506,0.71483636,No
+4,0.0,5-hydroxyindoleacetate,5-hydroxyindoleacetate(1-),62622,0.91183215,No
+5,0.0,alpha-ketoglutarate,alpha-ketoglutarate,16810,1.0,Yes
+6,0.0,kynurenate,Kynurenate,18344,1.0,Yes
+7,0.0,3-hydroxyisobutyrate,3-Hydroxyisobutyrate,11805,1.0,Yes
+8,0.0,3-hydroxy-3-methylglutarate,3-hydroxy-3-methylglutarate,17325,1.0,No
+9,0.0,homovanillate (HVA),Homovanillic acid,545959,0.6208689,Yes
+10,0.0,3-phosphoglycerate,3-phosphoglycerate,57998,1.0,No
+11,0.0,cholate,cholate,29747,1.0,Yes
+12,0.0,4-hydroxyphenylacetate,4-hydroxyphenylacetate,48999,1.0,No
+13,0.0,"5,6-dihydrothymine","5,6-Dihydrothymine",27468,1.0,Yes
+14,0.0,hypoxanthine,hypoxanthine,17368,1.0,Yes
+15,0.0,"9,10-DiHOME","9,10,13-TriHOME",34499,0.66232044,No
+16,0.0,linoleate (18:2n6),"6,9-linoleate",78705,0.75028753,No
+17,0.0,laurate (12:0),laurate,18262,0.63099605,No
+18,0.0,quinolinate,quinolinate,29959,1.0,Yes
+19,0.0,"N6,N6,N6-trimethyllysine",N-TRIMETHYLLYSINE,17311,0.7983497,No
+20,0.0,N-acetylputrescine,N-acetylputrescine,58263,1.0,No
+21,0.0,N-formylmethionine,N-formylmethionine,16552,1.0,No
+22,0.0,S-adenosylhomocysteine (SAH),S-Adenosylhomocysteine,16680,0.8327262,No
+23,0.0,"adenosine 3',5'-cyclic monophosphate (cAMP)","adenosine 3',5'-cyclic monophosphate",17489,0.7986295,No
+24,0.0,adenosine 5'-monophosphate (AMP),Adenosine 5'-monophosphate,16027,0.81518,No
+25,0.0,5-methylthioadenosine (MTA),5-Methylthioadenosine,17509,0.8110886,Yes
+26,0.0,arachidonate (20:4n6),Arachidonate,15843,0.73198056,No
+27,0.0,arginine,arginine,29016,1.0,No
+28,0.0,aspartate,aspartate,29995,1.0,No
+29,0.0,2-hydroxyphenylacetate,2-hydroxyphenylacetate,62423,1.0,No
+30,0.0,3-(4-hydroxyphenyl)lactate,3-(4-Hydroxyphenyl)lactate,36659,1.0,No
+31,0.0,phenylpyruvate,Phenylpyruvate,30851,1.0,No
+32,0.0,beta-alanine,beta-Alanine,16958,1.0,Yes
+33,0.0,carnosine,carnosine,57485,1.0,Yes
+34,0.0,biliverdin,biliverdin,17033,1.0,No
+35,0.0,succinate,succinate,30031,1.0,Yes
+36,0.0,3-hydroxybutyrate (BHBA),sodium beta-Hydroxybutyrate,113373,0.71469146,No
+37,0.0,cholesterol,cholesterol,16113,1.0,Yes
+38,0.0,choline phosphate,Choline phosphate,18132,1.0,Yes
+39,0.0,corticosterone,corticosterone,16827,1.0,Yes
+40,0.0,cortisone,cortisone,16962,1.0,Yes
+41,0.0,creatinine,creatinine,16737,1.0,Yes
+42,0.0,cysteinylglycine,Cysteinylglycine,4047,1.0,No
+43,0.0,cystine,cystine,17376,1.0,No
+44,0.0,sphingosine,Sphingosine,16393,1.0,No
+45,0.0,deoxycholate,deoxycholate,23614,1.0,No
+46,0.0,cystathionine,Cystathionine,17755,1.0,No
+47,0.0,sphinganine,sphinganine,16566,1.0,No
+48,0.0,flavin adenine dinucleotide (FAD),FLAVIN-ADENINE DINUCLEOTIDE,16238,0.8278499,No
+49,0.0,fumarate,fumarate,29806,1.0,Yes
+50,0.0,gamma-glutamylglutamate,gamma-Glutamylglutamate,73705,1.0,No
+51,0.0,gluconate,gluconate,24265,1.0,No
+52,0.0,glutarate (C5-DC),glutarate,30921,0.6949765,No
+53,0.0,glycine,glycine,15428,1.0,No
+54,0.0,glycocholate,glycocholate,29746,1.0,Yes
+55,0.0,guanidinoacetate,Guanidinoacetate,16344,1.0,Yes
+56,0.0,histidine,histidine,27570,1.0,No
+57,0.0,cortisol,cortisol,17650,1.0,Yes
+58,0.0,hypotaurine,hypotaurine,57853,1.0,Yes
+59,0.0,inosine,Inosine,17596,1.0,Yes
+60,0.0,myo-inositol,myo-Inositol,17268,1.0,Yes
+61,0.0,isoleucine,isoleucine,24898,1.0,No
+62,0.0,2-aminoadipate,2-aminoadipic acid,37024,0.83459145,No
+63,0.0,citrulline,citrulline,18211,1.0,No
+64,0.0,leucine,leucine,25017,1.0,No
+65,0.0,lysine,lysine,25094,1.0,No
+66,0.0,malate,malate,15595,1.0,No
+67,0.0,methionine,methionine,16811,1.0,No
+68,0.0,palmitate (16:0),Palmitate,15756,0.6098226,Yes
+69,0.0,nicotinamide,nicotinamide,17154,1.0,Yes
+70,0.0,stearate (18:0),SM(18:0),143617,0.6388976,No
+71,0.0,ornithine,ornithine,18257,1.0,No
+72,0.0,orotate,orotate,30839,1.0,Yes
+73,0.0,palmitoleate (16:1n7),2-palmitoleate,72745,0.77586997,No
+74,0.0,phenylalanine,phenylalanine,28044,1.0,No
+75,0.0,phosphate,Phosphate,18367,1.0,Yes
+76,0.0,proline,proline,26271,1.0,No
+77,0.0,lactate,lactate,24996,1.0,No
+78,0.0,pyridoxal,pyridoxal,17310,1.0,Yes
+79,0.0,retinol (Vitamin A),retinol (vit A),17336,0.84931827,Yes
+80,0.0,salicylate,salicylate,30762,1.0,Yes
+81,0.0,serine,serine,17822,1.0,No
+82,0.0,serotonin,serotonin,350546,1.0,Yes
+83,0.0,taurine,taurine,507393,1.0,Yes
+84,0.0,myristate (14:0),myristate,30807,0.66916776,No
+85,0.0,urea,UREA,16199,1.0,Yes
+86,0.0,uridine,Uridine,16704,1.0,Yes
+87,0.0,trans-urocanate,trans-urocanate,17771,1.0,No
+88,0.0,glutamate,glutamate,29987,1.0,No
+89,0.0,glutamine,glutamine,28300,1.0,No
+90,0.0,threonine,threonine,26986,1.0,No
+91,0.0,tryptophan,tryptophan,27897,1.0,No
+92,0.0,valine,valine,27266,1.0,No
+93,0.0,glucose,glucose,17234,1.0,No
+94,0.0,alpha-ketobutyrate,alpha-Ketobutyrate,30831,1.0,Yes
+95,0.0,adenosine,Adenosine,16335,1.0,Yes
+96,0.0,betaine,Betaine,17750,1.0,Yes
+97,0.0,cysteine,cysteine,15356,1.0,No
+98,0.0,mannose,mannose,37684,1.0,No
+99,0.0,dimethylglycine,Dimethylglycine,17724,1.0,No
+100,0.0,alanine,alanine,16449,1.0,No
+101,0.0,tyrosine,tyrosine,18186,1.0,No
+102,0.0,pseudouridine,pseudouridine,17802,1.0,Yes
+103,0.0,pyruvate,pyruvate,15361,1.0,Yes
+104,0.0,uracil,uracil,17568,1.0,Yes
+105,0.0,cytidine,Cytidine,17562,1.0,Yes
+106,0.0,caffeine,caffeine,27732,1.0,Yes
+107,0.0,fructose,FRUCTOSE,28645,1.0,Yes
+108,0.0,adenine,adenine,16708,1.0,Yes
+109,0.0,cytosine,Cytosine,16040,1.0,Yes
+110,0.0,caprate (10:0),caprate,27689,0.6761162,No
+111,0.0,margarate (17:0),1-margaroyl-GPC (17:0),74340,0.6662875,No
+112,0.0,nonadecanoate (19:0),nonadecanoate,78796,0.6359661,No
+113,0.0,arachidate (20:0),arachidate,32360,0.6798591,No
+114,0.0,maltose,Maltose,17306,1.0,Yes
+115,0.0,asparagine,asparagine,22653,1.0,No
+116,0.0,N-stearoyl-sphinganine (d18:0/18:0)*,N-stearoyl-C16-sphinganine,82811,0.8744616,No
+117,0.0,dihydroorotate,(S)-dihydroorotate,30864,0.783028,Yes
+118,0.0,caproate (6:0),caproate,17120,0.63305134,Yes
+119,0.0,caprylate (8:0),caprylate,25646,0.74211276,No
+120,0.0,pentadecanoate (15:0),pentadecanoate,78795,0.73877263,No
+121,0.0,trans-4-hydroxyproline,4-hydroxyproline,20392,0.873616,No
+122,0.0,allantoin,allantoin,15676,1.0,No
+123,0.0,xanthine,Xanthine,17712,1.0,Yes
+124,0.0,5-oxoproline,5-oxoproline,16010,1.0,No
+125,0.0,picolinate,picolinate,38184,1.0,No
+126,0.0,sarcosine,sarcosine,15611,1.0,No
+127,0.0,pantothenate,pantothenate,16454,1.0,No
+128,0.0,pipecolate,L-pipecolate,61185,0.8321383,Yes
+129,0.0,phosphoethanolamine,Phosphoethanolamine,17553,1.0,Yes
+130,0.0,glycerate,(R)-glycerate,16659,0.7573361,Yes
+131,0.0,3-ureidopropionate,3-ureidopropionate,11892,1.0,Yes
+132,0.0,N-acetylleucine,N-acetylleucine,17786,1.0,No
+133,0.0,N-acetylmethionine,N-acetylmethionine,132958,1.0,No
+134,0.0,N-acetylvaline,N-Acetylvaline,21565,1.0,No
+135,0.0,erucate (22:1n9),CE 22:2,183801,0.64888734,No
+136,0.0,"bilirubin (Z,Z)","bilirubin(Z,Z)",16990,1.0,No
+137,0.0,thyroxine,thyroxine,30660,1.0,No
+138,0.0,gamma-glutamyltyrosine,gamma-glutamyltyrosine,82969,1.0,No
+139,0.0,methyl indole-3-acetate,indole-3-acetate ester,64633,0.891285,No
+140,0.0,alpha-tocopherol,alpha-Tocopherol,18145,1.0,Yes
+141,0.0,N-acetylalanine,N-Acetylalanine,40992,1.0,No
+142,0.0,vanillylmandelate (VMA),vanilmandelate,27622,0.5507066,No
+143,0.0,4-acetamidobutanoate,4-acetamidobutanoate,11951,1.0,No
+144,0.0,3-aminoisobutyrate,L-3-aminoisobutyrate,18188,0.9186292,No
+145,0.0,citrate,citrate,50744,1.0,No
+146,0.0,2-aminobutyrate,D-2-Aminobutyrate,28797,0.8747052,No
+147,0.0,urate,Urate,17775,1.0,Yes
+148,0.0,ursodeoxycholate,ursodeoxycholate,78604,1.0,No
+149,0.0,oleoyl ethanolamide,oleoyl 1-ethanolamide,71466,0.92359066,Yes
+150,0.0,gamma-glutamylglutamine,gamma-Glutamylglutamate,73705,0.9163643,No
+151,0.0,4-hydroxyphenylpyruvate,4-Hydroxyphenylpyruvate,36242,1.0,Yes
+152,0.0,butyrate/isobutyrate (4:0),isobutyl butyrate,87683,0.7631047,No
+153,0.0,tigloylglycine,N-Tiglylglycine,73018,0.76119524,No
+154,0.0,N-acetylneuraminate,N-acetylneuraminate,21619,1.0,No
+155,0.0,N-acetylglucosaminylasparagine,N-Acetylglucosaminylasparagine,17261,1.0,No
+156,0.0,acetoacetate,acetoacetate,13705,1.0,Yes
+157,0.0,creatine,creatine,57947,1.0,Yes
+158,0.0,"cys-gly, oxidized","Cys-Gly, oxidized",133040,1.0,No
+159,0.0,estrone 3-sulfate,Estrone 3-sulfate,17474,1.0,Yes
+160,0.0,dihomo-linoleate (20:2n6),Dihomo-linoleate (20:2N6),88670,1.0,No
+161,0.0,gamma-glutamylhistidine,gamma-glutamylhistidine,133032,1.0,No
+162,0.0,2-hydroxystearate,2-hydroxystearate,76724,1.0,No
+163,0.0,N1-methyladenosine,N-methyladenosine,21891,0.90226215,Yes
+164,0.0,glycerol,Glycerol,17754,1.0,Yes
+165,0.0,choline,choline,15354,1.0,Yes
+166,0.0,gamma-glutamylleucine,gamma-glutamylleucine(1-),133038,0.85286623,No
+167,0.0,3-methoxytyrosine,3-hydroxytyrosine,49168,0.8544942,No
+168,0.0,4-acetamidophenol,4-acetamidophenol,46195,1.0,Yes
+169,0.0,beta-hydroxyisovalerate,beta-hydroxyisovalerate,82957,1.0,No
+170,0.0,arachidonoyl ethanolamide,arachidonoyl ethanolamide,2700,1.0,Yes
+171,0.0,palmitoyl ethanolamide,palmitoleyl alcohol,75623,0.7679919,No
+172,0.0,N-palmitoyl-sphingosine (d18:1/16:0),N-palmitoyl-sphingosine,72959,0.901528,No
+173,0.0,1-palmitoyl-2-oleoyl-GPE (16:0/18:1),1-palmitoyl-2-oleoyl-GPC (16:0/18:1),73001,0.9097417,No
+174,0.0,1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),72838,1.0,No
+175,0.0,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),73002,1.0,No
+176,0.0,stearoyl sphingomyelin (d18:1/18:0),stearoyl sphingomyelin,83358,0.84245396,No
+177,0.0,1-palmitoyl-2-oleoyl-GPC (16:0/18:1),1-palmitoyl-2-oleoyl-GPC (16:0/18:1),73001,1.0,No
+178,0.0,N-stearoyl-sphingosine (d18:1/18:0)*,N-C24:1-C17-sphingosine,74185,0.7900715,No
+179,0.0,glycochenodeoxycholate,glycochenodeoxycholate,36252,1.0,Yes
+180,0.0,taurochenodeoxycholate,Taurochenodeoxycholate,9407,1.0,Yes
+181,0.0,taurocholate,taurocholate,36257,1.0,Yes
+182,0.0,taurodeoxycholate,taurodeoxycholate,36261,1.0,No
+183,0.0,2-hydroxyhippurate (salicylurate),2-hydroxyhippurate,132923,0.79820114,No
+184,0.0,3-(N-acetyl-L-cystein-S-yl) acetaminophen,3-(N-acetyl-L-cystein-S-yl)acetaminophen,133435,1.0,Yes
+185,0.0,4-acetaminophen sulfate,4-acetaminophen sulfate,32635,1.0,Yes
+186,0.0,eicosapentaenoate (EPA; 20:5n3),eicosapentaenoate,61330,0.82766634,No
+187,0.0,methylsuccinate,methylsuccinates,132961,0.8496258,No
+188,0.0,ethylmalonate,Ethylmaleimide,44485,0.78813744,No
+189,0.0,carnitine,carnitine,17126,1.0,Yes
+190,0.0,benzoate,benzoate,16150,1.0,Yes
+191,0.0,3-phenylpropionate (hydrocinnamate),3-phenyl-3-hydroxypropionitrile,189864,0.78136384,No
+192,0.0,hippurate,hippurate,606565,1.0,Yes
+193,0.0,xanthurenate,xanthurenate,71201,1.0,No
+194,0.0,suberate (C8-DC),suberates,132953,0.57703155,No
+195,0.0,3-methyl-2-oxovalerate,3-Methyl-2-oxovalerate,28654,1.0,Yes
+196,0.0,methionine sulfoxide,METHIONINE SULFOXIDE,45764,1.0,No
+197,0.0,3-methylhistidine,3-methylhistidine,27596,1.0,No
+198,0.0,4-acetamidophenylglucuronide,4-Nitrophenylglucuronide,90146,0.78448784,No
+199,0.0,5-hydroxylysine,5-hydroxylysine,60175,1.0,Yes
+200,0.0,4-guanidinobutanoate,4-guanidinobutanoate,57486,1.0,No
+201,0.0,glucuronate,Glucuronate,15748,1.0,Yes
+202,0.0,glycerol 3-phosphate,Glycerol-3-phosphate,15978,0.9520826,No
+203,0.0,imidazole lactate,Imidazole lactate,27487,1.0,No
+204,0.0,kynurenine,KYNURENINE,16946,1.0,Yes
+205,0.0,glycerophosphorylcholine (GPC),Glycerophosphorylcholine,16870,0.7956214,Yes
+206,0.0,maltotriose,Maltotriose,27931,1.0,Yes
+207,0.0,N-acetylglutamate,N-Acetylglutamine,73685,0.89249843,No
+208,0.0,N-alpha-acetylornithine,N-Acetylornithine,16543,0.89397126,No
+209,0.0,tartarate,tartrate,132950,0.76273215,No
+210,0.0,xanthosine,xanthosine,18107,1.0,No
+211,0.0,ribitol,ribitol,15963,1.0,No
+212,0.0,glycodeoxycholate,glycodeoxycholate,82982,1.0,No
+213,0.0,theophylline,THEOPHYLLINE,28177,1.0,No
+214,0.0,quinate,Quinate,29751,1.0,No
+215,0.0,theobromine,THEOBROMINE,28946,1.0,No
+216,0.0,paraxanthine,Paraxanthine,25858,1.0,Yes
+217,0.0,indolelactate,Indolelactate,17282,1.0,No
+218,0.0,3-indoxyl sulfate,3-Indoxyl sulfate,43355,1.0,No
+219,0.0,gamma-glutamylphenylalanine,gamma-glutamylphenylalanine,82966,1.0,No
+220,0.0,4-methyl-2-oxopentanoate,4-methyl-2-oxopentanoate,17865,1.0,Yes
+221,0.0,"1,5-anhydroglucitol (1,5-AG)","1,5-Anhydroglucitol",16070,0.87420154,No
+222,0.0,1-palmityl-GPC (O-16:0),1-palmityl-GPC,64496,0.83546114,No
+223,0.0,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4),1-stearoyl-2-arachidonoyl-GPI (18:0/20:4),133606,1.0,No
+224,0.0,sphingosine 1-phosphate,Sphingosine 1-phosphate,37550,1.0,No
+225,0.0,1-stearoyl-2-oleoyl-GPS (18:0/18:1),1-stearoyl-2-oleoyl-GPC (18:0/18:1),75034,0.88884836,No
+226,0.0,1-stearoyl-GPI (18:0),1-stearoyl-GPI(1),74243,0.8546851,No
+227,0.0,"1,2-dipalmitoyl-GPC (16:0/16:0)",dipalmitoyl-GPC,72999,0.7583169,No
+228,0.0,docosahexaenoate (DHA; 22:6n3),hydroxy-docosapentaenoate,133654,0.75088286,No
+229,0.0,1-myristoyl-2-palmitoyl-GPC (14:0/16:0),1-myristoyl-2-palmitoyl-GPC (14:0/16:0),75062,1.0,No
+230,0.0,alpha-hydroxyisocaproate,alpha-hydroxyisocaproate,133577,1.0,No
+231,0.0,maleate,maleate,30780,1.0,No
+232,0.0,4-acetylphenol sulfate,4-acetylphenol sulfate,133225,1.0,No
+233,0.0,2-hydroxyoctanoate,2-hydroxyoctanoate,133514,1.0,No
+234,0.0,levulinate (4-oxovalerate),levulinate,39150,0.71970916,No
+235,0.0,3-hydroxyoctanoate,3-hydroxyoctanoate,133511,1.0,No
+236,0.0,phenyllactate (PLA),phenyllactate,8100,0.7187761,No
+237,0.0,palmitoylcarnitine (C16),L-Palmitoylcarnitine,17490,0.850905,Yes
+238,0.0,hexanoylcarnitine (C6),hexanoylcarnitine,70749,0.80837053,No
+239,0.0,N-acetylaspartate (NAA),N-acetylaspartic acid,21547,0.7807156,Yes
+240,0.0,dehydroepiandrosterone sulfate (DHEA-S),Dehydroepiandrosterone sulfate,16814,0.75861007,No
+241,0.0,acetylcarnitine (C2),(R)-Acetylcarnitine,57589,0.82466626,No
+242,0.0,cysteine s-sulfate,Cysteine-S-sulfate,27891,0.98090315,No
+243,0.0,1-palmitoylglycerol (16:0),1-palmitoylglycerol,69081,0.8682631,No
+244,0.0,tartronate (hydroxymalonate),Tartronate semialdehyde,16992,0.74823076,No
+245,0.0,oxalate (ethanedioate),oxalate,30623,0.74986416,Yes
+246,0.0,erythritol,erythritol,17113,1.0,No
+247,0.0,saccharin,Saccharin,32111,1.0,Yes
+248,0.0,3-hydroxymyristate,3-hydroxymyristate,84197,1.0,No
+249,0.0,iminodiacetate (IDA),IDA,24786,0.58918464,No
+250,0.0,1-oleoylglycerol (18:1),1-oleoylglycerol,75342,0.8360727,No
+251,0.0,3-methyl-2-oxobutyrate,3-methyl-2-oxobutyrate,11851,1.0,Yes
+252,0.0,homoarginine,Homoarginine,27747,1.0,Yes
+253,0.0,homocitrulline,homocitrulline,58148,1.0,No
+254,0.0,pyroglutamylglutamine,glutaminylglutamine,73846,0.79191774,No
+255,0.0,2-linoleoylglycerol (18:2),2-Linoleoylglycerol,75457,0.87568265,No
+256,0.0,3-hydroxydecanoate,3-hydroxydecanoate,132979,1.0,No
+257,0.0,EDTA,EDTA,4735,1.0,No
+258,0.0,N-acetylglycine,N-acetylglycine,40410,1.0,No
+259,0.0,ribonate,D-ribonate,17773,0.7646454,No
+260,0.0,threonate,L-threonate,57561,0.76680183,Yes
+261,0.0,galactonate,D-galactonate,12931,0.7465488,No
+262,0.0,indoleacetate,Indoleacetic acid,16411,0.77944845,No
+263,0.0,1-linoleoylglycerol (18:2),1-Linoleoylglycerol,75568,0.8507045,No
+264,0.0,1-methylhistidine,1-Methylhistidine,27596,1.0,No
+265,0.0,butyrylcarnitine (C4),Butyrylcarnitine,7676,0.7914723,No
+266,0.0,isobutyrylcarnitine (C4),isobutyrylcarnitine,73017,0.80512965,No
+267,0.0,7-ketodeoxycholate,7-ketotaurodeoxycholate,137820,0.92970484,No
+268,0.0,glycolithocholate,glycolithocholate,60008,1.0,No
+269,0.0,androsterone sulfate,androstane sulfate,131647,0.8891887,No
+270,0.0,indolepropionate,indolepropionate,82916,1.0,No
+271,0.0,N-(2-furoyl)glycine,N-(furan-2-ylcarbonyl)glycine,82912,0.86621356,No
+272,0.0,trigonelline (N'-methylnicotinate),"triacontane-7,9-diol",185116,0.6689754,No
+273,0.0,dodecanedioate (C12-DC),"1,12-diascorbyl dodecanedioate",59753,0.7519515,No
+274,0.0,"glutamate, gamma-methyl ester",gamma-methyl L-glutamate,21306,0.8555129,No
+275,0.0,N-acetyltyrosine,N-acetyltyrosine,68561,1.0,No
+276,0.0,"1,3-dimethylurate","3,7-dimethylurate",68531,0.8856502,No
+277,0.0,3-methylxanthine,3-Methylxanthine,62207,1.0,No
+278,0.0,3-hydroxylaurate,2-hydroxylaurate,141772,0.8252157,No
+279,0.0,pyridoxate,pyridoxates,132948,0.83920217,No
+280,0.0,gamma-glutamylvaline,gamma-Glutamylvaline,68848,1.0,No
+281,0.0,pyroglutamylvaline,Pyroglutamyl valine,132991,0.79927677,No
+282,0.0,3-hydroxysebacate,3-hydroxysebacate,132935,1.0,No
+283,0.0,5-hydroxyhexanoate,5-hydroxyhexanoate,132985,1.0,No
+284,0.0,propionylglycine,propanoylglycine,89836,0.9186133,No
+285,0.0,propionylcarnitine (C3),Propionylcarnitine,28867,0.8077513,Yes
+286,0.0,pro-hydroxy-pro,pro-hydroxy-pro,133733,1.0,No
+287,0.0,3-hydroxy-2-ethylpropionate,3-hydroxy-2-ethylpropionate,82955,1.0,No
+288,0.0,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF),3-carboxy-4-methyl-5-propyl-2-furanpropanoate,194524,0.80309355,No
+289,0.0,docosapentaenoate (n3 DPA; 22:5n3),Docosapentaenoic acid (22n-6),65136,0.7330772,Yes
+290,0.0,docosadienoate (22:2n6),Docosadienoate (22:2n6),145970,1.0,No
+291,0.0,adrenate (22:4n6),adrenate,77225,0.64099175,No
+292,0.0,10-undecenoate (11:1n1),10-Undecensaeure,35045,0.6255295,No
+293,0.0,myristoleate (14:1n5),myristyl myristate,138721,0.67193013,No
+294,0.0,4-imidazoleacetate,4-imidazoleacetate,27850,1.0,No
+295,0.0,1-methyl-4-imidazoleacetate,"1,4-methyl-imidazoleacetic acid",1606,0.8558334,No
+296,0.0,sebacate (C10-DC),sebacate anion,132954,0.709133,No
+297,0.0,stearidonate (18:4n3),stearidonate (18:4n3),77222,1.0,No
+298,0.0,5-dodecenoate (12:1n7),n-dodecanoate,18262,0.65608925,No
+299,0.0,octanoylcarnitine (C8),octanoylcarnitine,73039,0.8271221,No
+300,0.0,tauro-beta-muricholate,tauro-beta-muricholate,133064,1.0,No
+301,0.0,decanoylcarnitine (C10),decanoylcarnitine,68830,0.8462152,No
+302,0.0,N-acetylglutamine,N-Acetylglutamine,73685,1.0,No
+303,0.0,N-acetyltryptophan,N-acetyltryptophan,70976,1.0,No
+304,0.0,N-acetylphenylalanine,N-acetylphenylalanine,21626,1.0,No
+305,0.0,gamma-glutamyl-epsilon-lysine,gamma-glutamyl-epsilon-lysine,88494,1.0,No
+306,0.0,1-palmitoyl-GPC (16:0),1-palmitoyl-GPC (16:0),72998,1.0,No
+307,0.0,1-margaroyl-GPC (17:0),1-margaroyl-GPC (17:0),74340,1.0,No
+308,0.0,N-acetylarginine,N-acetyldinaline,90195,0.7884599,No
+309,0.0,piperine,piperine,28821,1.0,No
+310,0.0,campesterol,campesterol,28623,1.0,No
+311,0.0,myristoylcarnitine (C14),L-Myristoylcarnitine,84634,0.78585017,No
+312,0.0,1-stearoyl-GPC (18:0),1-stearoyl-2-oleoyl-GPC (18:0/18:1),75034,0.84701765,No
+313,0.0,1-oleoyl-GPC (18:1),1-oleoyl-GPI (18:1),78762,0.87424374,No
+314,0.0,N-acetylthreonine,N-acetylthreonine,45826,1.0,No
+315,0.0,N-acetylisoleucine,N-acetylisoleucine,84056,1.0,No
+316,0.0,10-nonadecenoate (19:1n9),(10E)-octadecenoate,194438,0.6869837,No
+317,0.0,10-heptadecenoate (17:1n7),9-hexadecenoate(1-),71449,0.7661946,No
+318,0.0,epiandrosterone sulfate,epiandrosterone 3-sulfate,133729,0.9067388,No
+319,0.0,N-acetylhistidine,N-acetylhistidine,86910,1.0,No
+320,0.0,gamma-glutamylglycine,gamma-glutamylalanylglycine,143251,0.95712763,No
+321,0.0,gamma-glutamyltryptophan,gamma-glutamyltryptophan,133028,1.0,No
+322,0.0,stachydrine,Stachydrine,35280,1.0,No
+323,0.0,alpha-hydroxyisovalerate,alpha-hydroxyisovalerate,64669,1.0,No
+324,0.0,gamma-glutamylmethionine,gamma-glutamylmethioninate,133690,0.9246899,No
+325,0.0,gamma-glutamylthreonine,gamma-glutamylthreonine,82968,1.0,No
+326,0.0,p-cresol sulfate,p-cresol sulfate,133670,1.0,No
+327,0.0,erythronate*,erythronates,133792,0.834334,No
+328,0.0,salicyluric glucuronide*,salicyluric glucuronide,133026,0.94852865,No
+329,0.0,eicosenoate (20:1),Eicosenoate,78075,0.71366966,No
+330,0.0,linolenate [alpha or gamma; (18:3n3 or 6)],Methyl alpha-linolenate,133634,0.725381,No
+331,0.0,aconitate [cis or trans],trans-aconitate,15708,0.8420319,No
+332,0.0,1-myristoyl-GPC (14:0),1-myristoyl-2-palmitoyl-GPC (14:0/16:0),75062,0.5956406,No
+333,0.0,1-arachidoyl-GPC (20:0),1-arachidoyl-GPC (20:0),74968,1.0,No
+334,0.0,stearoylcarnitine (C18),(R)-stearoylcarnitine,84644,0.84510297,No
+335,0.0,laurylcarnitine (C12),laurylcarnitine,77086,0.79388416,No
+336,0.0,isovalerylcarnitine (C5),(R)-isobutyrylcarnitine,84838,0.7224884,No
+337,0.0,1-linoleoyl-GPC (18:2),1-linoleoyl-GPC (18:2),28733,1.0,No
+338,0.0,7-methylxanthine,7-methylxanthine,48991,1.0,No
+339,0.0,"1,3,7-trimethylurate","1,3,7-trimethylurate",691622,1.0,No
+340,0.0,"3,7-dimethylurate","3,7-dimethylurate",68531,1.0,No
+341,0.0,"1,7-dimethylurate","3,7-dimethylurate",68531,0.87670994,No
+342,0.0,5-acetylamino-6-formylamino-3-methyluracil,5-Acetylamino-6-formylamino-3-methyluracil,32643,1.0,Yes
+343,0.0,5-acetylamino-6-amino-3-methyluracil,5-Acetylamino-6-formylamino-3-methyluracil,32643,0.87193286,Yes
+344,0.0,1-methylxanthine,1-methylxanthines,68443,0.87446356,No
+345,0.0,N1-methylinosine,N1-Methylinosine,19065,1.0,No
+346,0.0,"N2,N2-dimethylguanosine",N2-Dimethylguanosine,19289,0.9736971,No
+347,0.0,N4-acetylcytidine,N(4)-acetylcytidine,70989,0.9192599,No
+348,0.0,N6-carbamoylthreonyladenosine,N6-Carbamoylthreonyladenosine,21440,1.0,No
+349,0.0,orotidine,Orotidylic acid,15842,0.6748805,No
+350,0.0,phenylacetylglutamine,Phenylacetylglutamine,8087,1.0,No
+351,0.0,4-hydroxyhippurate,4-hydroxyhippurate,133613,1.0,No
+352,0.0,"5,6-dihydrouridine","5,6-dihydrouridine",23774,1.0,No
+353,0.0,3-(3-amino-3-carboxypropyl)uridine*,3-(3-amino-3-carboxypropyl)uridine,19928,0.9752103,No
+354,0.0,1-arachidonylglycerol (20:4),1-Arachidonoylglycerol,34071,0.8606094,No
+355,0.0,cysteine-glutathione disulfide,glutathione amide disulfide,59896,0.8002637,No
+356,0.0,5-methyluridine (ribothymidine),5-methyluridine,45996,0.79644513,No
+357,0.0,isovalerylglycine,isovalerylglycine,70984,1.0,No
+358,0.0,7-methylguanine,7-Methylguanine,2274,1.0,Yes
+359,0.0,1-stearoyl-GPE (18:0),2-stearoyl-GPE (18:0),133144,0.9566063,No
+360,0.0,3-methylcytidine,3-methylcytosine,39992,0.7970754,No
+361,0.0,N1-Methyl-2-pyridone-5-carboxamide,N1-Methyl-4-pyridone-5-carboxamide,27838,0.9902596,No
+362,0.0,gamma-glutamylisoleucine*,gamma-glutamylleucine(1-),133038,0.80076283,No
+363,0.0,oleoylcarnitine (C18:1),oleoylcarnitine,72689,0.7604884,No
+364,0.0,2-methylbutyrylcarnitine (C5),2-methylbutyryl-L-carnitine,84840,0.76964396,No
+365,0.0,phenol sulfate,Phenol sulfate,27905,1.0,Yes
+366,0.0,1-palmitoleoyl-GPC (16:1)*,2-palmitoleoyl-GPC (16:1),133515,0.91928935,No
+367,0.0,malonylcarnitine,malonylcarnitine,73028,1.0,No
+368,0.0,hexanoylglycine,Hexanoylglycine,64390,1.0,No
+369,0.0,glutamine_degradant*,glutamine,28300,0.6618507,No
+370,0.0,2-hydroxy-3-methylvalerate,2-Hydroxy-3-methylvalerate,89228,1.0,No
+371,0.0,homostachydrine*,homoatropine,5747,0.6498957,No
+372,0.0,1-arachidonoyl-GPC (20:4n6)*,1-arachidoyl-GPC (20:0),74968,0.8363037,No
+373,0.0,1-dihomo-linolenoyl-GPC (20:3n3 or 6)*,1-dihomo-linolenoyl-GPC(20:3n6),86256,0.9448469,No
+374,0.0,1-dihomo-linoleoyl-GPC (20:2)*,1-dihomo-linoleoyl-GPC (20:2),83055,0.9699897,No
+375,0.0,2-arachidonoyl-GPC (20:4)*,2-arachidonoyl-GPC,76079,0.8806989,No
+376,0.0,2-oleoyl-GPC (18:1)*,1-oleoyl-GPI (18:1),78762,0.8285639,No
+377,0.0,2-linoleoyl-GPC (18:2)*,1-linoleoyl-GPC (18:2),28733,0.91036576,No
+378,0.0,2-palmitoyl-GPC (16:0)*,1-palmitoyl-GPC (16:0),72998,0.95368123,No
+379,0.0,2-myristoyl-GPC (14:0)*,1-myristoyl-2-palmitoyl-GPC (14:0/16:0),75062,0.5967275,No
+380,0.0,1-docosahexaenoyl-GPC (22:6)*,2-docosahexaenoyl-GPC (22:6),131987,0.9369519,No
+381,0.0,1-palmitoyl-GPE (16:0),1-palmitoyl-GPE (16:0),73004,1.0,No
+382,0.0,1-oleoyl-GPE (18:1),1-oleoyl-GPI (18:1),78762,0.8700174,No
+383,0.0,1-linoleoyl-GPE (18:2)*,1-linoleoyl-GPE (18:2),83058,0.9613537,No
+384,0.0,1-arachidonoyl-GPE (20:4n6)*,1-arachidonoyl-GPI (20:4),133065,0.82565844,No
+385,0.0,N-acetylcitrulline,N-acetylanthranilate,16803,0.7756741,No
+386,0.0,2-hydroxypalmitate,2-hydroxypalmitate,65097,1.0,No
+387,0.0,docosapentaenoate (n6 DPA; 22:5n6),hydroxy-docosapentaenoate,133654,0.7175897,No
+388,0.0,gulonate*,Gulonate,13115,0.8228122,Yes
+389,0.0,isobutyrylglycine,isobutyrylglycine,70979,1.0,No
+390,0.0,glutarylcarnitine (C5-DC),C5-acylcarnitines,86492,0.7420234,No
+391,0.0,2-methylmalonylcarnitine (C4-DC),2-methylmalonylcarnitine(1-),133076,0.88206846,No
+392,0.0,tiglylcarnitine (C5:1-DC),(5E)-tetradecenoylcarnitine,131957,0.71680087,No
+393,0.0,hydroquinone sulfate,hydroquinone sulfate,71062,1.0,No
+394,0.0,catechol sulfate,catechol sulfate,68505,1.0,No
+395,0.0,7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca),7alpha-Hydroxy-4-cholesten-3-one,17899,0.7438929,Yes
+396,0.0,N-acetyl-aspartyl-glutamate (NAAG),N-acetyl-L-aspartyl-L-glutamate,76931,0.79751545,Yes
+397,0.0,tetradecanedioate (C14-DC),tetradecanedioate,76281,0.7796902,No
+398,0.0,hexadecanedioate (C16-DC),hexadecanedioate,76276,0.7909229,No
+399,0.0,1-myristoylglycerol (14:0),1-myristoyl glycerol,75562,0.7559508,Yes
+400,0.0,glycerophosphoethanolamine,Glycerophosphoethanolamine,16929,1.0,Yes
+401,0.0,3-(3-hydroxyphenyl)propionate,3-(3-hydroxyphenyl)propionate,57277,1.0,No
+402,0.0,ectoine,Ectoine,27592,1.0,No
+403,0.0,2-oleoyl-GPE (18:1)*,1-oleoyl-GPI (18:1),78762,0.82193846,No
+404,0.0,2-palmitoyl-GPE (16:0)*,2-palmitoyl-GPE (16:0),132926,0.9836977,No
+405,0.0,1-arachidonoyl-GPI (20:4)*,1-arachidonoyl-GPI (20:4),133065,0.95477027,No
+406,0.0,1-palmitoyl-GPI (16:0),1-palmitoyl-GPI (16:0),72833,1.0,No
+407,0.0,glycolithocholate sulfate*,glycolithocholate sulfate,9347,0.93875176,No
+408,0.0,taurolithocholate 3-sulfate,Taurolithocholate 3-sulfate,17864,1.0,Yes
+409,0.0,deoxycarnitine,deoxycarnitine,16244,1.0,Yes
+410,0.0,N6-succinyladenosine,N(6)-succinyladenosine,133523,0.89703965,No
+411,0.0,1-ribosyl-imidazoleacetate*,5-amino-1-(D-ribosyl)imidazol-3-ium ribosyl-5-aminoimidazol-3-ium,142407,0.7394257,No
+412,0.0,2-arachidonoyl-GPE (20:4)*,1-arachidonoyl-GPI (20:4),133065,0.8799677,No
+413,0.0,leucylleucine,leucylleucine,73531,1.0,No
+414,0.0,indoleacetylglutamine,N-indoleacetylglutamine,70811,0.86487126,No
+415,0.0,hexanoylglutamine,glutaminylglutamine,73846,0.7883566,No
+416,0.0,N6-acetyllysine,N(6)-ACETYLLYSINE,17752,0.8886763,No
+417,0.0,dihomo-linolenate (20:3n3 or n6),Dihomo-linoleate (20:2N6),88670,0.7814002,No
+418,0.0,mannitol/sorbitol,mannitol,29864,0.76360756,No
+419,0.0,tryptophan betaine,Tryptophan betaine,5832,1.0,No
+420,0.0,4-vinylphenol sulfate,4-Vinylphenol,1883,0.8370496,No
+421,0.0,4-ethylphenylsulfate,4-phenanthrylsulfate,20470,0.81986445,No
+422,0.0,thymol sulfate,thymol sulfate,133663,1.0,No
+423,0.0,pyrraline,Pyrraline,59973,1.0,No
+424,0.0,2-linoleoyl-GPE (18:2)*,1-linoleoyl-GPE (18:2),83058,0.90921366,No
+425,0.0,1-oleoyl-GPI (18:1),1-oleoyl-GPI (18:1),78762,1.0,No
+426,0.0,1-linoleoyl-GPI (18:2)*,1-linoleoyl-GPI (18:2),133077,0.9614566,No
+427,0.0,1-palmitoleoyl-GPE (16:1)*,2-palmitoleoyl-GPC (16:1),133515,0.83551675,No
+428,0.0,2-hydroxyacetaminophen sulfate*,2-hydroxyacetaminophen sulfate,82942,0.95101494,No
+429,0.0,2-methoxyacetaminophen sulfate*,2-hydroxyacetaminophen sulfate,82942,0.8740662,No
+430,0.0,2-methoxyacetaminophen glucuronide*,2-methoxyacetaminophen beta-D-glucuronide,133005,0.88672405,No
+431,0.0,o-cresol sulfate,o-cresol sulfate,133089,1.0,No
+432,0.0,dimethylarginine (SDMA + ADMA),dimethylarginine(1+),133775,0.68155545,No
+433,0.0,gamma-glutamylalanine,gamma-glutamylalanine,50621,1.0,No
+434,0.0,N-acetylserine,N-acetylserine,45441,1.0,No
+435,0.0,1-stearoyl-2-oleoyl-GPE (18:0/18:1),1-stearoyl-2-oleoyl-GPE (18:0/18:1),75038,1.0,No
+436,0.0,4-allylphenol sulfate,4-allylphenol sulfate,133096,1.0,No
+437,0.0,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),74965,1.0,No
+438,0.0,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),73008,1.0,No
+439,0.0,sphinganine-1-phosphate,sphinganine 1-phosphate,57939,0.9729075,Yes
+440,0.0,glycosyl-N-stearoyl-sphingosine (d18:1/18:0),D-glucosyl-sphingosine,4177,0.8196135,No
+441,0.0,succinylcarnitine (C4-DC),C4-acylcarnitines,86490,0.70645684,No
+442,0.0,"bilirubin (E,E)*","bilirubin(Z,Z)",16990,0.7198849,No
+443,0.0,"bilirubin (E,Z or Z,E)*","bilirubin(Z,Z)",16990,0.78291947,No
+444,0.0,N-methylproline,N-methylaniline,15733,0.8326811,No
+445,0.0,beta-cryptoxanthin,beta-cryptoxanthin,10362,1.0,No
+446,0.0,"5alpha-androstan-3beta,17beta-diol disulfate","5alpha-androstan-3beta,17beta-diol disulfate",133114,1.0,No
+447,0.0,"5alpha-pregnan-3beta,20alpha-diol disulfate","5alpha-pregnan-3beta,20alpha-diol disulfate",133118,1.0,No
+448,0.0,glycocholenate sulfate*,glycosaminoglycan sulfate,35722,0.7536191,No
+449,0.0,taurocholenate sulfate*,Taurolithocholate sulfate,17864,0.756595,Yes
+450,0.0,"androstenediol (3beta,17beta) disulfate (1)","4-androsten-3beta,17beta-diol disulfate",133123,0.8095836,No
+451,0.0,pregnenediol disulfate (C21H34O8S2)*,pregnen-diol disulfate,132994,0.7679012,No
+452,0.0,"androstenediol (3beta,17beta) disulfate (2)","4-androsten-3beta,17beta-diol disulfate",133123,0.8286116,No
+453,0.0,21-hydroxypregnenolone disulfate,21-Hydroxypregnenolone,28043,0.8343323,No
+454,0.0,21-hydroxypregnenolone monosulfate (1),17-hydroxypregnenolone sulfate(1-),133742,0.829501,No
+455,0.0,"5alpha-androstan-3alpha,17alpha-diol monosulfate","5alpha-androstan-3alpha,17beta-diol monosulfate",133105,0.9399091,No
+456,0.0,"5alpha-pregnan-3beta,20beta-diol monosulfate (1)","5alpha-pregnane-3beta,20beta-diol monosulfate anion",133712,0.8823045,No
+457,0.0,"5alpha-pregnan-3beta,20alpha-diol monosulfate (2)","5alpha-pregnan-3beta,20alpha-diol disulfate",133118,0.9035614,No
+458,0.0,5alpha-pregnan-diol disulfate,"5alpha-pregnane-3,20R-diol disulfate",133464,0.9267024,No
+459,0.0,"5alpha-androstan-3alpha,17beta-diol disulfate","5alpha-androstan-3alpha,17beta-diol disulfate",133100,1.0,No
+460,0.0,"5alpha-androstan-3alpha,17beta-diol monosulfate (1)","5alpha-androstan-3alpha,17beta-diol monosulfate",133105,0.9576391,No
+461,0.0,"5alpha-androstan-3beta,17alpha-diol disulfate","5alpha-androstan-3beta,17alpha-diol disulfate",133111,1.0,No
+462,0.0,"5alpha-androstan-3beta,17beta-diol monosulfate (2)","5alpha-androstan-3alpha,17beta-diol monosulfate",133105,0.91774815,No
+463,0.0,"androstenediol (3alpha, 17alpha) monosulfate (2)","4-androstene-3alpha,17alpha-diol monosulfate anion",133715,0.747772,No
+464,0.0,"androstenediol (3alpha, 17alpha) monosulfate (3)","4-androstene-3alpha,17alpha-diol monosulfate anion",133715,0.7532514,No
+465,0.0,"androstenediol (3beta,17beta) monosulfate (1)","4-androstene-3beta,17beta-diol monosulfate anion",133714,0.7386502,No
+466,0.0,"androstenediol (3beta,17beta) monosulfate (2)","4-androstene-3beta,17beta-diol monosulfate anion",133714,0.75775814,No
+467,0.0,1-docosahexaenoyl-GPE (22:6)*,1-docosahexaenoyl-GPE (22:6),133432,0.97997427,No
+468,0.0,1-docosapentaenoyl-GPC (22:5n3)*,1-docosapentaenoyl-GPC (22:5n3),133734,0.984318,No
+469,0.0,pregnenediol sulfate (C21H34O5S)*,5-pregnen-3beta-ol-20-one sulfate,35420,0.7202987,Yes
+470,0.0,2-hydroxyglutarate,2-hydroxyglutarate,11596,1.0,No
+471,0.0,gamma-CEHC,gamma-CEHC,89379,1.0,No
+472,0.0,N-acetyl-beta-alanine,N-acetyl-beta-alanine,57857,1.0,No
+473,0.0,"sphingomyelin (d18:1/18:1, d18:2/18:0)",sphingomyelin (d18:1/18:1),85593,0.95634794,No
+474,0.0,palmitoyl sphingomyelin (d18:1/16:0),palmitoyl sphingomyelin (d18:1/16:0),78646,1.0,No
+475,0.0,3-hydroxyhippurate,3-hydroxyhippurate,133607,1.0,No
+476,0.0,16a-hydroxy DHEA 3-sulfate,16a-hydroxy DHEA 3-sulfate,87538,1.0,No
+477,0.0,17alpha-hydroxypregnenolone 3-sulfate,17alpha-hydroxypregnenolone 3-sulfate,133742,1.0,No
+478,0.0,pregnenolone sulfate,pregnenolone sulfate,35420,1.0,Yes
+479,0.0,andro steroid monosulfate C19H28O6S (1)*,androstane steroid sulfate,131647,0.6438928,No
+480,0.0,ergothioneine,ergothioneine,82707,1.0,No
+481,0.0,1-margaroyl-GPE (17:0)*,1-margaroyl-GPC (17:0),74340,0.8390909,No
+482,0.0,1-pentadecanoyl-GPC (15:0)*,1-pentadecanoyl-GPC,72736,0.891233,No
+483,0.0,S-methylmethionine,N-methylmethionine,44003,0.8362621,No
+484,0.0,indole-3-carboxylate,indole-3-carboxylate,62448,1.0,No
+485,0.0,13-HODE + 9-HODE,11-HODE,137305,0.6762874,No
+486,0.0,tridecenedioate (C13:1-DC)*,Tridecene-1,89815,0.6845137,No
+487,0.0,N-acetyl-3-methylhistidine*,N-acetyl-3-methylhistidine,133183,0.9643912,No
+488,0.0,4-cholesten-3-one,4-Cholesten-3-one,16175,1.0,No
+489,0.0,cinnamoylglycine,N-Cinnamylglycine,68616,0.8403997,No
+490,0.0,cis-4-decenoylcarnitine (C10:1),cis-4-decenoylcarnitine,73048,0.91542953,No
+491,0.0,phenylalanylphenylalanine,phenylalanylphenylalanine,72723,1.0,No
+492,0.0,(16 or 17)-methylstearate (a19:0 or i19:0),17-methylstearate,133138,0.7480138,No
+493,0.0,alpha-ketoglutaramate*,alpha-Ketoglutaramate,30882,0.92796195,Yes
+494,0.0,"2,3-dihydroxyisovalerate","2,3-dihydroxyisovalerate",11424,1.0,No
+495,0.0,3-methylglutaconate,3-hydroxy-3-methylglutarate,17325,0.75209826,No
+496,0.0,5-(galactosylhydroxy)-L-lysine,5-(beta-D-galactopyranosyloxy)-L-lysine,37564,0.87654626,No
+497,0.0,isoursodeoxycholate,isodeoxycholate,87733,0.86597055,No
+498,0.0,hydantoin-5-propionate,hydantoin-5-propanoate,133476,0.9204262,No
+499,0.0,sulfate*,Sulfate,16189,0.81996185,Yes
+500,0.0,4-hydroxy-2-oxoglutaric acid,4-Hydroxy-2-oxoglutaric acid,30923,1.0,No
+501,0.0,4-hydroxyglutamate,4-Hydroxyphenylacetylglutamate,28036,0.8349885,No
+502,0.0,L-urobilin,L-Urobilin,29023,1.0,No
+503,0.0,S-methylcysteine,S-METHYLCYSTEINE,45658,1.0,No
+504,0.0,androsterone glucuronide,Androsterone glucuronide,28832,1.0,No
+505,0.0,argininate*,argininate,32695,0.8329931,No
+506,0.0,2-oxoarginine*,2-Oxoarginine,28116,0.9190341,No
+507,0.0,cis-4-decenoate (10:1n6)*,cis-4-decenoate,33161,0.8452966,No
+508,0.0,ethyl glucuronide,Etiocholanolone glucuronide,28832,0.79275835,No
+509,0.0,1-erucoyl-GPC (22:1)*,1-eicosenoyl-GPC (20:1),131982,0.7626056,No
+510,0.0,1-adrenoyl-GPC (22:4)*,1-adrenoyl-GPC (22:4),133657,0.966574,No
+511,0.0,1-lignoceroyl-GPC (24:0),1-lignoceroyl-GPC (24:0),86260,1.0,No
+512,0.0,1-nervonoyl-GPC (24:1n9)*,1-eicosenoyl-GPC (20:1),131982,0.70683897,No
+513,0.0,1-(1-enyl-palmitoyl)-GPC (P-16:0)*,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0),133672,0.93876415,No
+514,0.0,1-(1-enyl-oleoyl)-GPC (P-18:1)*,1-(1-enyl-oleoyl)-GPC (P-18:1),84753,0.96622944,No
+515,0.0,1-(1-enyl-stearoyl)-GPC (P-18:0)*,1-(1-enyl-stearoyl)-GPC (P-18:0),133662,0.9693747,No
+516,0.0,1-methyl-5-imidazoleacetate,5-Hydroxy-4-imidazoleacetate,27850,0.8764142,No
+517,0.0,glycoursodeoxycholate,glycoursodeoxycholate,132030,1.0,No
+518,0.0,S-methylcysteine sulfoxide,S-METHYLCYSTEINE,45658,0.80818796,No
+519,0.0,eicosanedioate (C20-DC),eicosanedioic acid anion,133143,0.681023,No
+520,0.0,docosadioate (C22-DC),"docosane-1,2-diol",84958,0.707798,No
+521,0.0,16-hydroxypalmitate,16-hydroxypalmitate,55329,1.0,No
+522,0.0,oleoyl-linoleoyl-glycerol (18:1/18:2) [1],2-oleoyl-3-linoleoyl-sn-glycerol,75569,0.85622424,No
+523,0.0,oleoyl-linoleoyl-glycerol (18:1/18:2) [2],2-oleoyl-3-linoleoyl-sn-glycerol,75569,0.85941154,No
+524,0.0,1-(1-enyl-palmitoyl)-GPE (P-16:0)*,1-(1-enyl-palmitoyl)-GPE (P-16:0),133139,0.9759252,No
+525,0.0,1-(1-enyl-stearoyl)-GPE (P-18:0)*,1-(1-enyl-stearoyl)-GPE (P-18:0),133141,0.96563184,No
+526,0.0,2-stearoyl-GPI (18:0)*,2-stearoyl-GPE (18:0),133144,0.8457724,No
+527,0.0,N-oleoyltaurine,oleoyltaurine,146206,0.8338419,No
+528,0.0,linoleoylcarnitine (C18:2)*,linoleylcarnitine,73072,0.72815627,No
+529,0.0,isoleucylalanine,isoleucylalanine,74062,1.0,No
+530,0.0,isoleucylglycine,isoleucylglycine,74066,1.0,No
+531,0.0,phenylalanylleucine,phenylalanylleucine,91150,1.0,No
+532,0.0,tryptophylleucine,tryptophylleucine,74871,1.0,No
+533,0.0,N-stearoyltaurine,N-stearoyltaurine(1-),132047,0.88314986,No
+534,0.0,carboxyethyl-GABA,gamma-glutamyl-GABA,49260,0.7152712,No
+535,0.0,beta-citrylglutamate,beta-citrylglutamate,76942,1.0,No
+536,0.0,trimethylamine N-oxide,trimethylamine N-oxide,15724,1.0,Yes
+537,0.0,dihydroferulate,dihydrogen,18276,0.7005978,Yes
+538,0.0,imidazole propionate,imidazole propionate,72991,1.0,No
+539,0.0,pregnanediol-3-glucuronide,Estradiol-3-glucuronide,36489,0.722364,No
+540,0.0,alliin,alliin,132987,1.0,No
+541,0.0,threonylalanine,threonylalanine,74824,1.0,No
+542,0.0,phenylalanyltryptophan,phenylalanyltryptophan,74751,1.0,No
+543,0.0,valylglycine,valylglycine,73699,1.0,No
+544,0.0,prolylalanine,prolylalanine,74753,1.0,No
+545,0.0,prolylglycine,Prolylglycine,61695,1.0,No
+546,0.0,N-palmitoylglycine,N-palmitoylglycine,39540,1.0,No
+547,0.0,lanthionine,L-lanthionine,21347,0.85694647,Yes
+548,0.0,2-stearoyl-GPE (18:0)*,2-stearoyl-GPE (18:0),133144,0.9757701,No
+549,0.0,(R)-3-hydroxybutyrylcarnitine,3-hydroxybutyrylcarnitine,84842,0.8422289,No
+550,0.0,N-acetylcarnosine,N-acetylcadaverine,134408,0.82499105,No
+551,0.0,margaroylcarnitine (C17)*,methylmalonylcarnitine(1-),133076,0.6748236,No
+552,0.0,glycohyocholate,glycolithocholate,60008,0.84107333,No
+553,0.0,retinal,retinal,17898,1.0,Yes
+554,0.0,2-hydroxydecanoate,2-hydroxydecanoate,133174,1.0,No
+555,0.0,4-methylcatechol sulfate,O-methylcatechol sulfate,133460,0.8485145,No
+556,0.0,3-methyl catechol sulfate (1),catechol sulfate(1-),133072,0.8570228,No
+557,0.0,3b-hydroxy-5-cholenoic acid,3beta-Hydroxy-5-cholenoic acid,89234,0.88371557,No
+558,0.0,guaiacol sulfate,guanacline sulfate,134825,0.7907725,No
+559,0.0,2-aminooctanoate,2-aminooctanoate,142420,1.0,No
+560,0.0,gamma-CEHC glucuronide*,gamma-CEHC glucuronide,133148,0.96518266,No
+561,0.0,2-piperidinone,2-Piperidinoethanol,61238,0.88529843,No
+562,0.0,N-acetyl-1-methylhistidine*,N-acetyl-1-methylhistidine,133181,0.9625194,No
+563,0.0,indolin-2-one,indolin-2-one,31697,1.0,Yes
+564,0.0,2-aminophenol sulfate,2-aminophenol sulfate,133186,1.0,No
+565,0.0,3-acetylphenol sulfate,4-acetylphenol sulfate,133225,0.873384,No
+566,0.0,"sphingomyelin (d18:1/14:0, d16:1/16:0)*",sphingomyelin (d16:1/16:0),133171,0.92496985,No
+567,0.0,"sphingomyelin (d18:2/16:0, d18:1/16:1)*",Sphingomyelin (d18:1/16:0),78646,0.92012584,No
+568,0.0,6-oxopiperidine-2-carboxylate,6-oxopiperidine-2-carboxylate,133178,1.0,No
+569,0.0,S-allylcysteine,S-allyl-L-cysteine,74077,0.74123716,No
+570,0.0,N-delta-acetylornithine,N-delta-acetylornithine,133180,1.0,No
+571,0.0,acisoga,Acisoga,133185,1.0,No
+572,0.0,2-aminoheptanoate,2-aminoheptanoate,133223,1.0,No
+573,0.0,1-eicosapentaenoyl-GPE (20:5)*,1-eicosapentaenoyl-GPE (20:5),133522,0.9647204,No
+574,0.0,"N2,N5-diacetylornithine","N(2),N(5)-diacetylornithine",133209,0.9183244,No
+575,0.0,3-methoxytyramine sulfate,3-methoxytyramine,192089,0.8504402,No
+576,0.0,methionine sulfone,methionine sulfone,132188,1.0,No
+577,0.0,cyclo(ala-pro),Cyclo(aoe-pro-ala-ala),48028,0.81379765,No
+578,0.0,1-linolenoyl-GPC (18:3)*,1-linolenoyl-GPC (18:3),133456,0.9746096,No
+579,0.0,1-eicosapentaenoyl-GPC (20:5)*,1-eicosapentaenoyl-GPC (20:5),91311,0.9599104,No
+580,0.0,1-eicosenoyl-GPC (20:1)*,1-eicosenoyl-GPC (20:1),131982,0.92476237,No
+581,0.0,N-acetylalliin,N-Acetylalanine,40992,0.8137973,No
+582,0.0,1-dihomo-linolenoyl-GPE (20:3n3 or 6)*,1-dihomo-linolenoyl-GPC(20:3n6),86256,0.8520553,No
+583,0.0,1-(1-enyl-oleoyl)-GPE (P-18:1)*,1-(1-enyl-oleoyl)-GPC (P-18:1),84753,0.88191193,No
+584,0.0,O-sulfo-L-tyrosine,O-sulfo-L-tyrosine,46215,1.0,No
+585,0.0,ferulic acid 4-sulfate,ferulic acid sulfate,133508,0.896728,No
+586,0.0,11-ketoetiocholanolone glucuronide,11-Oxoetiocholanolone glucuronide,88771,0.85107857,No
+587,0.0,etiocholanolone glucuronide,Etiocholanolone glucuronide,28832,1.0,No
+588,0.0,17alpha-hydroxypregnanolone glucuronide,17alpha-hydroxypregnanolone,34353,0.81945825,No
+589,0.0,N-acetyltaurine,N-Acetyltaurine,84415,1.0,No
+590,0.0,1-docosapentaenoyl-GPC (22:5n6)*,1-docosapentaenoyl-GPC (22:5n6),74348,0.9837997,No
+591,0.0,1-linolenoyl-GPE (18:3)*,1-linolenoyl-GPC (18:3),133456,0.866726,No
+592,0.0,1-oleoyl-GPG (18:1)*,1-oleoyl-GPI (18:1),78762,0.79543746,No
+593,0.0,1-palmitoyl-GPG (16:0)*,1-palmitoyl-GPC (16:0),72998,0.81013787,No
+594,0.0,9-hydroxystearate,9-hydroxystearate,136286,1.0,No
+595,0.0,3-methylglutarylcarnitine (2),methylglutarylcarnitines,86486,0.7783835,No
+596,0.0,methyl glucopyranoside (alpha + beta),methyl beta-D-glucopyranoside,320055,0.8629592,No
+597,0.0,alpha-CEHC sulfate,alpha-CEHC,88427,0.6894631,No
+598,0.0,alpha-CMBHC glucuronide,alpha-glucuronyl ceramide,60476,0.73694927,No
+599,0.0,"sphingomyelin (d18:2/14:0, d18:1/14:1)*",Sphingomyelin (d18:1/16:0),78646,0.9328399,No
+600,0.0,"sphingomyelin (d18:1/24:1, d18:2/24:0)*",Sphingomyelin (d18:1/16:0),78646,0.9170861,No
+601,0.0,octadecenedioylcarnitine (C18:1-DC)*,O-octanedioylcarnitine(1-),77083,0.78095096,No
+602,0.0,"5alpha-androstan-3alpha,17beta-diol monosulfate (2)","5alpha-androstan-3alpha,17beta-diol monosulfate",133105,0.96567065,No
+603,0.0,myristoleoylcarnitine (C14:1)*,(Z)-myristoleoylcarnitine,84647,0.7384107,No
+604,0.0,N-formylphenylalanine,N-formylphenylalanine,133534,1.0,No
+605,0.0,cyclo(pro-val),Cyclo(L-Pro-L-Tyr),6631,0.7247559,No
+606,0.0,4-hydroxychlorothalonil,4-hydroxychlorothalonil,156267,1.0,No
+607,0.0,tyramine O-sulfate,tyramine O-sulfate,133530,1.0,No
+608,0.0,3-hydroxypyridine sulfate,3-hydroxypyridine,87440,0.8406795,No
+609,0.0,phenylacetylcarnitine,acetylcarnitine,73024,0.7293254,No
+610,0.0,arabonate/xylonate,xylonate,27345,0.69312173,No
+611,0.0,methyl-4-hydroxybenzoate sulfate,methyl-4-hydroxybenzoate sulfate,133532,1.0,No
+612,0.0,1-dihomo-linolenylglycerol (20:3),"1,2-Dihomo-g-linolenoyl-rac-glycerol",89804,0.7812028,No
+613,0.0,4-vinylguaiacol sulfate,4-vinylguaiacol,42438,0.85392064,No
+614,0.0,vanillactate,Vanillactate,88526,1.0,No
+615,0.0,eugenol sulfate,Eugenol methyl ether,4918,0.7738358,Yes
+616,0.0,pregnanolone/allopregnanolone sulfate,pregnenolone sulfate,35420,0.7238125,Yes
+617,0.0,2-methoxyresorcinol sulfate,2-methoxyresorcinol monosulfate,133548,0.8255381,No
+618,0.0,2-acetamidophenol sulfate,2-acetamidophenyl sulfate,133562,0.9274789,No
+619,0.0,p-cresol glucuronide*,p-Cresol glucuronide,87986,0.96021587,No
+620,0.0,6-hydroxyindole sulfate,6-Hydroxyindolelactate,27524,0.7827527,No
+621,0.0,"sphingomyelin (d18:1/20:0, d16:1/22:0)*",sphingomyelin (d16:1/16:0),133171,0.9134205,No
+622,0.0,"sphingomyelin (d18:1/20:1, d18:2/20:0)*",sphingomyelin(d18:1/20:1),131459,0.93103445,No
+623,0.0,"sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*",Sphingomyelin (d18:1/18:1(11Z)),86086,0.90443546,No
+624,0.0,behenoyl sphingomyelin (d18:1/22:0)*,behenoyl sphingomyelin (d18:1/22:0),74532,0.9678992,No
+625,0.0,"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*",Sphingomyelin (d18:1/18:1(11Z)),86086,0.900745,No
+626,0.0,"sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*",Sphingomyelin (d18:1/18:1(11Z)),86086,0.9109692,No
+627,0.0,lignoceroyl sphingomyelin (d18:1/24:0),Sphingomyelin (d18:0/24:0),84495,0.8458722,No
+628,0.0,"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*",sphingomyelin (d16:1/16:0),133171,0.893288,No
+629,0.0,dopamine 4-sulfate,dopamine 4-sulfate,34729,1.0,No
+630,0.0,dopamine 3-O-sulfate,Dopamine 3-O-sulfate,37946,1.0,Yes
+631,0.0,3-hydroxyhexanoate,methyl 3-hydroxyhexanoate,173244,0.8932918,No
+632,0.0,3beta-hydroxy-5-cholestenoate,3beta-hydroxy-5-cholestene-22-one,143264,0.88875496,No
+633,0.0,"1,2,3-benzenetriol sulfate (2)","1,2,3-benzenetriol sulfate",133587,0.9346472,No
+634,0.0,3-methoxycatechol sulfate (1),O-methylcatechol sulfate,133460,0.7584823,No
+635,0.0,N-acetylkynurenine (2),N-acetylkynurenines,133592,0.8717062,No
+636,0.0,C-glycosyltryptophan,N-glycyltryptophan,73921,0.7598917,No
+637,0.0,arabitol/xylitol,L-Arabitol,18403,0.7689569,No
+638,0.0,N-acetylglucosamine/N-acetylgalactosamine,N-acetylglucosamine,28009,0.89025307,Yes
+639,0.0,adipoylcarnitine (C6-DC),octadecadienoylcarnitines,86480,0.6786132,No
+640,0.0,nonanoylcarnitine (C9),(R)-nonanoylcarnitine,85527,0.7753979,No
+641,0.0,suberoylcarnitine (C8-DC),suberoylcarnitine,73052,0.745745,No
+642,0.0,glycochenodeoxycholate 3-sulfate,Glycochenodeoxycholate-3-sulfate,72733,0.9773343,No
+643,0.0,glycodeoxycholate 3-sulfate,glycodeoxycholate sulfate,133680,0.9022395,No
+644,0.0,taurodeoxycholic acid 3-sulfate,taurodeoxycholic acid,9410,0.8484788,No
+645,0.0,"trans-3,4-methyleneheptanoate",ethyl 4-methylheptanoate,179559,0.7405265,No
+646,0.0,linoleoyl ethanolamide,Linoleoyl ethanolamide,89605,1.0,No
+647,0.0,"1,2-dilinoleoyl-GPC (18:2/18:2)",1-oleoyl-2-dihomolinolenoyl-GPC (18:1/20:3),89618,0.7483075,No
+648,0.0,1-stearoyl-2-oleoyl-GPC (18:0/18:1),1-stearoyl-2-oleoyl-GPC (18:0/18:1),75034,1.0,No
+649,0.0,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6),1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4),73003,0.93994796,No
+650,0.0,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6),1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6),74963,1.0,No
+651,0.0,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),84829,1.0,No
+652,0.0,1-(1-enyl-stearoyl)-2-oleoyl-GPC (P-18:0/18:1),1-(1-enyl-stearoyl)-2-oleoyl-GPC (P-18:0/18:1),86241,1.0,No
+653,0.0,1-(1-enyl-stearoyl)-2-arachidonoyl-GPC (P-18:0/20:4),1-(1-enyl-stearoyl)-2-arachidonoyl-GPC,84828,0.88319314,No
+654,0.0,1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1),1-(1-enyl-stearoyl)-2-oleoyl-GPC (P-18:0/18:1),86241,0.9354621,No
+655,0.0,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)",sphingomyelin (d18:0/18:1(9Z)),134074,0.90563506,No
+656,0.0,1-palmitoyl-2-stearoyl-GPC (16:0/18:0),1-palmitoyl-2-stearoyl-GPC (16:0/18:0),73000,1.0,No
+657,0.0,2-hydroxybutyrate/2-hydroxyisobutyrate,2-Hydroxybutyrate,50613,0.823977,No
+658,0.0,2-methylcitrate/homocitrate,2-methylcitrate,15598,0.84492403,No
+659,0.0,oleate/vaccenate (18:1),Oleate,16196,0.64607775,Yes
+660,0.0,isoleucylleucine/leucylisoleucine,Isoleucyl-Leucine,74072,0.8868427,No
+661,0.0,1-palmitoleoylglycerol (16:1)*,1-palmitoleoylglycerol,133596,0.82075685,No
+662,0.0,palmitoyl dihydrosphingomyelin (d18:0/16:0)*,palmitoyl dihydrosphingomyelin (d18:0/16:0),78647,0.9938028,No
+663,0.0,tricosanoyl sphingomyelin (d18:1/23:0)*,sphingomyelin(d18:1/23:3),131460,0.8298237,No
+664,0.0,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*",Sphingomyelin (d18:1/16:0),78646,0.8824646,No
+665,0.0,"sphingomyelin (d18:2/24:1, d18:1/24:2)*",sphingomyelin(d18:1/18:3),131458,0.91743517,No
+666,0.0,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*,1-stearoyl-2-linoleoyl-GPC (18:0/18:2),84822,0.90014446,No
+667,0.0,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),78268,1.0,No
+668,0.0,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*,1-stearoyl-2-linoleoyl-GPC (18:0/18:2),84822,0.97837263,No
+669,0.0,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1),74000,0.9824425,No
+670,0.0,1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5)*,1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5),86137,0.98013365,No
+671,0.0,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4),73003,0.9142767,No
+672,0.0,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6),78261,0.98202974,No
+673,0.0,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6),78266,0.98153883,No
+674,0.0,1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*,1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4),72834,0.9764856,No
+675,0.0,1-stearoyl-2-linoleoyl-GPI (18:0/18:2),1-stearoyl-2-linoleoyl-GPC (18:0/18:2),84822,0.9067842,No
+676,0.0,gamma-tocopherol/beta-tocopherol,gamma-tocopherol,18185,0.8491645,No
+677,0.0,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE,78342,0.87306166,No
+678,0.0,1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPE (P-16:0/22:6)*,1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPE (P-16:0/22:6),133646,0.9889203,No
+679,0.0,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4),133647,0.98631454,No
+680,0.0,1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPE (P-18:0/22:6)*,1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPC (P-18:0/22:6),133664,0.9198028,No
+681,0.0,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*,1-(1-enyl-palmitoyl)-GPE (P-16:0),133139,0.9044023,No
+682,0.0,1-(1-enyl-palmitoyl)-2-dihomo-linolenoyl-GPC (P-16:0/20:3)*,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2),84557,0.9268545,No
+683,0.0,1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1),84562,0.91395223,No
+684,0.0,1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6)*,1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6),133636,0.9888438,No
+685,0.0,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2),84557,0.9854541,No
+686,0.0,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4),77292,0.9864384,No
+687,0.0,1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPC (P-18:0/22:6)*,1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPC (P-18:0/22:6),133664,0.9886354,No
+688,0.0,1-stearyl-2-arachidonoyl-GPC (O-18:0/20:4)*,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),74965,0.85209703,No
+689,0.0,1-palmityl-2-oleoyl-GPC (O-16:0/18:1)*,1-palmityl-2-oleoyl-GPC (O-16:0/18:1),34112,0.9779654,No
+690,0.0,1-palmityl-2-arachidonoyl-GPC (O-16:0/20:4)*,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4),73003,0.89353496,No
+691,0.0,"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*",sphingomyelin (d16:1/16:0),133171,0.8877251,No
+692,0.0,behenoyl dihydrosphingomyelin (d18:0/22:0)*,behenoyl sphingomyelin (d18:1/22:0),74532,0.7827589,No
+693,0.0,"sphingomyelin (d18:0/18:0, d19:0/17:0)*",sphingomyelin (d18:0/18:1(9Z)),134074,0.9153886,No
+694,0.0,N-palmitoyl-sphinganine (d18:0/16:0),N-palmitoyl-C20-sphinganine,67017,0.8940037,No
+695,0.0,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0),lactosyl-N-palmitoylsphingosine,84757,0.82559156,No
+696,0.0,1-pentadecanoyl-2-linoleoyl-GPC (15:0/18:2)*,1-pentadecanoyl-2-linoleoyl-GPC (15:0/18:2),133617,0.97951126,No
+697,0.0,1-margaroyl-2-oleoyl-GPC (17:0/18:1)*,1-margaroyl-2-linoleoyl-GPC (17:0/18:2),84566,0.8258705,No
+698,0.0,1-margaroyl-2-linoleoyl-GPC (17:0/18:2)*,1-margaroyl-2-linoleoyl-GPC (17:0/18:2),84566,0.94120014,No
+699,0.0,myristoyl dihydrosphingomyelin (d18:0/14:0)*,Sphingomyelin (d18:0/24:0),84495,0.7211291,No
+700,0.0,phenylacetylglutamate,Phenylalanylglutamate,74712,0.92584354,No
+701,0.0,1-stearoyl-2-dihomo-linolenoyl-GPC (18:0/20:3n3 or 6)*,1-dihomo-linolenoyl-GPC(20:3n6),86256,0.83737123,No
+702,0.0,palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]*,1-Palmitoyl-2-linoleoyl-3-linoleoyl-glycerol,89842,0.85687757,No
+703,0.0,palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*,1-Palmitoyl-2-linoleoyl-3-linoleoyl-glycerol,89842,0.86722946,No
+704,0.0,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*,1-palmitoyl-2-oleoyl-GPI (16:0/18:1),72837,0.97835314,No
+705,0.0,1-stearoyl-2-docosahexaenoyl-GPI (18:0/22:6)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6),78266,0.8972921,No
+706,0.0,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2),133649,0.98578113,No
+707,0.0,1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*,1-oleoyl-2-linoleoyl-GPE (18:1/18:2),74977,0.96906817,No
+708,0.0,1-pentadecanoyl-2-arachidonoyl-GPC (15:0/20:4)*,1-pentadecanoyl-2-oleoyl-GPC (15:0/18:1),133623,0.8379322,No
+709,0.0,1-pentadecanoyl-2-docosahexaenoyl-GPC (15:0/22:6)*,1-pentadecanoyl-2-oleoyl-GPC (15:0/18:1),133623,0.836858,No
+710,0.0,1-margaroyl-2-arachidonoyl-GPC (17:0/20:4)*,1-margaroyl-2-linoleoyl-GPC (17:0/18:2),84566,0.81231207,No
+711,0.0,1-margaroyl-2-docosahexaenoyl-GPC (17:0/22:6)*,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6),84814,0.79431516,No
+712,0.0,1-arachidoyl-2-arachidonoyl-GPC (20:0/20:4)*,1-arachidoyl-GPC (20:0),74968,0.8628102,No
+713,0.0,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6),84814,0.98103654,No
+714,0.0,1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*,1-stearoyl-2-linoleoyl-GPC (18:0/18:2),84822,0.8368385,No
+715,0.0,1-palmityl-2-linoleoyl-GPC (O-16:0/18:2)*,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),73002,0.8813222,No
+716,0.0,1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2),84555,0.98428,No
+717,0.0,1-myristoyl-2-linoleoyl-GPC (14:0/18:2)*,1-margaroyl-2-linoleoyl-GPC (17:0/18:2),84566,0.73987776,No
+718,0.0,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*,1-myristoyl-2-palmitoyl-GPC (14:0/16:0),75062,0.74998903,No
+719,0.0,1-myristoyl-2-docosahexaenoyl-GPC (14:0/22:6)*,1-myristoyl-2-palmitoyl-GPC (14:0/16:0),75062,0.82292604,No
+720,0.0,1-stearoyl-2-docosapentaenoyl-GPC (18:0/22:5n3)*,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),84829,0.91517746,No
+721,0.0,1-stearoyl-2-docosapentaenoyl-GPC (18:0/22:5n6)*,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),84829,0.92949814,No
+722,0.0,1-palmitoyl-2-adrenoyl-GPC (16:0/22:4)*,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1),74000,0.8057594,No
+723,0.0,1-stearoyl-2-adrenoyl-GPC (18:0/22:4)*,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),74965,0.7761235,No
+724,0.0,1-stearyl-GPC (O-18:0)*,1-stearyl-GPC (O-18:0),75216,0.9404775,No
+725,0.0,1-oleoyl-2-dihomo-linolenoyl-GPC (18:1/20:3)*,1-oleoyl-2-dihomolinolenoyl-GPC (18:1/20:3),89618,0.89962393,No
+726,0.0,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1),84562,0.98497283,No
+727,0.0,1-(1-enyl-palmitoyl)-2-myristoyl-GPC (P-16:0/14:0)*,1-(1-enyl-palmitoyl)-2-myristoyl-GPC (P-16:0/14:0),133669,0.981844,No
+728,0.0,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0),133672,0.9792195,No
+729,0.0,"phosphatidylcholine (16:0/22:5n3, 18:1/20:4)*",Phosphatidylcholine(22:5n3/16:0),88433,0.94521624,No
+730,0.0,"phosphatidylcholine (18:0/20:5, 16:0/22:5n6)*",Phosphatidylcholine(18:1n9/20:4n6),89465,0.95352256,No
+731,0.0,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*,1-stearoyl-2-oleoyl-GPE (18:0/18:1),75038,0.8709251,No
+732,0.0,1-stearoyl-2-dihomo-linolenoyl-GPI (18:0/20:3n3 or 6)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2),84555,0.7651738,No
+733,0.0,1-palmitoyl-2-eicosapentaenoyl-GPE (16:0/20:5)*,1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5),86137,0.8999345,No
+734,0.0,1-stearoyl-2-dihomo-linolenoyl-GPE (18:0/20:3n3 or 6)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2),133675,0.8070653,No
+735,0.0,"1,2-dilinoleoyl-GPE (18:2/18:2)*",1-oleoyl-2-linoleoyl-GPE (18:1/18:2),74977,0.7144446,No
+736,0.0,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*,1-oleoyl-2-linoleoyl-GPE (18:1/18:2),74977,0.8448857,No
+737,0.0,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2),133675,0.9838832,No
+738,0.0,1-linoleoyl-GPG (18:2)*,1-linoleoyl-GPC (18:2),28733,0.7802665,No
+739,0.0,thioproline,Thiaproline,64564,0.8983994,No
+740,0.0,palmitoylcholine,palmitoylcholine,133677,1.0,No
+741,0.0,glycocholate glucuronide (1),glycocholate glucuronide,133682,0.92372113,No
+742,0.0,glycochenodeoxycholate glucuronide (1),glycochenodeoxycholate glucuronide,133684,0.93426913,No
+743,0.0,(S)-3-hydroxybutyrylcarnitine,3-hydroxybutyrylcarnitine,84842,0.85982364,No
+744,0.0,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0),N-palmitoyl-sphingosine,72959,0.86812574,No
+745,0.0,methylsuccinoylcarnitine,methylglutarylcarnitine,86486,0.734629,No
+746,0.0,oleoylcholine,oleoyllysophosphatidylcholine,76083,0.7762282,No
+747,0.0,arachidonoylcholine,2-arachidonoyllysophosphatidylcholine,76079,0.75262284,No
+748,0.0,docosahexaenoylcholine,oxo-docosahexaenoate,133526,0.7380532,No
+749,0.0,dihomo-linolenoyl-choline,dihomo-gamma-linolenoyl-R,76182,0.72518086,No
+750,0.0,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*,1-linolenoyl-GPC (18:3),133456,0.89013565,No
+751,0.0,1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),73002,0.9640657,No
+752,0.0,"phosphatidylcholine (14:0/14:0, 16:0/12:0)",phosphatidylcholine(14:0_16:0),167242,0.94402385,No
+753,0.0,"phosphatidylcholine (15:0/18:1, 17:0/16:1, 16:0/17:1)*",phosphatidylcholine(15:0_16:0),167245,0.9069632,No
+754,0.0,1-oleoyl-2-dihomo-linoleoyl-GPC (18:1/20:2)*,1-oleoyl-2-linoleoyl-GPC (18:1/18:2),74670,0.9304248,No
+755,0.0,"phosphatidylcholine (18:0/20:2, 20:0/18:2)*",Phosphatidylcholine(18:0/20:4),74965,0.934167,No
+756,0.0,1-(1-enyl-oleoyl)-2-docosahexaenoyl-GPE (P-18:1/22:6)*,1-(1-enyl-stearoyl)-2-oleoyl-GPC (P-18:0/18:1),86241,0.83577526,No
+757,0.0,1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2),133675,0.9261184,No
+758,0.0,hexadecadienoate (16:2n6),hexadecadienoate,78096,0.7654986,No
+759,0.0,palmitoleoylcarnitine (C16:1)*,L-Palmitoylcarnitine,17490,0.74711955,Yes
+760,0.0,pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC),O-methylmalonylcarnitine(1-),133076,0.70063007,No
+761,0.0,4-hydroxyphenylacetylglutamine,4-Hydroxyphenylacetylglutamate,28036,0.9154549,No
+762,0.0,"2,3-dihydroxy-2-methylbutyrate",2-Hydroxy-3-methylbutyrate,64669,0.92697734,No
+763,0.0,2'-O-methylcytidine,2'-O-methylcytidine,19228,1.0,No
+764,0.0,2'-O-methyluridine,2'-O-methyluridine,19227,1.0,No
+765,0.0,gamma-glutamyl-alpha-lysine,gamma-glutamyl-epsilon-lysine,88494,0.8952041,No
+766,0.0,palmitoyl-oleoyl-glycerol (16:0/18:1) [2]*,1-Palmitoleoyl-2-oleoyl-sn-glycerol,88500,0.8573504,No
+767,0.0,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,1-Oleoyl-2-oleoyl-3-eicosenoyl-glycerol,131977,0.7885436,No
+768,0.0,oleoyl-oleoyl-glycerol (18:1/18:1) [2]*,1-Oleoyl-2-oleoyl-3-eicosenoyl-glycerol,131977,0.799053,No
+769,0.0,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*,1-Linoleoyl-3-arachidonoyl-sn-glycerol,156117,0.8620598,No
+770,0.0,palmitoyl-arachidonoyl-glycerol (16:0/20:4) [2]*,1-Palmitoyl-2-palmitoleoyl-3-arachidonoyl-glycerol,89777,0.87376964,No
+771,0.0,linoleoyl-linolenoyl-glycerol (18:2/18:3) [2]*,1-Linoleoyl-2-g-linolenoyl-sn-glycerol,89210,0.8503683,No
+772,0.0,palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]*,1-Linoleoyl-2-palmitoleoyl-sn-glycerol,89208,0.8538869,No
+773,0.0,oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*,1-Oleoyl-2-oleoyl-3-arachidonoyl-glycerol,90042,0.8698252,No
+774,0.0,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*,1-Oleoyl-2-oleoyl-3-arachidonoyl-glycerol,90042,0.8768763,No
+775,0.0,"diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*",Diacylglycerol(16:1n7/18:1n9),88500,0.9009539,No
+776,0.0,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*,1-Linoleoyl-2-g-linolenoyl-sn-glycerol,89210,0.8231015,No
+777,0.0,stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]*,1-Stearoyl-2-arachidonyl-sn-glycerol,88518,0.8547086,No
+778,0.0,stearoyl-arachidonoyl-glycerol (18:0/20:4) [2]*,1-Stearoyl-2-arachidonyl-sn-glycerol,88518,0.86346495,No
+779,0.0,perfluorooctanesulfonate (PFOS),perfluoromethanesulfonic acid,48511,0.7859875,No
+780,0.0,1-palmityl-GPE (O-16:0)*,1-palmitoyl-GPE (16:0),73004,0.7556105,No
+781,0.0,1-palmityl-2-stearoyl-GPC (O-16:0/18:0)*,1-palmitoyl-2-stearoyl-GPC (16:0/18:0),73000,0.9008626,No
+782,0.0,1-palmityl-2-palmitoyl-GPC (O-16:0/16:0)*,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1),74000,0.9193497,No
+783,0.0,1-stearyl-2-docosapentaenoyl-GPC (O-18:0/22:5n3)*,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),84829,0.84281206,No
+784,0.0,1-stearoyl-2-docosapentaenoyl-GPE (18:0/22:5n3)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6),78266,0.9139356,No
+785,0.0,1-stearoyl-2-docosapentaenoyl-GPE (18:0/22:5n6)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6),78266,0.9280231,No
+786,0.0,1-stearoyl-2-adrenoyl-GPE (18:0/22:4)*,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),78268,0.7751115,No
+787,0.0,1-(1-enyl-stearoyl)-2-docosapentaenoyl-GPE (P-18:0/22:5n3)*,1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPC (P-18:0/22:6),133664,0.90094113,No
+788,0.0,1-palmitoleoyl-2-eicosapentaenoyl-GPC (16:1/20:5)*,1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5),86137,0.947059,No
+789,0.0,palmitoyl-docosahexaenoyl-glycerol (16:0/22:6) [1]*,1-palmitoyl-2-docosahexaenoyl-sn-glycerol,82949,0.86152476,No
+790,0.0,lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,beta-lactosyl-N-(2-hydroxydocosanoyl)sphingosine,62723,0.77256,No
+791,0.0,N-behenoyl-sphingadienine (d18:2/22:0)*,"N-behenoyl-(4E,14Z)-sphinga-4,14-dienine",134550,0.77736604,No
+792,0.0,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*,beta-D-glucosyl-N-(behenoyl)sphingosine,62107,0.80751157,No
+793,0.0,N-palmitoylserine,N-palmitoyltaurine,132477,0.8120276,No
+794,0.0,palmitoleoyl-arachidonoyl-glycerol (16:1/20:4) [2]*,1-Palmitoleoyl-2-arachidonoyl-sn-glycerol,88489,0.8677722,No
+795,0.0,"phosphatidylethanolamine (P-18:1/20:4, P-16:0/22:5n3)*",phosphatidylethanolamine(P-18:1/20:3),167291,0.91573274,No
+796,0.0,1-palmitoyl-2-(hydroxylinoleoyl)-GPC (16:0/18:2(OH))*,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1),74000,0.84302914,No
+797,0.0,"ceramide (d16:1/24:1, d18:1/22:1)*",Ceramide (d18:1/16:0),72959,0.9190613,No
+798,0.0,"ceramide (d18:1/14:0, d16:1/16:0)*",Ceramide (d18:1/16:0),72959,0.9152045,No
+799,0.0,"ceramide (d18:1/17:0, d17:1/18:0)*",Ceramide (d18:1/16:0),72959,0.9186345,No
+800,0.0,"ceramide (d18:2/24:1, d18:1/24:2)*",Ceramide (d18:1/16:0),72959,0.9101391,No
+801,0.0,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*",Glucosyl(beta) Ceramide (d18:1/24:1(15Z)),76302,0.8444004,No
+802,0.0,"ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*",Ceramide (d18:1/16:0),72959,0.88733256,No
+803,0.0,stearoylcholine*,stearoyl,26753,0.7131866,Yes
+804,0.0,linoleoylcholine*,linolenoyl,32388,0.64054,No
+805,0.0,"sphingomyelin (d18:0/20:0, d16:0/22:0)*",sphingomyelin (d18:0/18:1(11Z)),134073,0.89942163,No
+806,0.0,"sphingomyelin (d18:1/19:0, d19:1/18:0)*",sphingomyelin (d18:1/22:0),74532,0.9267984,No
+807,0.0,sphingomyelin (d18:2/18:1)*,sphingomyelin (d18:1/18:1),85593,0.95458287,No
+808,0.0,sphingomyelin (d18:2/24:2)*,sphingomyelin (d18:1/24:0),83360,0.935903,No
+809,0.0,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",Sphingomyelin (d18:1/16:0),78646,0.92112166,No
+810,0.0,sphingomyelin (d18:2/23:1)*,sphingomyelin(d18:1/23:3),131460,0.9439913,No
+811,0.0,"sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*",Sphingomyelin (d18:1/16:0),78646,0.86334777,No
+812,0.0,"sphingomyelin (d17:2/16:0, d18:2/15:0)*",Sphingomyelin (d18:1/16:0),78646,0.8973988,No
+813,0.0,linolenoylcarnitine (C18:3)*,linoleylcarnitine,73072,0.8284719,No
+814,0.0,behenoylcarnitine (C22)*,behenoylcarnitine,73105,0.7309284,No
+815,0.0,arachidoylcarnitine (C20)*,(R)-arachidoylcarnitine,84645,0.85862887,No
+816,0.0,lignoceroylcarnitine (C24)*,hexadecenoylcarnitines,86032,0.7082212,No
+817,0.0,cerotoylcarnitine (C26)*,(R)-eicosanoylcarnitine,84645,0.70874363,No
+818,0.0,ximenoylcarnitine (C26:1)*,O-octadecenoylcarnitines,86475,0.69532776,No
+819,0.0,arachidonoylcarnitine (C20:4),(R)-arachidoylcarnitine,84645,0.7343152,No
+820,0.0,eicosenoylcarnitine (C20:1)*,(R)-eicosanoylcarnitine,84645,0.7552448,No
+821,0.0,dihomo-linoleoylcarnitine (C20:2)*,1-dihomo-linoleoyl-GPC (20:2),83055,0.67255664,No
+822,0.0,dihomo-linolenoylcarnitine (C20:3n3 or 6)*,Hexadecanoyl-L-carnitine,17490,0.6990388,Yes
+823,0.0,docosahexaenoylcarnitine (C22:6)*,"all-cis-7,10,13,16-docosatetraenoylcarnitine",73122,0.76873857,No
+824,0.0,nervonoylcarnitine (C24:1)*,(5E)-tetradecenoylcarnitine,131957,0.71104074,No
+825,0.0,adrenoylcarnitine (C22:4)*,3-hydroxyicosanoylcarnitine,73103,0.65127504,No
+826,0.0,docosapentaenoylcarnitine (C22:5n3)*,"all-cis-7,10,13,16-docosatetraenoylcarnitine",73122,0.7638426,No
+827,0.0,1-lignoceroyl-2-arachidonoyl-GPC (24:0/20:4)*,1-linoleoyl-2-arachidonoyl-GPC,84563,0.7896995,No
+828,0.0,"N,N,N-trimethyl-5-aminovalerate",2-Oxo-4-hydroxy-5-aminovalerate,1241,0.80203384,No
+829,0.0,ethyl alpha-glucopyranoside,methyl alpha-D-glucopyranoside,320061,0.7825321,No
+830,0.0,carotene diol (1),"beta,beta-carotene-3,3'-diol",27547,0.7028807,No
+831,0.0,carotene diol (2),"beta,beta-carotene-3,3'-diol",27547,0.707498,No
+832,0.0,carotene diol (3),"beta,beta-carotene-3,3'-diol",27547,0.74902517,No
+833,0.0,cortolone glucuronide (1),20beta-Cortolone-3-glucuronide,88773,0.7749403,No
+834,0.0,(N(1) + N(8))-acetylspermidine,N(8)-acetylspermidine,58535,0.8577777,No
+835,0.0,5-dodecenoylcarnitine (C12:1),cis-5-dodecenoylcarnitine,73053,0.7892714,No
+836,0.0,2-butenoylglycine,N-butanoylglycine,89963,0.79374766,No
+837,0.0,hydroxy-CMPF*,hydroxy,43176,0.6169853,No
+838,0.0,trans-2-hexenoylglycine,"trans-2,4-hexadienal",82334,0.7014835,No
+839,0.0,dodecenedioate (C12:1-DC)*,"1,12-diascorbyl dodecanedioate",59753,0.6691735,No
+840,0.0,hexadecenedioate (C16:1-DC)*,1-n-Hexadecene,77507,0.68591887,No
+841,0.0,octadecenedioate (C18:1-DC),1-octadecene,30824,0.72147465,No
+842,0.0,octadecadienedioate (C18:2-DC)*,"1,18-octadecanedioate",133087,0.7481872,No
+843,0.0,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**,3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid,41254,0.80109125,No
+844,0.0,glucuronide of C10H18O2 (7)*,3-hydroxycotinine glucuronide(1-),133205,0.6827384,No
+845,0.0,3-hydroxystachydrine*,3-Hydroxystachydrine,1556,0.9394648,No
+846,0.0,N-acetyl-2-aminooctanoate*,2-aminooctanoate,142420,0.82825875,No
+847,0.0,hydroxyasparagine**,"(2S,3S)-3-hydroxyasparagine",58850,0.6814737,No
+848,0.0,perfluorooctanoate (PFOA),perfluorooctane,38826,0.80249393,No
+849,0.0,glyco-beta-muricholate**,beta-muricholate,134119,0.79163814,No
+850,0.0,3-formylindole,3-Formylindole,28238,1.0,No
+851,0.0,pyroglutamylalanine*,glutaminylphenylalanine,141430,0.6991323,No
+852,0.0,pyroglutamylleucine*,Pyro-L-glutaminyl-L-glutamine,88956,0.6504765,No
+853,0.0,gamma-glutamylcitrulline*,gamma-Glutamylvaline,68848,0.7288961,No
+854,0.0,glycine conjugate of C10H12O2*,hyocholic acid-glycine conjugate,133176,0.6810697,No
+855,0.0,glycine conjugate of C10H14O2 (1)*,hyocholic acid-glycine conjugate,133176,0.6618328,No
+856,0.0,glutamine conjugate of C7H12O2*,Glutathione-S-acetaminophen conjugate,32639,0.64642876,Yes
+857,0.0,glutamine conjugate of C6H10O2 (1)*,Glutathione-S-acetaminophen conjugate,32639,0.6242561,Yes
+858,0.0,glutamine conjugate of C6H10O2 (2)*,Glutathione-S-acetaminophen conjugate,32639,0.6212153,Yes
+859,0.0,tetradecadienoate (14:2)*,tetradecadienals,73720,0.67035836,No
+860,0.0,3-amino-2-piperidone,3-amino-2-piperidone,76341,1.0,No
+861,0.0,"N,N-dimethylalanine","N,N-dimethylalanine",77042,1.0,No
+862,0.0,3-indoleglyoxylic acid,3-indolylacrylic acid,132244,0.8950475,No
+863,0.0,ethyl beta-glucopyranoside,ethyl beta-D-glucopyranosiduronic acid,87248,0.78042644,No
+864,0.0,2-hydroxysebacate,2-Hydroxysebacate,89312,1.0,No
+865,0.0,ascorbic acid 3-sulfate*,Ascorbic acid,29073,0.77850235,Yes
+866,0.0,6-bromotryptophan,5-bromotryptophan,133686,0.85498184,No
+867,0.0,1-carboxyethylphenylalanine,p-carboxymethylphenylalanine,228213,0.80732524,No
+868,0.0,1-carboxyethylvaline,1-carboxyvinyl carboxyphosphonate,57999,0.70742637,No
+869,0.0,1-carboxyethylleucine,2-carboxyethyl,50329,0.68185884,No
+870,0.0,1-carboxyethylisoleucine,1-carboxylatovinyl carboxylatophosphonate,57999,0.70494634,No
+871,0.0,dodecadienoate (12:2)*,dodecanoate,18262,0.67409337,No
+872,0.0,N-acetyl-isoputreanine,N-acetylisoputreanine-gamma-lactam,133185,0.71119636,No
+873,0.0,glucuronide of piperine metabolite C17H21NO3 (3)*,Glycocholic acid 3-glucuronide,89282,0.58865696,No
+874,0.0,glucuronide of piperine metabolite C17H21NO3 (4)*,4-Methylumbelliferyl glucuronide,1904,0.5928739,No
+875,0.0,glucuronide of piperine metabolite C17H21NO3 (5)*,4-Methylumbelliferyl glucuronide,1904,0.58838934,No
+876,0.0,sulfate of piperine metabolite C16H19NO3 (2)*,"Piperazine-1,4-diethanesulfonate, sodium salt",63077,0.6228316,No
+877,0.0,sulfate of piperine metabolite C16H19NO3 (3)*,"Piperazine-1,4-diethanesulfonate, sodium salt",63077,0.61994755,No
+878,0.0,sulfate of piperine metabolite C18H21NO3 (1)*,"Piperazine-1,4-diethanesulfonate, sodium salt",63077,0.6277539,No
+879,0.0,2-naphthol sulfate,2-naphthol sulfate,167215,1.0,No
+880,0.0,4-ethylcatechol sulfate,2-ethylhexyl sulfate,87808,0.8196935,No
+881,0.0,11beta-hydroxyandrosterone glucuronide,11beta-hydroxyandrosterone 3-glucuronide,88733,0.9454179,No
+882,0.0,"N2-acetyl,N6,N6-dimethyllysine",N(6)-ACETYLLYSINE,17752,0.7627073,No
+883,0.0,deoxycholic acid glucuronide,deoxycholic acid 24-glucuronide,137799,0.9055303,No
+884,0.0,4-allylcatechol sulfate,4-allylphenol sulfate,133096,0.851124,No
+885,0.0,4-methylhexanoylglutamine,4-methyleneglutamic acid,48029,0.8092762,No
+886,0.0,glycoursodeoxycholic acid sulfate (1),Glycoursodeoxycholic acid 3-sulfate,89129,0.90097654,No
+887,0.0,dihydrocaffeate sulfate (2),caffeate sulfate(2-),133740,0.6862249,No
+888,0.0,lithocholate sulfate (1),lithocholate 3-sulfate(2-),133940,0.926877,Yes
+889,0.0,3-(methylthio)acetaminophen sulfate*,4-acetamido-3-methoxyphenyl sulfate,133502,0.765495,No
+890,0.0,2-ketocaprylate,2-keto-n-caprylate,176689,0.8639125,No
+891,0.0,"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*",trans-2-methyl-2-pentenoate(1-),192252,0.697421,No
+892,0.0,3-hydroxy-2-methylpyridine sulfate,"2-methyl-3-hydroxy-4,5-dihydroxymethylpyridine",16709,0.8056817,Yes
+893,0.0,hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,sphingomyelin (d18:1(4E)/12:0),137334,0.845447,No
+894,0.0,tetradecadienedioate (C14:2-DC)*,tetradecanedioate,76281,0.70650536,No
+895,0.0,pregnenetriol disulfate*,pregnen-diol disulfate,132994,0.70774245,No
+896,0.0,eicosenedioate (C20:1-DC)*,1-Eicosenoyl-2-eicsoic acid,89151,0.6608759,No
+897,0.0,"hydroxy-N6,N6,N6-trimethyllysine*",N6-Acetyl-N6-hydroxylysine,17374,0.76736313,No
+898,0.0,undecenoylcarnitine (C11:1),undecenoylcarnitines,132135,0.78943723,No
+899,0.0,3-decenoylcarnitine,decenoylcarnitine,86063,0.8446691,No
+900,0.0,palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0),N-palmitoyl-sphingosine,72959,0.7996705,No
+901,0.0,4-vinylcatechol sulfate,4-acetylphenyl sulfate,133226,0.7171655,No
+902,0.0,"3,5-dichloro-2,6-dihydroxybenzoic acid","3,5-dichloro-2-hydroxybenzoic acid",165214,0.95661867,No
+903,0.0,(S)-a-amino-omega-caprolactam,L-alpha-amino-epsilon-caprolactam,17342,0.79669255,No
+904,0.0,metabolonic lactone sulfate,Lactosylceramide sulfate,37986,0.7141527,No
+905,0.0,vanillic acid glycine,Vanillic acid,30816,0.75281775,No
+906,0.0,branched chain 14:0 dicarboxylic acid**,Long-chain carboxylic acid,6526,0.64245874,No
+907,0.0,1-methyl-5-imidazolelactate,1-methyl-Imidazole-5-acetic acid,70966,0.77576506,No
+908,0.0,(2 or 3)-decenoate (10:1n7 or n8),(2E)-decenoate(1-),143529,0.74069947,No
+909,0.0,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*",branched-chain fatty acids,35819,0.74909353,No
+910,0.0,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid*","3-bromo-4,5-dihydroxybenzoic acid",140242,0.8594689,No
+911,0.0,"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*",branched-chain fatty acids,35819,0.7631037,No
+912,0.0,decadienedioic acid (C10:2-DC)**,Decenedioic acid,89730,0.753744,No
+913,0.0,deoxycholic acid 12-sulfate*,Deoxycholic acid 3-sulfate,88888,0.87695587,No
+914,0.0,GlcNAc sulfate conjugate of C21H34O2 steroid**,C20 galactosylceramide sulfate,83890,0.6259436,No
+915,0.0,"cis-3,4-methyleneheptanoate","cis-3,4-dihydro-3,4-dihydroxyphenanthrene",23286,0.7450265,No
+916,0.0,"cis-3,4-methyleneheptanoylcarnitine",9-cis-3-hydroxyoctadecenoylcarnitine,73076,0.8462314,No
+917,0.0,N-acetyl-2-aminoadipate,N2-Acetyl-L-aminoadipate,31885,0.94881326,No
+918,0.0,4-chlorobenzoic acid,4-chlorobenzoic acid,30747,1.0,No
+919,0.0,"2,4-di-tert-butylphenol","2,4-Tert-butylphenol",89188,0.9619307,No
+920,0.0,3-hydroxyoctanoylcarnitine (1),3-Hydroxytetradecenoylcarnitine,89748,0.8180071,No
+921,0.0,"cis-3,4-methyleneheptanoylglycine",(S)-a-methyl-4-carboxyphenylglycine,43876,0.7455,No
+922,0.0,"bilirubin degradation product, C16H18N2O5 (1)**",Bilirubin glucuronate,16427,0.64868975,Yes
+923,0.0,"bilirubin degradation product, C16H18N2O5 (2)**",Bilirubin glucuronate,16427,0.64396113,Yes
+924,0.0,"bilirubin degradation product, C17H18N2O4 (1)**",Bilirubin glucuronate,16427,0.6503292,Yes
+925,0.0,"bilirubin degradation product, C17H18N2O4 (2)**",Bilirubin glucuronate,16427,0.645196,Yes
+926,0.0,"bilirubin degradation product, C17H18N2O4 (3)**",Bilirubin glucuronate,16427,0.6443739,Yes
+927,0.0,"bilirubin degradation product, C17H20N2O5 (1)**",Bilirubin glucuronate,16427,0.6452001,Yes
+928,0.0,"bilirubin degradation product, C17H20N2O5 (2)**",Bilirubin glucuronate,16427,0.64028734,Yes
+929,0.0,tetrahydrocortisol glucuronide,Tetrahydrocortisol,28320,0.7370105,No
+930,0.0,"N,N-dimethyl-pro-pro","N,N-dimethyl-D-proline",134398,0.76996255,No
+931,0.0,oxindolylalanine,oxindolylalanine,195382,1.0,No
+932,0.0,tetrahydrocortisone glucuronide (5),Tetrahydroaldosterone-3-glucuronoside,88728,0.74239063,No

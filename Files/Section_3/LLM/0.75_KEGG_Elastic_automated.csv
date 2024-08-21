@@ -1,0 +1,783 @@
+Input Compound Name,Matched Compound Name,Matched COMPOUND_ID,Source
+s-1-pyrroline-5-carboxylate,S-1-pyrroline-5-carboxylate,17388,ChEBI
+spermidine,Spermidine,16610,KEGG COMPOUND
+1-methylnicotinamide,1-Methylnicotinamide,16797,KEGG COMPOUND
+5-hydroxyindoleacetate,5-hydroxyindoleacetate(1-),62622,SUBMITTER
+alpha-ketoglutarate,alpha-ketoglutarate,16810,ChEBI
+kynurenate,Kynurenate,18344,KEGG COMPOUND
+3-hydroxyisobutyrate,3-Hydroxyisobutyrate,11805,KEGG COMPOUND
+3-hydroxy-3-methylglutarate,3-hydroxy-3-methylglutarate,17325,UniProt
+3-phosphoglycerate,3-Phosphoglycerate,17050,KEGG COMPOUND
+cholate,cholate,29747,UniProt
+4-hydroxyphenylacetate,4-Hydroxyphenylacetate,18101,KEGG COMPOUND
+"5,6-dihydrothymine","5,6-Dihydrothymine",27468,KEGG COMPOUND
+hypoxanthine,Hypoxanthine,17368,KEGG COMPOUND
+linoleate (18:2n6),"6,9-linoleate",78705,MetaCyc
+quinolinate,quinolinate,29959,ChEBI
+"n6,n6,n6-trimethyllysine",N-TRIMETHYLLYSINE,17311,PDBeChem
+n-acetylputrescine,N-Acetylputrescine,17768,KEGG COMPOUND
+n-formylmethionine,N-formylmethionine,16552,ChemIDplus
+s-adenosylhomocysteine (sah),S-Adenosylhomocysteine,16680,KEGG COMPOUND
+"adenosine 3',5'-cyclic monophosphate (camp)","adenosine 3',5'-cyclic monophosphate",58165,ChEBI
+adenosine 5'-monophosphate (amp),Adenosine 5'-monophosphate,16027,KEGG COMPOUND
+5-methylthioadenosine (mta),5-Methylthioadenosine,17509,KEGG COMPOUND
+arginine,Arginine,29016,KEGG COMPOUND
+aspartate,aspartate,72314,ChEBI
+2-hydroxyphenylacetate,2-hydroxyphenylacetate,62423,ChEBI
+3-(4-hydroxyphenyl)lactate,3-(4-Hydroxyphenyl)lactate,36659,KEGG COMPOUND
+phenylpyruvate,Phenylpyruvate,30851,KEGG COMPOUND
+beta-alanine,beta-Alanine,16958,KEGG COMPOUND
+carnosine,Carnosine,15727,KEGG COMPOUND
+biliverdin,Biliverdin,17033,KEGG COMPOUND
+succinate,succinate,30031,UniProt
+cholesterol,Cholesterol,16113,KEGG COMPOUND
+choline phosphate,Choline phosphate,18132,KEGG COMPOUND
+corticosterone,Corticosterone,16827,KEGG COMPOUND
+cortisone,Cortisone,16962,KEGG COMPOUND
+creatinine,Creatinine,16737,KEGG COMPOUND
+cysteinylglycine,Cysteinylglycine,4047,ChemIDplus
+cystine,Cystine,17376,KEGG COMPOUND
+sphingosine,Sphingosine,16393,KEGG COMPOUND
+deoxycholate,deoxycholate,23614,UniProt
+cystathionine,Cystathionine,17755,KEGG COMPOUND
+sphinganine,Sphinganine,16566,KEGG COMPOUND
+flavin adenine dinucleotide (fad),FLAVIN-ADENINE DINUCLEOTIDE,16238,PDBeChem
+fumarate,fumarate,29806,UniProt
+gamma-glutamylglutamate,gamma-Glutamylglutamate,73705,ChemIDplus
+gluconate,gluconate,24265,IUPAC
+glycine,Glycine,15428,KEGG COMPOUND
+glycocholate,glycocholate,29746,UniProt
+guanidinoacetate,Guanidinoacetate,16344,KEGG COMPOUND
+histidine,Histidine,27570,KEGG COMPOUND
+cortisol,Cortisol,17650,KEGG COMPOUND
+hypotaurine,Hypotaurine,16668,KEGG COMPOUND
+inosine,Inosine,17596,KEGG COMPOUND
+myo-inositol,myo-Inositol,17268,KEGG COMPOUND
+isoleucine,ISOLEUCINE,17191,PDBeChem
+2-aminoadipate,2-aminoadipic acid,37024,ChemIDplus
+citrulline,Citrulline,18211,KEGG COMPOUND
+leucine,LEUCINE,15603,PDBeChem
+lysine,lysine,25094,IUPAC
+malate,Malate,30797,KEGG COMPOUND
+methionine,Methionine,16811,KEGG COMPOUND
+nicotinamide,nicotinamide,17154,WHO MedNet
+ornithine,Ornithine,18257,KEGG COMPOUND
+orotate,orotate,30839,UniProt
+palmitoleate (16:1n7),2-palmitoleate,72745,SUBMITTER
+phenylalanine,Phenylalanine,28044,KEGG COMPOUND
+phosphate,Phosphate,18367,KEGG COMPOUND
+proline,PROLINE,17203,PDBeChem
+lactate,lactate,24996,UniProt
+pyridoxal,Pyridoxal,17310,KEGG COMPOUND
+retinol (vitamin a),retinol (vit A),17336,DrugCentral
+salicylate,Salicylate,30762,KEGG COMPOUND
+serine,Serine,17822,KEGG COMPOUND
+serotonin,Serotonin,28790,KEGG COMPOUND
+taurine,Taurine,15891,KEGG COMPOUND
+urea,Urea,16199,KEGG COMPOUND
+uridine,Uridine,16704,KEGG COMPOUND
+trans-urocanate,trans-urocanate,17771,UniProt
+glutamate,Glutamate,18237,KEGG COMPOUND
+glutamine,Glutamine,28300,KEGG COMPOUND
+threonine,THREONINE,16857,PDBeChem
+tryptophan,Tryptophan,27897,KEGG COMPOUND
+valine,VALINE,16414,PDBeChem
+glucose,Glucose,17234,KEGG COMPOUND
+alpha-ketobutyrate,alpha-Ketobutyrate,30831,KEGG COMPOUND
+adenosine,Adenosine,16335,KEGG COMPOUND
+betaine,Betaine,17750,KEGG COMPOUND
+cysteine,Cysteine,15356,KEGG COMPOUND
+mannose,mannose,37684,IUPAC
+dimethylglycine,Dimethylglycine,17724,KEGG COMPOUND
+alanine,Alanine,16449,KEGG COMPOUND
+tyrosine,Tyrosine,18186,KEGG COMPOUND
+pseudouridine,Pseudouridine,17802,KEGG COMPOUND
+pyruvate,pyruvate,15361,UniProt
+uracil,Uracil,17568,KEGG COMPOUND
+cytidine,Cytidine,17562,KEGG COMPOUND
+caffeine,Caffeine,27732,KEGG COMPOUND
+fructose,Fructose,28757,KEGG COMPOUND
+adenine,Adenine,16708,KEGG COMPOUND
+cytosine,Cytosine,16040,KEGG COMPOUND
+maltose,Maltose,17306,KEGG COMPOUND
+asparagine,ASPARAGINE,50347,PDBeChem
+n-stearoyl-sphinganine (d18:0/18:0)*,N-stearoyl-C16-sphinganine,82811,SUBMITTER
+dihydroorotate,(S)-dihydroorotate,30864,UniProt
+trans-4-hydroxyproline,4-hydroxyproline,20392,IUPAC
+allantoin,Allantoin,15676,KEGG COMPOUND
+xanthine,Xanthine,17712,KEGG COMPOUND
+5-oxoproline,5-Oxoproline,16010,KEGG COMPOUND
+picolinate,picolinate,38184,UniProt
+sarcosine,Sarcosine,15611,KEGG COMPOUND
+pantothenate,pantothenate,16454,UniProt
+pipecolate,L-Pipecolate,30633,KEGG COMPOUND
+phosphoethanolamine,Phosphoethanolamine,17553,KEGG COMPOUND
+glycerate,(R)-glycerate,16659,UniProt
+3-ureidopropionate,3-Ureidopropionate,18261,KEGG COMPOUND
+n-acetylleucine,N-acetylleucine,17786,ChemIDplus
+n-acetylmethionine,N-Acetylmethionine,21557,KEGG COMPOUND
+n-acetylvaline,N-Acetylvaline,21565,ChemIDplus
+"bilirubin (z,z)","bilirubin(Z,Z)",16990,ChEBI
+thyroxine,thyroxine,30660,IUPAC
+gamma-glutamyltyrosine,gamma-glutamyltyrosine,82969,ChEBI
+methyl indole-3-acetate,indole-3-acetate ester,64633,ChEBI
+alpha-tocopherol,alpha-Tocopherol,18145,KEGG COMPOUND
+n-acetylalanine,N-Acetylalanine,40992,DrugBank
+4-acetamidobutanoate,4-acetamidobutanoate,11951,IUPAC
+3-aminoisobutyrate,L-3-aminoisobutyrate,18188,ChEBI
+citrate,citrate,50744,ChEBI
+2-aminobutyrate,D-2-Aminobutyrate,28797,KEGG COMPOUND
+urate,Urate,17775,KEGG COMPOUND
+ursodeoxycholate,Ursodeoxycholate,9907,KEGG COMPOUND
+oleoyl ethanolamide,oleoyl 1-ethanolamide,71466,SUBMITTER
+gamma-glutamylglutamine,gamma-Glutamylglutamate,73705,ChemIDplus
+4-hydroxyphenylpyruvate,4-Hydroxyphenylpyruvate,36242,KEGG COMPOUND
+butyrate/isobutyrate (4:0),isobutyl butyrate,87683,ChemIDplus
+tigloylglycine,N-Tiglylglycine,73018,HMDB
+n-acetylneuraminate,N-acetylneuraminate,21619,ChEBI
+n-acetylglucosaminylasparagine,N-Acetylglucosaminylasparagine,17261,ChemIDplus
+acetoacetate,Acetoacetate,13705,KEGG COMPOUND
+creatine,Creatine,16919,KEGG COMPOUND
+"cys-gly, oxidized","Cys-Gly, oxidized",133040,ChEBI
+estrone 3-sulfate,Estrone 3-sulfate,17474,KEGG COMPOUND
+dihomo-linoleate (20:2n6),dihomo-linoleate (20:2n6),83066,ChEBI
+gamma-glutamylhistidine,gamma-glutamylhistidine,133032,ChEBI
+2-hydroxystearate,2-hydroxystearate,76724,ChEBI
+n1-methyladenosine,N-methyladenosine,21891,IUPAC
+glycerol,Glycerol,17754,KEGG COMPOUND
+choline,Choline,15354,KEGG COMPOUND
+gamma-glutamylleucine,gamma-glutamylleucine(1-),133038,ChEBI
+3-methoxytyrosine,3-hydroxytyrosine,49168,IUPAC
+4-acetamidophenol,4-acetamidophenol,46195,NIST Chemistry WebBook
+beta-hydroxyisovalerate,beta-hydroxyisovalerate,82957,ChEBI
+arachidonoyl ethanolamide,arachidonoyl ethanolamide,2700,ChemIDplus
+palmitoyl ethanolamide,palmitoleyl alcohol,75623,SUBMITTER
+n-palmitoyl-sphingosine (d18:1/16:0),N-palmitoyl-sphingosine,72959,ChEBI
+1-palmitoyl-2-oleoyl-gpe (16:0/18:1),1-palmitoyl-2-oleoyl-GPC (16:0/18:1),73001,ChEBI
+1-palmitoyl-2-linoleoyl-gpi (16:0/18:2),1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),72838,ChEBI
+1-palmitoyl-2-linoleoyl-gpc (16:0/18:2),1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),73002,ChEBI
+stearoyl sphingomyelin (d18:1/18:0),stearoyl sphingomyelin,83358,ChEBI
+1-palmitoyl-2-oleoyl-gpc (16:0/18:1),1-palmitoyl-2-oleoyl-GPC (16:0/18:1),73001,ChEBI
+n-stearoyl-sphingosine (d18:1/18:0)*,N-C24:1-C17-sphingosine,74185,SUBMITTER
+glycochenodeoxycholate,Glycochenodeoxycholate,36274,KEGG COMPOUND
+taurochenodeoxycholate,Taurochenodeoxycholate,9407,KEGG COMPOUND
+taurocholate,Taurocholate,28865,KEGG COMPOUND
+taurodeoxycholate,Taurodeoxycholate,9410,KEGG COMPOUND
+2-hydroxyhippurate (salicylurate),2-hydroxyhippurate,132923,ChEBI
+3-(n-acetyl-l-cystein-s-yl) acetaminophen,3-(N-acetyl-L-cystein-S-yl)acetaminophen,133435,ChEBI
+4-acetaminophen sulfate,4-acetaminophen sulfate,32635,ChEBI
+eicosapentaenoate (epa; 20:5n3),eicosapentaenoate,61330,ChEBI
+methylsuccinate,methylsuccinates,132961,ChEBI
+ethylmalonate,Ethylmaleimide,44485,ChemIDplus
+carnitine,Carnitine,3424,KEGG COMPOUND
+benzoate,benzoate,16150,IUPAC
+3-phenylpropionate (hydrocinnamate),3-phenyl-3-hydroxypropionitrile,189864,ChEBI
+hippurate,Hippurate,18089,KEGG COMPOUND
+xanthurenate,xanthurenate,71201,UniProt
+3-methyl-2-oxovalerate,3-Methyl-2-oxovalerate,28654,HMDB
+methionine sulfoxide,METHIONINE SULFOXIDE,45764,PDBeChem
+3-methylhistidine,3-Methylhistidine,27596,KEGG COMPOUND
+4-acetamidophenylglucuronide,4-Nitrophenylglucuronide,90146,ChemIDplus
+5-hydroxylysine,5-HYDROXYLYSINE,18040,PDBeChem
+4-guanidinobutanoate,4-Guanidinobutanoate,15728,KEGG COMPOUND
+glucuronate,Glucuronate,15748,KEGG COMPOUND
+glycerol 3-phosphate,Glycerol-3-phosphate,15978,KEGG COMPOUND
+imidazole lactate,Imidazole lactate,27487,KEGG COMPOUND
+kynurenine,Kynurenine,28683,KEGG COMPOUND
+glycerophosphorylcholine (gpc),glycerophosphorylcholine,135063,DrugCentral
+maltotriose,Maltotriose,27931,KEGG COMPOUND
+n-acetylglutamate,N-Acetylglutamine,73685,HMDB
+n-alpha-acetylornithine,N-Acetylornithine,16543,KEGG COMPOUND
+tartarate,tartrate,132950,ChEBI
+xanthosine,Xanthosine,18107,KEGG COMPOUND
+ribitol,Ribitol,15963,KEGG COMPOUND
+glycodeoxycholate,Glycodeoxycholate,27471,KEGG COMPOUND
+theophylline,Theophylline,28177,KEGG COMPOUND
+quinate,Quinate,29751,KEGG COMPOUND
+theobromine,Theobromine,28946,KEGG COMPOUND
+paraxanthine,Paraxanthine,25858,KEGG COMPOUND
+indolelactate,Indolelactate,17282,KEGG COMPOUND
+3-indoxyl sulfate,3-Indoxyl sulfate,43355,ChemIDplus
+gamma-glutamylphenylalanine,gamma-Glutamylphenylalanine,89582,ChemIDplus
+4-methyl-2-oxopentanoate,4-Methyl-2-oxopentanoate,48430,KEGG COMPOUND
+"1,5-anhydroglucitol (1,5-ag)","1,5-Anhydroglucitol",16070,KEGG COMPOUND
+1-palmityl-gpc (o-16:0),1-palmityl-GPC,64496,ChEBI
+1-stearoyl-2-arachidonoyl-gpi (18:0/20:4),1-stearoyl-2-arachidonoyl-GPI (18:0/20:4),133606,ChEBI
+sphingosine 1-phosphate,Sphingosine 1-phosphate,37550,KEGG COMPOUND
+1-stearoyl-2-oleoyl-gps (18:0/18:1),1-stearoyl-2-oleoyl-GPC (18:0/18:1),75034,ChEBI
+1-stearoyl-gpi (18:0),1-stearoyl-GPI(1),74243,ChEBI
+"1,2-dipalmitoyl-gpc (16:0/16:0)",dipalmitoyl-GPC,72999,ChEBI
+docosahexaenoate (dha; 22:6n3),hydroxy-docosapentaenoate,133654,UniProt
+1-myristoyl-2-palmitoyl-gpc (14:0/16:0),1-myristoyl-2-palmitoyl-GPC (14:0/16:0),75062,ChEBI
+alpha-hydroxyisocaproate,alpha-hydroxyisocaproate,133577,ChEBI
+maleate,maleate,30780,UniProt
+4-acetylphenol sulfate,4-acetylphenol sulfate,133225,ChEBI
+2-hydroxyoctanoate,2-hydroxyoctanoate,133514,IUPAC
+3-hydroxyoctanoate,3-hydroxyoctanoate,133511,IUPAC
+palmitoylcarnitine (c16),L-Palmitoylcarnitine,17490,KEGG COMPOUND
+hexanoylcarnitine (c6),hexanoylcarnitine,70749,ChEBI
+n-acetylaspartate (naa),N-acetylaspartic acid,21547,ChemIDplus
+dehydroepiandrosterone sulfate (dhea-s),Dehydroepiandrosterone sulfate,16814,KEGG COMPOUND
+acetylcarnitine (c2),(R)-Acetylcarnitine,57589,ChemIDplus
+cysteine s-sulfate,Cysteine-S-sulfate,27891,ChemIDplus
+1-palmitoylglycerol (16:0),1-palmitoylglycerol,69081,ChemIDplus
+erythritol,Erythritol,17113,KEGG COMPOUND
+saccharin,Saccharin,32111,KEGG DRUG
+3-hydroxymyristate,3-hydroxymyristate,84197,SUBMITTER
+1-oleoylglycerol (18:1),1-oleoylglycerol,75342,ChemIDplus
+3-methyl-2-oxobutyrate,3-methyl-2-oxobutyrate,11851,ChEBI
+homoarginine,Homoarginine,27747,KEGG COMPOUND
+homocitrulline,homocitrulline,58148,ChEBI
+pyroglutamylglutamine,glutaminylglutamine,73846,ChEBI
+2-linoleoylglycerol (18:2),2-Linoleoylglycerol,75457,ChemIDplus
+3-hydroxydecanoate,3-hydroxydecanoate,132979,IUPAC
+edta,EDTA,4735,KEGG COMPOUND
+n-acetylglycine,N-acetylglycine,61887,ChEBI
+ribonate,D-Ribonate,17773,KEGG COMPOUND
+threonate,L-Threonate,49060,KEGG COMPOUND
+indoleacetate,Indoleacetic acid,16411,KEGG COMPOUND
+1-linoleoylglycerol (18:2),1-Linoleoylglycerol,75568,ChEBI
+1-methylhistidine,1-Methylhistidine,27596,KEGG COMPOUND
+butyrylcarnitine (c4),Butyrylcarnitine,7676,ChEBI
+isobutyrylcarnitine (c4),isobutyrylcarnitine,73017,ChEBI
+7-ketodeoxycholate,7-ketotaurodeoxycholate,137820,ChEBI
+glycolithocholate,Glycolithocholate,37998,KEGG COMPOUND
+androsterone sulfate,androstane sulfate,131647,ChEBI
+indolepropionate,indolepropionate,82916,ChEBI
+n-(2-furoyl)glycine,N-(furan-2-ylcarbonyl)glycine,82912,IUPAC
+dodecanedioate (c12-dc),"1,12-diascorbyl dodecanedioate",59753,ChEBI
+"glutamate, gamma-methyl ester",gamma-methyl L-glutamate,21306,ChEBI
+n-acetyltyrosine,N-Acetyltyrosine,21563,HMDB
+"1,3-dimethylurate","3,7-dimethylurate",68531,UniProt
+3-methylxanthine,3-Methylxanthine,62207,ChemIDplus
+3-hydroxylaurate,2-hydroxylaurate,141772,SUBMITTER
+pyridoxate,pyridoxates,132948,ChEBI
+gamma-glutamylvaline,gamma-Glutamylvaline,68848,HMDB
+pyroglutamylvaline,Pyroglutamyl valine,132991,ChemIDplus
+3-hydroxysebacate,3-hydroxysebacate,132935,ChEBI
+5-hydroxyhexanoate,5-hydroxyhexanoate,132985,IUPAC
+propionylglycine,propanoylglycine,89836,ChEBI
+propionylcarnitine (c3),Propionylcarnitine,28867,ChemIDplus
+pro-hydroxy-pro,pro-hydroxy-pro,133733,ChEBI
+3-hydroxy-2-ethylpropionate,3-hydroxy-2-ethylpropionate,82955,ChEBI
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf),3-carboxy-4-methyl-5-propyl-2-furanpropanoate,194524,UniProt
+docosadienoate (22:2n6),Docosadienoate (22:2n6),145970,SUBMITTER
+4-imidazoleacetate,4-Imidazoleacetate,16974,KEGG COMPOUND
+1-methyl-4-imidazoleacetate,"1,4-methyl-imidazoleacetic acid",1606,HMDB
+stearidonate (18:4n3),stearidonate (18:4n3),77222,ChEBI
+octanoylcarnitine (c8),octanoylcarnitine,73039,ChEBI
+tauro-beta-muricholate,tauro-beta-muricholate,133064,ChEBI
+decanoylcarnitine (c10),decanoylcarnitine,68830,ChEBI
+n-acetylglutamine,N-Acetylglutamine,73685,HMDB
+n-acetyltryptophan,N-acetyltryptophan,70976,IUPAC
+n-acetylphenylalanine,N-Acetylphenylalanine,16259,ChemIDplus
+gamma-glutamyl-epsilon-lysine,gamma-glutamyl-epsilon-lysine,88494,ChEBI
+1-palmitoyl-gpc (16:0),1-palmitoyl-GPC (16:0),72998,ChEBI
+1-margaroyl-gpc (17:0),1-margaroyl-GPC (17:0),74340,ChEBI
+n-acetylarginine,N-acetyldinaline,90195,ChEBI
+piperine,Piperine,28821,KEGG COMPOUND
+campesterol,Campesterol,28623,KEGG COMPOUND
+myristoylcarnitine (c14),L-Myristoylcarnitine,84634,HMDB
+1-stearoyl-gpc (18:0),1-stearoyl-2-oleoyl-GPC (18:0/18:1),75034,ChEBI
+1-oleoyl-gpc (18:1),1-oleoyl-GPI (18:1),78762,ChEBI
+n-acetylthreonine,N-acetylthreonine,45826,ChEBI
+n-acetylisoleucine,N-acetylisoleucine,84056,IUPAC
+10-heptadecenoate (17:1n7),9-hexadecenoate(1-),71449,ChEBI
+epiandrosterone sulfate,epiandrosterone 3-sulfate,133729,UniProt
+n-acetylhistidine,N-Acetylhistidine,16437,ChemIDplus
+gamma-glutamylglycine,gamma-glutamylalanylglycine,143251,ChEBI
+gamma-glutamyltryptophan,gamma-glutamyltryptophan,133028,ChEBI
+stachydrine,Stachydrine,35280,KEGG COMPOUND
+alpha-hydroxyisovalerate,alpha-hydroxyisovalerate,64669,ChEBI
+gamma-glutamylmethionine,gamma-glutamylmethioninate,133690,ChEBI
+gamma-glutamylthreonine,gamma-glutamylthreonine,82968,IUPAC
+p-cresol sulfate,p-cresol sulfate,133670,ChEBI
+erythronate*,erythronates,133792,ChEBI
+salicyluric glucuronide*,salicyluric glucuronide,133026,ChEBI
+aconitate [cis or trans],trans-aconitate,15708,UniProt
+1-arachidoyl-gpc (20:0),1-arachidoyl-GPC (20:0),74968,ChEBI
+stearoylcarnitine (c18),(R)-stearoylcarnitine,84644,ChEBI
+laurylcarnitine (c12),laurylcarnitine,77086,ChEBI
+1-linoleoyl-gpc (18:2),1-linoleoyl-GPC (18:2),28733,ChEBI
+7-methylxanthine,7-methylxanthine,48991,UniProt
+"1,3,7-trimethylurate","1,3,7-trimethylurate",691622,ChemIDplus
+"3,7-dimethylurate","3,7-dimethylurate",68531,UniProt
+"1,7-dimethylurate","3,7-dimethylurate",68531,UniProt
+5-acetylamino-6-formylamino-3-methyluracil,5-Acetylamino-6-formylamino-3-methyluracil,32643,ChemIDplus
+5-acetylamino-6-amino-3-methyluracil,5-Acetylamino-6-formylamino-3-methyluracil,32643,ChemIDplus
+1-methylxanthine,1-methylxanthines,68443,ChEBI
+n1-methylinosine,N1-Methylinosine,19065,HMDB
+"n2,n2-dimethylguanosine",N2-Dimethylguanosine,19289,HMDB
+n4-acetylcytidine,N(4)-acetylcytidine,70989,UniProt
+n6-carbamoylthreonyladenosine,N6-Carbamoylthreonyladenosine,21440,HMDB
+phenylacetylglutamine,Phenylacetylglutamine,8087,KEGG COMPOUND
+4-hydroxyhippurate,4-hydroxyhippurate,133613,ChEBI
+"5,6-dihydrouridine","5,6-dihydrouridine",23774,IUPAC
+3-(3-amino-3-carboxypropyl)uridine*,3-(3-amino-3-carboxypropyl)uridine,19928,IUPAC
+1-arachidonylglycerol (20:4),1-Arachidonoylglycerol,34071,KEGG COMPOUND
+cysteine-glutathione disulfide,glutathione amide disulfide,59896,UniProt
+5-methyluridine (ribothymidine),5-methyluridine,45996,IUPAC
+isovalerylglycine,isovalerylglycine,70984,ChEBI
+7-methylguanine,7-Methylguanine,2274,KEGG COMPOUND
+1-stearoyl-gpe (18:0),2-stearoyl-GPE (18:0),133144,ChEBI
+3-methylcytidine,3-methylcytosine,39992,UniProt
+n1-methyl-2-pyridone-5-carboxamide,N1-Methyl-4-pyridone-5-carboxamide,27838,KEGG COMPOUND
+gamma-glutamylisoleucine*,gamma-glutamylleucine(1-),133038,ChEBI
+oleoylcarnitine (c18:1),Oleoylcarnitine,84651,HMDB
+2-methylbutyrylcarnitine (c5),2-methylbutyryl-L-carnitine,84840,ChEBI
+phenol sulfate,Phenol sulfate,27905,KEGG COMPOUND
+1-palmitoleoyl-gpc (16:1)*,2-palmitoleoyl-GPC (16:1),133515,ChEBI
+malonylcarnitine,malonylcarnitine,73028,ChEBI
+hexanoylglycine,Hexanoylglycine,64390,ChemIDplus
+2-hydroxy-3-methylvalerate,2-hydroxy-3-methylvalerate,133082,ChEBI
+1-arachidonoyl-gpc (20:4n6)*,1-arachidoyl-GPC (20:0),74968,ChEBI
+1-dihomo-linolenoyl-gpc (20:3n3 or 6)*,1-dihomo-linolenoyl-GPC(20:3n6),86256,ChEBI
+1-dihomo-linoleoyl-gpc (20:2)*,1-dihomo-linoleoyl-GPC (20:2),83055,ChEBI
+2-arachidonoyl-gpc (20:4)*,2-arachidonoyl-GPC,76079,ChEBI
+2-oleoyl-gpc (18:1)*,1-oleoyl-GPI (18:1),78762,ChEBI
+2-linoleoyl-gpc (18:2)*,1-linoleoyl-GPC (18:2),28733,ChEBI
+2-palmitoyl-gpc (16:0)*,1-palmitoyl-GPC (16:0),72998,ChEBI
+1-docosahexaenoyl-gpc (22:6)*,2-docosahexaenoyl-GPC (22:6),131987,ChEBI
+1-palmitoyl-gpe (16:0),1-palmitoyl-GPE (16:0),73004,ChEBI
+1-oleoyl-gpe (18:1),1-oleoyl-GPI (18:1),78762,ChEBI
+1-linoleoyl-gpe (18:2)*,1-linoleoyl-GPE (18:2),83058,ChEBI
+1-arachidonoyl-gpe (20:4n6)*,1-arachidonoyl-GPI (20:4),133065,ChEBI
+n-acetylcitrulline,N-Acetylanthranilate,16803,KEGG COMPOUND
+2-hydroxypalmitate,2-hydroxypalmitate,65097,ChEBI
+gulonate*,Gulonate,13115,KEGG COMPOUND
+isobutyrylglycine,isobutyrylglycine,70979,HMDB
+2-methylmalonylcarnitine (c4-dc),2-methylmalonylcarnitine(1-),133076,ChEBI
+hydroquinone sulfate,hydroquinone sulfate,71062,ChEBI
+catechol sulfate,catechol sulfate,133072,ChEBI
+n-acetyl-aspartyl-glutamate (naag),N-acetyl-L-aspartyl-L-glutamate,76931,UniProt
+tetradecanedioate (c14-dc),tetradecanedioate,76281,UniProt
+hexadecanedioate (c16-dc),hexadecanedioate,76276,UniProt
+1-myristoylglycerol (14:0),1-myristoyl glycerol,75562,ChEBI
+glycerophosphoethanolamine,Glycerophosphoethanolamine,16929,KEGG COMPOUND
+3-(3-hydroxyphenyl)propionate,3-(3-hydroxyphenyl)propionate,57277,ChEBI
+ectoine,Ectoine,27592,KEGG COMPOUND
+2-oleoyl-gpe (18:1)*,1-oleoyl-GPI (18:1),78762,ChEBI
+2-palmitoyl-gpe (16:0)*,2-palmitoyl-GPE (16:0),132926,ChEBI
+1-arachidonoyl-gpi (20:4)*,1-arachidonoyl-GPI (20:4),133065,ChEBI
+1-palmitoyl-gpi (16:0),1-palmitoyl-GPI (16:0),72833,ChEBI
+glycolithocholate sulfate*,glycolithocholate sulfate,9347,ChEBI
+taurolithocholate 3-sulfate,Taurolithocholate 3-sulfate,17864,HMDB
+deoxycarnitine,deoxycarnitine,16244,ChemIDplus
+n6-succinyladenosine,N(6)-succinyladenosine,133523,ChEBI
+2-arachidonoyl-gpe (20:4)*,1-arachidonoyl-GPI (20:4),133065,ChEBI
+leucylleucine,leucylleucine,73531,ChEBI
+indoleacetylglutamine,N-indoleacetylglutamine,70811,ChEBI
+hexanoylglutamine,glutaminylglutamine,73846,ChEBI
+n6-acetyllysine,N(6)-ACETYLLYSINE,17752,PDBeChem
+dihomo-linolenate (20:3n3 or n6),dihomo-linoleate (20:2n6),83066,ChEBI
+mannitol/sorbitol,Mannitol,16899,KEGG COMPOUND
+tryptophan betaine,Tryptophan betaine,5832,ChemIDplus
+4-vinylphenol sulfate,4-Vinylphenol,1883,KEGG COMPOUND
+4-ethylphenylsulfate,4-phenanthrylsulfate,20470,UM-BBD
+thymol sulfate,thymol sulfate,133663,ChEBI
+pyrraline,Pyrraline,59973,ChemIDplus
+2-linoleoyl-gpe (18:2)*,1-linoleoyl-GPE (18:2),83058,ChEBI
+1-oleoyl-gpi (18:1),1-oleoyl-GPI (18:1),78762,ChEBI
+1-linoleoyl-gpi (18:2)*,1-linoleoyl-GPI (18:2),133077,ChEBI
+1-palmitoleoyl-gpe (16:1)*,2-palmitoleoyl-GPC (16:1),133515,ChEBI
+2-hydroxyacetaminophen sulfate*,2-hydroxyacetaminophen sulfate,82942,ChEBI
+2-methoxyacetaminophen sulfate*,2-hydroxyacetaminophen sulfate,82942,ChEBI
+2-methoxyacetaminophen glucuronide*,2-methoxyacetaminophen beta-D-glucuronide,133005,ChEBI
+o-cresol sulfate,o-cresol sulfate,133089,ChEBI
+gamma-glutamylalanine,gamma-Glutamylalanine,50619,HMDB
+n-acetylserine,N-acetylserine,45441,IUPAC
+1-stearoyl-2-oleoyl-gpe (18:0/18:1),1-stearoyl-2-oleoyl-GPE (18:0/18:1),75038,ChEBI
+4-allylphenol sulfate,4-allylphenol sulfate,133096,ChEBI
+1-stearoyl-2-arachidonoyl-gpc (18:0/20:4),1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),74965,ChEBI
+1-palmitoyl-2-linoleoyl-gpe (16:0/18:2),1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),73008,ChEBI
+sphinganine-1-phosphate,Sphinganine 1-phosphate,16893,KEGG COMPOUND
+glycosyl-n-stearoyl-sphingosine (d18:1/18:0),D-glucosyl-sphingosine,4177,ChEBI
+"bilirubin (e,z or z,e)*","bilirubin(Z,Z)",16990,ChEBI
+n-methylproline,N-Methylaniline,15733,KEGG COMPOUND
+beta-cryptoxanthin,beta-Cryptoxanthin,10362,KEGG COMPOUND
+"5alpha-androstan-3beta,17beta-diol disulfate","5alpha-androstan-3beta,17beta-diol disulfate",133114,ChEBI
+"5alpha-pregnan-3beta,20alpha-diol disulfate","5alpha-pregnan-3beta,20alpha-diol disulfate",133118,ChEBI
+glycocholenate sulfate*,glycosaminoglycan sulfate,35722,ChEBI
+taurocholenate sulfate*,Taurolithocholate sulfate,17864,KEGG COMPOUND
+"androstenediol (3beta,17beta) disulfate (1)","4-androsten-3beta,17beta-diol disulfate",133123,ChEBI
+pregnenediol disulfate (c21h34o8s2)*,pregnen-diol disulfate,132994,ChEBI
+"androstenediol (3beta,17beta) disulfate (2)","4-androsten-3beta,17beta-diol disulfate",133123,ChEBI
+21-hydroxypregnenolone disulfate,21-Hydroxypregnenolone,28043,KEGG COMPOUND
+21-hydroxypregnenolone monosulfate (1),17-hydroxypregnenolone sulfate(1-),133742,ChEBI
+"5alpha-androstan-3alpha,17alpha-diol monosulfate","5alpha-androstan-3alpha,17beta-diol monosulfate",133105,ChEBI
+"5alpha-pregnan-3beta,20beta-diol monosulfate (1)","5alpha-pregnane-3beta,20beta-diol monosulfate anion",133712,ChEBI
+"5alpha-pregnan-3beta,20alpha-diol monosulfate (2)","5alpha-pregnan-3beta,20alpha-diol disulfate",133118,ChEBI
+5alpha-pregnan-diol disulfate,"5alpha-pregnane-3,20R-diol disulfate",133464,ChEBI
+"5alpha-androstan-3alpha,17beta-diol disulfate","5alpha-androstan-3alpha,17beta-diol disulfate",133100,ChEBI
+"5alpha-androstan-3alpha,17beta-diol monosulfate (1)","5alpha-androstan-3alpha,17beta-diol monosulfate",133105,ChEBI
+"5alpha-androstan-3beta,17alpha-diol disulfate","5alpha-androstan-3beta,17alpha-diol disulfate",133111,ChEBI
+"5alpha-androstan-3beta,17beta-diol monosulfate (2)","5alpha-androstan-3alpha,17beta-diol monosulfate",133105,ChEBI
+"androstenediol (3alpha, 17alpha) monosulfate (3)","4-androstene-3alpha,17alpha-diol monosulfate anion",133715,ChEBI
+"androstenediol (3beta,17beta) monosulfate (2)","4-androstene-3beta,17beta-diol monosulfate anion",133714,ChEBI
+1-docosahexaenoyl-gpe (22:6)*,1-docosahexaenoyl-GPE (22:6),133432,ChEBI
+1-docosapentaenoyl-gpc (22:5n3)*,1-docosapentaenoyl-GPC (22:5n3),133734,ChEBI
+2-hydroxyglutarate,2-hydroxyglutarate,11596,UniProt
+gamma-cehc,gamma-CEHC,89379,HMDB
+n-acetyl-beta-alanine,N-Acetyl-beta-alanine,16682,KEGG COMPOUND
+"sphingomyelin (d18:1/18:1, d18:2/18:0)",sphingomyelin (d18:1/18:1),85593,ChEBI
+palmitoyl sphingomyelin (d18:1/16:0),palmitoyl sphingomyelin (d18:1/16:0),78646,ChEBI
+3-hydroxyhippurate,3-hydroxyhippurate,133607,ChEBI
+16a-hydroxy dhea 3-sulfate,16a-hydroxy DHEA 3-sulfate,87538,ChEBI
+17alpha-hydroxypregnenolone 3-sulfate,17alpha-hydroxypregnenolone 3-sulfate,133742,UniProt
+pregnenolone sulfate,Pregnenolone sulfate,35420,KEGG COMPOUND
+ergothioneine,ergothioneine,82707,ChEBI
+1-margaroyl-gpe (17:0)*,1-margaroyl-GPC (17:0),74340,ChEBI
+1-pentadecanoyl-gpc (15:0)*,1-pentadecanoyl-GPC,72736,ChEBI
+s-methylmethionine,N-methylmethionine,44003,ChEBI
+indole-3-carboxylate,indole-3-carboxylate,62448,UniProt
+n-acetyl-3-methylhistidine*,N-acetyl-3-methylhistidine,133183,ChEBI
+4-cholesten-3-one,4-Cholesten-3-one,16175,KEGG COMPOUND
+cinnamoylglycine,N-Cinnamylglycine,133605,ChEBI
+cis-4-decenoylcarnitine (c10:1),cis-4-decenoylcarnitine,73048,ChEBI
+phenylalanylphenylalanine,phenylalanylphenylalanine,72723,ChEBI
+alpha-ketoglutaramate*,alpha-Ketoglutaramate,30882,KEGG COMPOUND
+"2,3-dihydroxyisovalerate","2,3-dihydroxyisovalerate",11424,ChEBI
+3-methylglutaconate,3-hydroxy-3-methylglutarate,17325,UniProt
+5-(galactosylhydroxy)-l-lysine,5-(beta-D-galactopyranosyloxy)-L-lysine,37564,IUPAC
+isoursodeoxycholate,isodeoxycholate,87733,UniProt
+hydantoin-5-propionate,hydantoin-5-propanoate,133476,ChEBI
+sulfate*,Sulfate,16189,KEGG COMPOUND
+4-hydroxy-2-oxoglutaric acid,4-Hydroxy-2-oxoglutaric acid,30923,KEGG COMPOUND
+4-hydroxyglutamate,4-Hydroxyphenylacetylglutamate,28036,KEGG COMPOUND
+l-urobilin,L-Urobilin,29023,KEGG COMPOUND
+s-methylcysteine,S-METHYLCYSTEINE,45658,PDBeChem
+androsterone glucuronide,Androsterone glucuronide,28832,KEGG COMPOUND
+argininate*,argininate,32695,IUPAC
+2-oxoarginine*,2-Oxoarginine,28116,KEGG COMPOUND
+cis-4-decenoate (10:1n6)*,cis-4-decenoate,33161,ChEBI
+ethyl glucuronide,etiocholanolone glucuronide,133504,ChEBI
+1-erucoyl-gpc (22:1)*,1-eicosenoyl-GPC (20:1),131982,ChEBI
+1-adrenoyl-gpc (22:4)*,1-adrenoyl-GPC (22:4),133657,ChEBI
+1-lignoceroyl-gpc (24:0),1-lignoceroyl-GPC (24:0),86260,ChEBI
+1-(1-enyl-palmitoyl)-gpc (p-16:0)*,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0),133672,ChEBI
+1-(1-enyl-oleoyl)-gpc (p-18:1)*,1-(1-enyl-oleoyl)-GPC (P-18:1),84753,ChEBI
+1-(1-enyl-stearoyl)-gpc (p-18:0)*,1-(1-enyl-stearoyl)-GPC (P-18:0),133662,ChEBI
+1-methyl-5-imidazoleacetate,5-Hydroxy-4-imidazoleacetate,27850,KEGG COMPOUND
+glycoursodeoxycholate,glycoursodeoxycholate,132030,UniProt
+s-methylcysteine sulfoxide,S-METHYLCYSTEINE,45658,PDBeChem
+16-hydroxypalmitate,16-hydroxypalmitate,55329,ChEBI
+oleoyl-linoleoyl-glycerol (18:1/18:2) [1],2-oleoyl-3-linoleoyl-sn-glycerol,75569,ChEBI
+oleoyl-linoleoyl-glycerol (18:1/18:2) [2],2-oleoyl-3-linoleoyl-sn-glycerol,75569,ChEBI
+1-(1-enyl-palmitoyl)-gpe (p-16:0)*,1-(1-enyl-palmitoyl)-GPE (P-16:0),133139,ChEBI
+1-(1-enyl-stearoyl)-gpe (p-18:0)*,1-(1-enyl-stearoyl)-GPE (P-18:0),133141,ChEBI
+2-stearoyl-gpi (18:0)*,2-stearoyl-GPE (18:0),133144,ChEBI
+n-oleoyltaurine,oleoyltaurine,146206,ChemIDplus
+isoleucylalanine,isoleucylalanine,74062,ChEBI
+isoleucylglycine,isoleucylglycine,74066,ChEBI
+phenylalanylleucine,phenylalanylleucine,91150,ChEBI
+tryptophylleucine,tryptophylleucine,74871,ChEBI
+n-stearoyltaurine,N-stearoyltaurine(1-),132047,ChEBI
+beta-citrylglutamate,beta-citrylglutamate,76942,UniProt
+trimethylamine n-oxide,Trimethylamine N-oxide,15724,KEGG COMPOUND
+imidazole propionate,imidazole propionate,72991,ChEBI
+alliin,Alliin,2596,KEGG COMPOUND
+threonylalanine,threonylalanine,74824,ChEBI
+phenylalanyltryptophan,phenylalanyltryptophan,74751,ChemIDplus
+valylglycine,valylglycine,73699,ChEBI
+prolylalanine,prolylalanine,74753,ChEBI
+prolylglycine,Prolylglycine,61695,ChemIDplus
+n-palmitoylglycine,N-palmitoylglycine,39540,PDBeChem
+lanthionine,L-lanthionine,21347,IUPAC
+2-stearoyl-gpe (18:0)*,2-stearoyl-GPE (18:0),133144,ChEBI
+(r)-3-hydroxybutyrylcarnitine,3-hydroxybutyrylcarnitine,84842,ChEBI
+n-acetylcarnosine,N-acetylcadaverine,134408,UniProt
+glycohyocholate,Glycolithocholate,37998,KEGG COMPOUND
+retinal,retinal,17898,KEGG COMPOUND
+2-hydroxydecanoate,2-hydroxydecanoate,133174,IUPAC
+4-methylcatechol sulfate,O-methylcatechol sulfate,133460,ChEBI
+3-methyl catechol sulfate (1),catechol sulfate(1-),133072,ChEBI
+3b-hydroxy-5-cholenoic acid,3beta-Hydroxy-5-cholenoic acid,89234,HMDB
+guaiacol sulfate,guanacline sulfate,134825,DrugCentral
+2-aminooctanoate,2-aminooctanoate,142420,IUPAC
+gamma-cehc glucuronide*,gamma-CEHC glucuronide,133148,ChEBI
+2-piperidinone,2-Piperidinoethanol,61238,ChemIDplus
+n-acetyl-1-methylhistidine*,N-acetyl-1-methylhistidine,133181,ChEBI
+indolin-2-one,Indolin-2-one,31697,KEGG COMPOUND
+2-aminophenol sulfate,2-aminophenol sulfate,133186,ChEBI
+3-acetylphenol sulfate,4-acetylphenol sulfate,133225,ChEBI
+"sphingomyelin (d18:1/14:0, d16:1/16:0)*",sphingomyelin (d16:1/16:0),133171,ChEBI
+"sphingomyelin (d18:2/16:0, d18:1/16:1)*",Sphingomyelin (d18:1/16:0),78646,ChEBI
+6-oxopiperidine-2-carboxylate,6-oxopiperidine-2-carboxylate,133178,ChEBI
+n-delta-acetylornithine,N-delta-acetylornithine,133180,ChEBI
+acisoga,Acisoga,133185,ChemIDplus
+2-aminoheptanoate,2-aminoheptanoate,133223,ChEBI
+1-eicosapentaenoyl-gpe (20:5)*,1-eicosapentaenoyl-GPE (20:5),133522,ChEBI
+"n2,n5-diacetylornithine","N(2),N(5)-diacetylornithine",133209,ChEBI
+3-methoxytyramine sulfate,3-methoxytyramine,192089,UniProt
+methionine sulfone,methionine sulfone,132188,ChEBI
+cyclo(ala-pro),Cyclo(aoe-pro-ala-ala),48028,ChemIDplus
+1-linolenoyl-gpc (18:3)*,1-linolenoyl-GPC (18:3),133456,ChEBI
+1-eicosapentaenoyl-gpc (20:5)*,1-eicosapentaenoyl-GPC (20:5),91311,ChEBI
+1-eicosenoyl-gpc (20:1)*,1-eicosenoyl-GPC (20:1),131982,ChEBI
+n-acetylalliin,N-Acetylalanine,40992,DrugBank
+1-dihomo-linolenoyl-gpe (20:3n3 or 6)*,1-dihomo-linolenoyl-GPC(20:3n6),86256,ChEBI
+1-(1-enyl-oleoyl)-gpe (p-18:1)*,1-(1-enyl-oleoyl)-GPC (P-18:1),84753,ChEBI
+o-sulfo-l-tyrosine,O-sulfo-L-tyrosine,46215,PDBeChem
+ferulic acid 4-sulfate,ferulic acid sulfate,133508,ChEBI
+11-ketoetiocholanolone glucuronide,11-Oxoetiocholanolone glucuronide,88771,HMDB
+etiocholanolone glucuronide,etiocholanolone glucuronide,133504,ChEBI
+17alpha-hydroxypregnanolone glucuronide,17alpha-hydroxypregnanolone,34353,KEGG COMPOUND
+n-acetyltaurine,N-Acetyltaurine,84415,ChemIDplus
+1-docosapentaenoyl-gpc (22:5n6)*,1-docosapentaenoyl-GPC (22:5n6),74348,ChEBI
+1-linolenoyl-gpe (18:3)*,1-linolenoyl-GPC (18:3),133456,ChEBI
+1-oleoyl-gpg (18:1)*,1-oleoyl-GPI (18:1),78762,ChEBI
+1-palmitoyl-gpg (16:0)*,1-palmitoyl-GPC (16:0),72998,ChEBI
+9-hydroxystearate,9-hydroxystearate,136286,SUBMITTER
+3-methylglutarylcarnitine (2),methylglutarylcarnitines,86486,ChEBI
+methyl glucopyranoside (alpha + beta),methyl beta-D-glucopyranoside,320055,IUPAC
+"sphingomyelin (d18:2/14:0, d18:1/14:1)*",Sphingomyelin (d18:1/16:0),78646,ChEBI
+"sphingomyelin (d18:1/24:1, d18:2/24:0)*",Sphingomyelin (d18:1/16:0),78646,ChEBI
+octadecenedioylcarnitine (c18:1-dc)*,O-octanedioylcarnitine(1-),77083,SUBMITTER
+"5alpha-androstan-3alpha,17beta-diol monosulfate (2)","5alpha-androstan-3alpha,17beta-diol monosulfate",133105,ChEBI
+n-formylphenylalanine,N-formylphenylalanine,133534,ChEBI
+4-hydroxychlorothalonil,4-hydroxychlorothalonil,156267,UniProt
+tyramine o-sulfate,tyramine O-sulfate,133530,ChEBI
+3-hydroxypyridine sulfate,3-hydroxypyridine,87440,ChemIDplus
+methyl-4-hydroxybenzoate sulfate,methyl-4-hydroxybenzoate sulfate,133532,ChEBI
+1-dihomo-linolenylglycerol (20:3),"1,2-Dihomo-g-linolenoyl-rac-glycerol",89804,HMDB
+4-vinylguaiacol sulfate,4-vinylguaiacol,42438,ChemIDplus
+vanillactate,Vanillactate,88526,HMDB
+eugenol sulfate,Eugenol methyl ether,4918,KEGG COMPOUND
+2-methoxyresorcinol sulfate,2-methoxyresorcinol monosulfate,133548,ChEBI
+2-acetamidophenol sulfate,2-acetamidophenyl sulfate,133562,ChEBI
+p-cresol glucuronide*,p-Cresol glucuronide,87986,HMDB
+6-hydroxyindole sulfate,6-Hydroxyindolelactate,27524,KEGG COMPOUND
+"sphingomyelin (d18:1/20:0, d16:1/22:0)*",sphingomyelin (d16:1/16:0),133171,ChEBI
+"sphingomyelin (d18:1/20:1, d18:2/20:0)*",sphingomyelin(d18:1/20:1),131459,ChEBI
+"sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*",Sphingomyelin (d18:1/18:1(11Z)),86086,HMDB
+behenoyl sphingomyelin (d18:1/22:0)*,behenoyl sphingomyelin (d18:1/22:0),74532,ChEBI
+"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*",Sphingomyelin (d18:1/18:1(11Z)),86086,HMDB
+"sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*",Sphingomyelin (d18:1/18:1(11Z)),86086,HMDB
+lignoceroyl sphingomyelin (d18:1/24:0),Sphingomyelin (d18:0/24:0),84495,HMDB
+"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*",sphingomyelin (d16:1/16:0),133171,ChEBI
+dopamine 4-sulfate,dopamine 4-sulfate,34729,ChEBI
+dopamine 3-o-sulfate,Dopamine 3-O-sulfate,37946,KEGG COMPOUND
+3-hydroxyhexanoate,methyl 3-hydroxyhexanoate,173244,SUBMITTER
+3beta-hydroxy-5-cholestenoate,3beta-hydroxy-5-cholestene-22-one,143264,ChEBI
+"1,2,3-benzenetriol sulfate (2)","1,2,3-benzenetriol sulfate",133587,ChEBI
+3-methoxycatechol sulfate (1),O-methylcatechol sulfate,133460,ChEBI
+n-acetylkynurenine (2),N-acetylkynurenines,133592,ChEBI
+c-glycosyltryptophan,N-glycyltryptophan,73921,NIST Chemistry WebBook
+arabitol/xylitol,L-Arabitol,18403,KEGG COMPOUND
+n-acetylglucosamine/n-acetylgalactosamine,N-acetylglucosamine,28009,ChemIDplus
+nonanoylcarnitine (c9),(R)-nonanoylcarnitine,85527,ChEBI
+glycochenodeoxycholate 3-sulfate,Glycochenodeoxycholate-3-sulfate,72733,HMDB
+glycodeoxycholate 3-sulfate,glycodeoxycholate sulfate,133680,ChEBI
+taurodeoxycholic acid 3-sulfate,taurodeoxycholic acid,9410,ChemIDplus
+linoleoyl ethanolamide,Linoleoyl ethanolamide,89605,HMDB
+1-stearoyl-2-oleoyl-gpc (18:0/18:1),1-stearoyl-2-oleoyl-GPC (18:0/18:1),75034,ChEBI
+1-palmitoyl-2-arachidonoyl-gpc (16:0/20:4n6),1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4),73003,ChEBI
+1-palmitoyl-2-docosahexaenoyl-gpc (16:0/22:6),1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6),74963,ChEBI
+1-stearoyl-2-docosahexaenoyl-gpc (18:0/22:6),1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),84829,ChEBI
+1-(1-enyl-stearoyl)-2-oleoyl-gpc (p-18:0/18:1),1-(1-enyl-stearoyl)-2-oleoyl-GPC (P-18:0/18:1),86241,ChEBI
+1-(1-enyl-stearoyl)-2-arachidonoyl-gpc (p-18:0/20:4),1-(1-enyl-stearoyl)-2-arachidonoyl-GPC,84828,ChEBI
+1-(1-enyl-stearoyl)-2-oleoyl-gpe (p-18:0/18:1),1-(1-enyl-stearoyl)-2-oleoyl-GPC (P-18:0/18:1),86241,ChEBI
+"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)",sphingomyelin (d18:0/18:1(9Z)),134074,ChEBI
+1-palmitoyl-2-stearoyl-gpc (16:0/18:0),1-palmitoyl-2-stearoyl-GPC (16:0/18:0),73000,ChEBI
+2-hydroxybutyrate/2-hydroxyisobutyrate,2-Hydroxybutyrate,50613,KEGG COMPOUND
+2-methylcitrate/homocitrate,2-Methylcitrate,15598,KEGG COMPOUND
+isoleucylleucine/leucylisoleucine,Isoleucyl-Leucine,74072,HMDB
+1-palmitoleoylglycerol (16:1)*,1-palmitoleoylglycerol,133596,ChEBI
+palmitoyl dihydrosphingomyelin (d18:0/16:0)*,palmitoyl dihydrosphingomyelin (d18:0/16:0),78647,ChEBI
+tricosanoyl sphingomyelin (d18:1/23:0)*,sphingomyelin(d18:1/23:3),131460,ChEBI
+"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*",Sphingomyelin (d18:1/16:0),78646,ChEBI
+"sphingomyelin (d18:2/24:1, d18:1/24:2)*",sphingomyelin(d18:1/18:3),131458,ChEBI
+1-stearoyl-2-linoleoyl-gpe (18:0/18:2)*,1-stearoyl-2-linoleoyl-GPC (18:0/18:2),84822,ChEBI
+1-stearoyl-2-arachidonoyl-gpe (18:0/20:4),1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),78268,ChEBI
+1-stearoyl-2-linoleoyl-gpc (18:0/18:2)*,1-stearoyl-2-linoleoyl-GPC (18:0/18:2),84822,ChEBI
+1-palmitoyl-2-palmitoleoyl-gpc (16:0/16:1)*,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1),74000,ChEBI
+1-palmitoyl-2-eicosapentaenoyl-gpc (16:0/20:5)*,1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5),86137,ChEBI
+1-palmitoyl-2-arachidonoyl-gpe (16:0/20:4)*,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4),73003,ChEBI
+1-palmitoyl-2-docosahexaenoyl-gpe (16:0/22:6)*,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6),78261,ChEBI
+1-stearoyl-2-docosahexaenoyl-gpe (18:0/22:6)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6),78266,ChEBI
+1-palmitoyl-2-arachidonoyl-gpi (16:0/20:4)*,1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4),72834,ChEBI
+1-stearoyl-2-linoleoyl-gpi (18:0/18:2),1-stearoyl-2-linoleoyl-GPC (18:0/18:2),84822,ChEBI
+gamma-tocopherol/beta-tocopherol,gamma-Tocopherol,18185,KEGG COMPOUND
+1-(1-enyl-stearoyl)-2-arachidonoyl-gpe (p-18:0/20:4)*,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE,78342,ChEBI
+1-(1-enyl-palmitoyl)-2-docosahexaenoyl-gpe (p-16:0/22:6)*,1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPE (P-16:0/22:6),133646,ChEBI
+1-(1-enyl-palmitoyl)-2-arachidonoyl-gpe (p-16:0/20:4)*,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4),133647,ChEBI
+1-(1-enyl-stearoyl)-2-docosahexaenoyl-gpe (p-18:0/22:6)*,1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPC (P-18:0/22:6),133664,ChEBI
+1-(1-enyl-palmitoyl)-2-oleoyl-gpe (p-16:0/18:1)*,1-(1-enyl-palmitoyl)-GPE (P-16:0),133139,ChEBI
+1-(1-enyl-palmitoyl)-2-dihomo-linolenoyl-gpc (p-16:0/20:3)*,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2),84557,ChEBI
+1-(1-enyl-palmitoyl)-2-oleoyl-gpc (p-16:0/18:1)*,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1),84562,ChEBI
+1-(1-enyl-palmitoyl)-2-docosahexaenoyl-gpc (p-16:0/22:6)*,1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6),133636,ChEBI
+1-(1-enyl-palmitoyl)-2-linoleoyl-gpc (p-16:0/18:2)*,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2),84557,ChEBI
+1-(1-enyl-palmitoyl)-2-arachidonoyl-gpc (p-16:0/20:4)*,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4),77292,ChEBI
+1-(1-enyl-stearoyl)-2-docosahexaenoyl-gpc (p-18:0/22:6)*,1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPC (P-18:0/22:6),133664,ChEBI
+1-stearyl-2-arachidonoyl-gpc (o-18:0/20:4)*,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),74965,ChEBI
+1-palmityl-2-oleoyl-gpc (o-16:0/18:1)*,1-palmityl-2-oleoyl-GPC (O-16:0/18:1),34112,ChEBI
+1-palmityl-2-arachidonoyl-gpc (o-16:0/20:4)*,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4),73003,ChEBI
+"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*",sphingomyelin (d16:1/16:0),133171,ChEBI
+behenoyl dihydrosphingomyelin (d18:0/22:0)*,behenoyl sphingomyelin (d18:1/22:0),74532,ChEBI
+"sphingomyelin (d18:0/18:0, d19:0/17:0)*",sphingomyelin (d18:0/18:1(9Z)),134074,ChEBI
+n-palmitoyl-sphinganine (d18:0/16:0),N-palmitoyl-C20-sphinganine,67017,ChEBI
+lactosyl-n-palmitoyl-sphingosine (d18:1/16:0),lactosyl-N-palmitoylsphingosine,84757,ChEBI
+1-pentadecanoyl-2-linoleoyl-gpc (15:0/18:2)*,1-pentadecanoyl-2-linoleoyl-GPC (15:0/18:2),133617,ChEBI
+1-margaroyl-2-oleoyl-gpc (17:0/18:1)*,1-margaroyl-2-linoleoyl-GPC (17:0/18:2),84566,ChEBI
+1-margaroyl-2-linoleoyl-gpc (17:0/18:2)*,1-margaroyl-2-linoleoyl-GPC (17:0/18:2),84566,ChEBI
+phenylacetylglutamate,Phenylalanylglutamate,74712,ChemIDplus
+1-stearoyl-2-dihomo-linolenoyl-gpc (18:0/20:3n3 or 6)*,1-dihomo-linolenoyl-GPC(20:3n6),86256,ChEBI
+palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]*,1-Palmitoyl-2-linoleoyl-3-linoleoyl-glycerol,89842,HMDB
+palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*,1-Palmitoyl-2-linoleoyl-3-linoleoyl-glycerol,89842,HMDB
+1-palmitoyl-2-oleoyl-gpi (16:0/18:1)*,1-palmitoyl-2-oleoyl-GPI (16:0/18:1),72837,ChEBI
+1-stearoyl-2-docosahexaenoyl-gpi (18:0/22:6)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6),78266,ChEBI
+1-(1-enyl-palmitoyl)-2-linoleoyl-gpe (p-16:0/18:2)*,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2),133649,ChEBI
+1-oleoyl-2-linoleoyl-gpe (18:1/18:2)*,1-oleoyl-2-linoleoyl-GPE (18:1/18:2),74977,ChEBI
+1-pentadecanoyl-2-arachidonoyl-gpc (15:0/20:4)*,1-pentadecanoyl-2-oleoyl-GPC (15:0/18:1),133623,ChEBI
+1-pentadecanoyl-2-docosahexaenoyl-gpc (15:0/22:6)*,1-pentadecanoyl-2-oleoyl-GPC (15:0/18:1),133623,ChEBI
+1-margaroyl-2-arachidonoyl-gpc (17:0/20:4)*,1-margaroyl-2-linoleoyl-GPC (17:0/18:2),84566,ChEBI
+1-margaroyl-2-docosahexaenoyl-gpc (17:0/22:6)*,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6),84814,ChEBI
+1-arachidoyl-2-arachidonoyl-gpc (20:0/20:4)*,1-arachidoyl-GPC (20:0),74968,ChEBI
+1-oleoyl-2-docosahexaenoyl-gpc (18:1/22:6)*,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6),84814,ChEBI
+1-linoleoyl-2-docosahexaenoyl-gpc (18:2/22:6)*,1-stearoyl-2-linoleoyl-GPC (18:0/18:2),84822,ChEBI
+1-palmityl-2-linoleoyl-gpc (o-16:0/18:2)*,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),73002,ChEBI
+1-(1-enyl-stearoyl)-2-linoleoyl-gpc (p-18:0/18:2)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2),84555,ChEBI
+1-myristoyl-2-docosahexaenoyl-gpc (14:0/22:6)*,1-myristoyl-2-palmitoyl-GPC (14:0/16:0),75062,ChEBI
+1-stearoyl-2-docosapentaenoyl-gpc (18:0/22:5n3)*,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),84829,ChEBI
+1-stearoyl-2-docosapentaenoyl-gpc (18:0/22:5n6)*,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),84829,ChEBI
+1-palmitoyl-2-adrenoyl-gpc (16:0/22:4)*,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1),74000,ChEBI
+1-stearoyl-2-adrenoyl-gpc (18:0/22:4)*,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),74965,ChEBI
+1-stearyl-gpc (o-18:0)*,1-stearyl-GPC (O-18:0),75216,ChEBI
+1-oleoyl-2-dihomo-linolenoyl-gpc (18:1/20:3)*,1-oleoyl-2-dihomolinolenoyl-GPC (18:1/20:3),89618,ChEBI
+1-(1-enyl-palmitoyl)-2-palmitoleoyl-gpc (p-16:0/16:1)*,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1),84562,ChEBI
+1-(1-enyl-palmitoyl)-2-myristoyl-gpc (p-16:0/14:0)*,1-(1-enyl-palmitoyl)-2-myristoyl-GPC (P-16:0/14:0),133669,ChEBI
+1-(1-enyl-palmitoyl)-2-palmitoyl-gpc (p-16:0/16:0)*,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0),133672,ChEBI
+"phosphatidylcholine (16:0/22:5n3, 18:1/20:4)*",Phosphatidylcholine(22:5n3/16:0),88433,HMDB
+"phosphatidylcholine (18:0/20:5, 16:0/22:5n6)*",Phosphatidylcholine(18:1n9/20:4n6),89465,HMDB
+1-stearoyl-2-oleoyl-gpi (18:0/18:1)*,1-stearoyl-2-oleoyl-GPE (18:0/18:1),75038,ChEBI
+1-stearoyl-2-dihomo-linolenoyl-gpi (18:0/20:3n3 or 6)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2),84555,ChEBI
+1-palmitoyl-2-eicosapentaenoyl-gpe (16:0/20:5)*,1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5),86137,ChEBI
+1-stearoyl-2-dihomo-linolenoyl-gpe (18:0/20:3n3 or 6)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2),133675,ChEBI
+1-oleoyl-2-arachidonoyl-gpe (18:1/20:4)*,1-oleoyl-2-linoleoyl-GPE (18:1/18:2),74977,ChEBI
+1-(1-enyl-stearoyl)-2-linoleoyl-gpe (p-18:0/18:2)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2),133675,ChEBI
+1-linoleoyl-gpg (18:2)*,1-linoleoyl-GPC (18:2),28733,ChEBI
+thioproline,Thiaproline,64564,ChemIDplus
+palmitoylcholine,palmitoylcholine,133677,ChEBI
+glycocholate glucuronide (1),glycocholate glucuronide,133682,ChEBI
+glycochenodeoxycholate glucuronide (1),glycochenodeoxycholate glucuronide,133684,ChEBI
+(s)-3-hydroxybutyrylcarnitine,3-hydroxybutyrylcarnitine,84842,ChEBI
+glycosyl-n-palmitoyl-sphingosine (d18:1/16:0),N-palmitoyl-sphingosine,72959,ChEBI
+oleoylcholine,oleoyllysophosphatidylcholine,76083,SUBMITTER
+arachidonoylcholine,2-arachidonoyllysophosphatidylcholine,76079,SUBMITTER
+1-linoleoyl-2-linolenoyl-gpc (18:2/18:3)*,1-linolenoyl-GPC (18:3),133456,ChEBI
+1-palmitoleoyl-2-linolenoyl-gpc (16:1/18:3)*,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),73002,ChEBI
+"phosphatidylcholine (14:0/14:0, 16:0/12:0)",phosphatidylcholine(14:0_16:0),167242,SUBMITTER
+"phosphatidylcholine (15:0/18:1, 17:0/16:1, 16:0/17:1)*",phosphatidylcholine(15:0_16:0),167245,SUBMITTER
+1-oleoyl-2-dihomo-linoleoyl-gpc (18:1/20:2)*,1-oleoyl-2-linoleoyl-GPC (18:1/18:2),74670,ChEBI
+"phosphatidylcholine (18:0/20:2, 20:0/18:2)*",Phosphatidylcholine(18:0/20:4),74965,HMDB
+1-(1-enyl-oleoyl)-2-docosahexaenoyl-gpe (p-18:1/22:6)*,1-(1-enyl-stearoyl)-2-oleoyl-GPC (P-18:0/18:1),86241,ChEBI
+1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-gpe (p-18:0/20:3)*,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2),133675,ChEBI
+hexadecadienoate (16:2n6),hexadecadienoate,78096,UniProt
+4-hydroxyphenylacetylglutamine,4-Hydroxyphenylacetylglutamate,28036,KEGG COMPOUND
+"2,3-dihydroxy-2-methylbutyrate",2-Hydroxy-3-methylbutyrate,64669,HMDB
+2'-o-methylcytidine,2'-O-methylcytidine,19228,IUPAC
+2'-o-methyluridine,2'-O-methyluridine,19227,IUPAC
+gamma-glutamyl-alpha-lysine,gamma-glutamyl-epsilon-lysine,88494,ChEBI
+palmitoyl-oleoyl-glycerol (16:0/18:1) [2]*,1-Palmitoleoyl-2-oleoyl-sn-glycerol,88500,HMDB
+oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,1-Oleoyl-2-oleoyl-3-eicosenoyl-glycerol,131977,HMDB
+oleoyl-oleoyl-glycerol (18:1/18:1) [2]*,1-Oleoyl-2-oleoyl-3-eicosenoyl-glycerol,131977,HMDB
+linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*,1-Linoleoyl-3-arachidonoyl-sn-glycerol,156117,SUBMITTER
+palmitoyl-arachidonoyl-glycerol (16:0/20:4) [2]*,1-Palmitoyl-2-palmitoleoyl-3-arachidonoyl-glycerol,89777,HMDB
+linoleoyl-linolenoyl-glycerol (18:2/18:3) [2]*,1-Linoleoyl-2-g-linolenoyl-sn-glycerol,89210,HMDB
+palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]*,1-Linoleoyl-2-palmitoleoyl-sn-glycerol,89208,HMDB
+oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*,1-Oleoyl-2-oleoyl-3-arachidonoyl-glycerol,90042,HMDB
+oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*,1-Oleoyl-2-oleoyl-3-arachidonoyl-glycerol,90042,HMDB
+"diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*",Diacylglycerol(16:1n7/18:1n9),88500,HMDB
+linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*,1-Linoleoyl-2-g-linolenoyl-sn-glycerol,89210,HMDB
+stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]*,1-Stearoyl-2-arachidonyl-sn-glycerol,88518,HMDB
+stearoyl-arachidonoyl-glycerol (18:0/20:4) [2]*,1-Stearoyl-2-arachidonyl-sn-glycerol,88518,HMDB
+perfluorooctanesulfonate (pfos),perfluoromethanesulfonic acid,48511,ChemIDplus
+1-palmityl-gpe (o-16:0)*,1-palmitoyl-GPE (16:0),73004,ChEBI
+1-palmityl-2-stearoyl-gpc (o-16:0/18:0)*,1-palmitoyl-2-stearoyl-GPC (16:0/18:0),73000,ChEBI
+1-palmityl-2-palmitoyl-gpc (o-16:0/16:0)*,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1),74000,ChEBI
+1-stearyl-2-docosapentaenoyl-gpc (o-18:0/22:5n3)*,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),84829,ChEBI
+1-stearoyl-2-docosapentaenoyl-gpe (18:0/22:5n3)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6),78266,ChEBI
+1-stearoyl-2-docosapentaenoyl-gpe (18:0/22:5n6)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6),78266,ChEBI
+1-stearoyl-2-adrenoyl-gpe (18:0/22:4)*,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),78268,ChEBI
+1-(1-enyl-stearoyl)-2-docosapentaenoyl-gpe (p-18:0/22:5n3)*,1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPC (P-18:0/22:6),133664,ChEBI
+1-palmitoleoyl-2-eicosapentaenoyl-gpc (16:1/20:5)*,1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5),86137,ChEBI
+palmitoyl-docosahexaenoyl-glycerol (16:0/22:6) [1]*,1-palmitoyl-2-docosahexaenoyl-sn-glycerol,82949,ChEBI
+lactosyl-n-nervonoyl-sphingosine (d18:1/24:1)*,beta-lactosyl-N-(2-hydroxydocosanoyl)sphingosine,62723,ChEBI
+n-behenoyl-sphingadienine (d18:2/22:0)*,"N-behenoyl-(4E,14Z)-sphinga-4,14-dienine",134550,ChEBI
+glycosyl-n-behenoyl-sphingadienine (d18:2/22:0)*,beta-D-glucosyl-N-(behenoyl)sphingosine,62107,ChEBI
+n-palmitoylserine,N-palmitoyltaurine,132477,ChEBI
+palmitoleoyl-arachidonoyl-glycerol (16:1/20:4) [2]*,1-Palmitoleoyl-2-arachidonoyl-sn-glycerol,88489,HMDB
+"phosphatidylethanolamine (p-18:1/20:4, p-16:0/22:5n3)*",phosphatidylethanolamine(P-18:1/20:3),167291,SUBMITTER
+1-palmitoyl-2-(hydroxylinoleoyl)-gpc (16:0/18:2(oh))*,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1),74000,ChEBI
+"ceramide (d16:1/24:1, d18:1/22:1)*",Ceramide (d18:1/16:0),72959,HMDB
+"ceramide (d18:1/14:0, d16:1/16:0)*",Ceramide (d18:1/16:0),72959,HMDB
+"ceramide (d18:1/17:0, d17:1/18:0)*",Ceramide (d18:1/16:0),72959,HMDB
+"ceramide (d18:2/24:1, d18:1/24:2)*",Ceramide (d18:1/16:0),72959,HMDB
+"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*",Glucosyl(beta) Ceramide (d18:1/24:1(15Z)),76302,ChEBI
+"ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*",Ceramide (d18:1/16:0),72959,HMDB
+"sphingomyelin (d18:0/20:0, d16:0/22:0)*",sphingomyelin (d18:0/18:1(11Z)),134073,HMDB
+"sphingomyelin (d18:1/19:0, d19:1/18:0)*",sphingomyelin (d18:1/22:0),74532,ChEBI
+sphingomyelin (d18:2/18:1)*,sphingomyelin (d18:1/18:1),85593,ChEBI
+sphingomyelin (d18:2/24:2)*,sphingomyelin (d18:1/24:0),83360,SUBMITTER
+"sphingomyelin (d18:2/21:0, d16:2/23:0)*",Sphingomyelin (d18:1/16:0),78646,ChEBI
+sphingomyelin (d18:2/23:1)*,sphingomyelin(d18:1/23:3),131460,ChEBI
+"sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*",Sphingomyelin (d18:1/16:0),78646,ChEBI
+"sphingomyelin (d17:2/16:0, d18:2/15:0)*",Sphingomyelin (d18:1/16:0),78646,ChEBI
+linolenoylcarnitine (c18:3)*,linoleylcarnitine,73072,ChEBI
+arachidoylcarnitine (c20)*,(R)-arachidoylcarnitine,84645,ChEBI
+eicosenoylcarnitine (c20:1)*,(R)-eicosanoylcarnitine,84645,ChEBI
+docosahexaenoylcarnitine (c22:6)*,"all-cis-7,10,13,16-docosatetraenoylcarnitine",73122,ChEBI
+docosapentaenoylcarnitine (c22:5n3)*,"all-cis-7,10,13,16-docosatetraenoylcarnitine",73122,ChEBI
+1-lignoceroyl-2-arachidonoyl-gpc (24:0/20:4)*,1-linoleoyl-2-arachidonoyl-GPC,84563,ChEBI
+"n,n,n-trimethyl-5-aminovalerate",2-Oxo-4-hydroxy-5-aminovalerate,1241,KEGG COMPOUND
+ethyl alpha-glucopyranoside,methyl alpha-D-glucopyranoside,320061,IUPAC
+cortolone glucuronide (1),20beta-Cortolone-3-glucuronide,88773,HMDB
+(n(1) + n(8))-acetylspermidine,N(8)-acetylspermidine,58535,UniProt
+5-dodecenoylcarnitine (c12:1),cis-5-dodecenoylcarnitine,73053,ChEBI
+2-butenoylglycine,N-butanoylglycine,89963,IUPAC
+3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-cmpfp)**,3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid,41254,HMDB
+3-hydroxystachydrine*,3-Hydroxystachydrine,1556,KEGG COMPOUND
+n-acetyl-2-aminooctanoate*,2-aminooctanoate,142420,IUPAC
+perfluorooctanoate (pfoa),perfluorooctane,38826,ChemIDplus
+glyco-beta-muricholate**,beta-muricholate,134119,UniProt
+3-formylindole,3-Formylindole,28238,ChemIDplus
+3-amino-2-piperidone,3-amino-2-piperidone,76341,ChEBI
+"n,n-dimethylalanine","N,N-dimethylalanine",77042,ChEBI
+3-indoleglyoxylic acid,3-indolylacrylic acid,132244,MetaCyc
+ethyl beta-glucopyranoside,ethyl beta-D-glucopyranosiduronic acid,87248,IUPAC
+2-hydroxysebacate,2-Hydroxysebacate,89312,HMDB
+ascorbic acid 3-sulfate*,Ascorbic acid,29073,KEGG COMPOUND
+6-bromotryptophan,5-bromotryptophan,133686,IUPAC
+1-carboxyethylphenylalanine,p-carboxymethylphenylalanine,228213,ChEBI
+2-naphthol sulfate,2-naphthol sulfate,167215,ChemIDplus
+4-ethylcatechol sulfate,2-ethylhexyl sulfate,87808,UniProt
+11beta-hydroxyandrosterone glucuronide,11beta-hydroxyandrosterone 3-glucuronide,88733,HMDB
+"n2-acetyl,n6,n6-dimethyllysine",N(6)-ACETYLLYSINE,17752,PDBeChem
+deoxycholic acid glucuronide,deoxycholic acid 24-glucuronide,137799,ChEBI
+4-allylcatechol sulfate,4-allylphenol sulfate,133096,ChEBI
+4-methylhexanoylglutamine,4-methyleneglutamic acid,48029,IUPAC
+glycoursodeoxycholic acid sulfate (1),Glycoursodeoxycholic acid 3-sulfate,89129,HMDB
+lithocholate sulfate (1),lithocholate 3-sulfate(2-),133940,ChEBI
+3-(methylthio)acetaminophen sulfate*,4-acetamido-3-methoxyphenyl sulfate,133502,IUPAC
+2-ketocaprylate,2-keto-n-caprylate,176689,ChEBI
+3-hydroxy-2-methylpyridine sulfate,"2-methyl-3-hydroxy-4,5-dihydroxymethylpyridine",16709,NIST Chemistry WebBook
+hydroxypalmitoyl sphingomyelin (d18:1/16:0(oh))**,sphingomyelin (d18:1(4E)/12:0),137334,ChEBI
+"hydroxy-n6,n6,n6-trimethyllysine*",N6-Acetyl-N6-hydroxylysine,17374,KEGG COMPOUND
+undecenoylcarnitine (c11:1),undecenoylcarnitines,132135,ChEBI
+3-decenoylcarnitine,decenoylcarnitine,86063,ChEBI
+palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0),N-palmitoyl-sphingosine,72959,ChEBI
+"3,5-dichloro-2,6-dihydroxybenzoic acid","3,5-dichloro-2-hydroxybenzoic acid",165214,SUBMITTER
+(s)-a-amino-omega-caprolactam,L-alpha-amino-epsilon-caprolactam,17342,ChEBI
+vanillic acid glycine,Vanillic acid,30816,KEGG COMPOUND
+1-methyl-5-imidazolelactate,1-methyl-Imidazole-5-acetic acid,70966,HMDB
+"3-bromo-5-chloro-2,6-dihydroxybenzoic acid*","3-bromo-4,5-dihydroxybenzoic acid",140242,IUPAC
+"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*",branched-chain fatty acids,35819,ChEBI
+decadienedioic acid (c10:2-dc)**,Decenedioic acid,89730,HMDB
+deoxycholic acid 12-sulfate*,Deoxycholic acid 3-sulfate,88888,HMDB
+"cis-3,4-methyleneheptanoylcarnitine",9-cis-3-hydroxyoctadecenoylcarnitine,73076,ChEBI
+n-acetyl-2-aminoadipate,N2-Acetyl-L-aminoadipate,31885,KEGG COMPOUND
+4-chlorobenzoic acid,4-Chlorobenzoic acid,30747,KEGG COMPOUND
+"2,4-di-tert-butylphenol","2,4-Tert-butylphenol",89188,HMDB
+3-hydroxyoctanoylcarnitine (1),3-Hydroxytetradecenoylcarnitine,89748,HMDB
+"n,n-dimethyl-pro-pro","N,N-dimethyl-D-proline",134398,ChEBI
+oxindolylalanine,oxindolylalanine,195382,ChEBI
