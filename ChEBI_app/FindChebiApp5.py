@@ -7,6 +7,7 @@ import base64
 
 indexName = 'compounds'
 
+# using environment variables for sensitive data
 es = Elasticsearch(
     "https://localhost:9200",
     basic_auth=("elastic", "*nLVGSfCz+3jr1OsIVeA"),
@@ -60,8 +61,10 @@ def main():
 
     sidebar_bg = get_base64_of_file('sidebar_bg.jpg')
 
+    # adding background image
     add_bg_from_local()
 
+    # addding background image to the sidebar 
     st.markdown(f"""
     <style>
     [data-testid="stSidebar"] {{
@@ -90,19 +93,24 @@ def main():
 
     st.markdown('<p class="main-title">Find Your Metabolite ChEBI ID!</p>', unsafe_allow_html=True)
 
+    # loading and displaying the logo image below the main title
     logo_path = 'Chebi_logo_image.png'
     st.image(logo_path, caption=None, width=100) 
 
+    # displaying the citation (from ChEBI) below the image
     st.markdown('<div class="citation">Hastings J, Owen G, Dekker A, Ennis M, Kale N, Muthukrishnan V, Turner S, Swainston N, Mendes P, Steinbeck C. (2016). ChEBI in 2016: Improved services and an expanding collection of metabolites. Nucleic Acids Res.</div>', unsafe_allow_html=True)
     st.markdown('')
     
+    # navigating sidebar dropdown
     st.sidebar.markdown('<p class="yellow-title">Select Tool</p>', unsafe_allow_html=True)
     page_options = ["About", "Single Search", "Multi Search"]
     if 'active_page' not in st.session_state:
         st.session_state.active_page = 'About'
 
+    # updating the active page based on selection
     st.session_state.active_page = st.sidebar.selectbox("Choose a page:", page_options)
 
+    # displaying the page wanted based on the current state
     if st.session_state.active_page == 'About':
         st.markdown('<p class="yellow-title">About</p>', unsafe_allow_html=True)
         st.write("This is an online tool to infer the ChEBI ID of a chemical compound using its IUPAC name."
@@ -128,17 +136,18 @@ def main():
     elif st.session_state.active_page == 'Multi Search':
         st.markdown('<p class="yellow-title">Multi Search</p>', unsafe_allow_html=True)
         with st.form(key='list_form'):
+            # updating the instructions to reflect that each ID is printed on a new line
             id_list = st.text_area("Enter a list of Compound IDs (each ID on a new line)")
             submit_button = st.form_submit_button("Search")
         if submit_button and id_list:
             query_ids = id_list.strip().split('\n')
             all_results = []
             for compound_id in query_ids:
-                compound_id = compound_id.strip()  
+                compound_id = compound_id.strip() 
                 if compound_id:  
                     results = search(compound_id)
                     if results:
-                        result = results[0]  
+                        result = results[0] 
                         source = result.get('_source', {})
                         chebi_id = source.get('COMPOUND_ID', 'N/A')
                         name = source.get('NAME', 'N/A')
