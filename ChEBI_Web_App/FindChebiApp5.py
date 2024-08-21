@@ -165,7 +165,6 @@ def main():
                 csv = df.to_csv(index=False)
                 st.download_button("Download CSV", csv, "multi_search_results.csv", "text/csv")
                 st.subheader("Preview of Search Results")
-                df['COMPOUND_ID'] = df['COMPOUND_ID'].apply(lambda x: str(x).replace(',', ''))
                 st.write(df)
             else:
                 st.write("No results found for any of the input IDs.")
