@@ -15,6 +15,18 @@ The current MetaboAnalyst method for molecular ID conversion of compounds is lim
     
 * C) We aim to develop an extension to PathIntegrate which will provide the user an unsupervised utility for pathway-based multivariate analysis that can be benchmarked with synthetic data simulations.
 
+## Notable Tools Developed
+
+LLM metabolite to ChEBI ID name mapping tool
+* This tool uses semantic searching to map metabolite names to IDs
+* The website interface is availabe @https://chebiapp-ew6z7dzzp7pxc3h52p8v3p.streamlit.app/
+* Currently, we are working to get the backend ElasticSearch server online
+
+Unsupservised PathIntegrate Workflow: 
+* This is an extension to the PathIntegrate package by Wieder et al.
+* The code is provided: pathintegrate_extension.py
+* There is also a bespoke tutorial provided detailing how to use the tool: Methods_5_Unsupervised_Tutorial.ipynb
+
 ## Project Workflow
 
 The 3 aims above map the 3 sections that were developed in the PathIntegrate Workflow:
@@ -22,8 +34,8 @@ The 3 aims above map the 3 sections that were developed in the PathIntegrate Wor
 
 ![Overall Workflow](Overall_Workflow.png)
 
-# Requirements for the Project
+## Requirements for the Project
 
-# Workflow
+## Workflow
 
-# Abstract
+## Abstract
