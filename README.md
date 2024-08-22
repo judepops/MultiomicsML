@@ -20,7 +20,7 @@ The current MetaboAnalyst method for molecular ID conversion of compounds is lim
 The 3 aims above map the 3 sections that were developed in the PathIntegrate Workflow:
 
 
-![Description of the image](Overall_Workflow.png.png)
+![Overall Workflow](Overall_Workflow.png)
 
 # Requirements for the Project
 
